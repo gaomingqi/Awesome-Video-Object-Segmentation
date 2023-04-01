@@ -1,9 +1,8 @@
 # Awesome Video Object Segmentation (2022-Present)
-A curated list of awesome video object segmentation works since 2022
 
 ![](https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?style=flat-square&colorB=abcdef)
 
-VOS works before 2022 can be found in our review paper: "Deep Learning for Video Object Segmentation: A Review" [[paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)] or [[this page](https://github.com/gaomingqi/VOS-Review)]. 
+A curated list of awesome video object segmentation (VOS) works since 2022. VOS works before 2022 can be found in our review paper: "Deep Learning for Video Object Segmentation: A Review" [[paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)] or [[this page](https://github.com/gaomingqi/VOS-Review)]. 
 
 ## Contributing
 
