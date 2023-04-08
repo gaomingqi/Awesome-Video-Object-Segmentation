@@ -2,7 +2,9 @@
 
 ![](https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?style=flat-square&colorB=abcdef)
 
-A curated list of awesome video object segmentation (VOS) works since 2022. VOS works before 2022 can be found in our review paper: "Deep Learning for Video Object Segmentation: A Review" [[paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)] or [[this page](https://github.com/gaomingqi/VOS-Review)]. 
+A curated list of awesome video object segmentation (VOS) works since 2022. 
+
+>VOS works before 2022 can be found in our review paper: "Deep Learning for Video Object Segmentation: A Review" [[paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)] or [[this page](https://github.com/gaomingqi/VOS-Review)]. 
 
 ## Contributing
 
@@ -15,13 +17,13 @@ $\colorbox{mistyrose}{{\color{dimgray}\textsf{ Rvos }}}$: Referring VOS
 ## 2023
 
 #### Arxiv
-- [Generalist model, evaluated on $\colorbox{palegreen}{{\color{dimgray}\textsf{ Svos }}}$] SegGPT: Segmenting Everything In Context [[paper](https://arxiv.org/pdf/2304.03284.pdf)] [[code](https://github.com/baaivision/Painter)]
+- [:hammer_and_wrench: Generalist model, evaluated on $\colorbox{palegreen}{{\color{dimgray}\textsf{ Svos }}}$] SegGPT: Segmenting Everything In Context [[paper](https://arxiv.org/pdf/2304.03284.pdf)] [[code](https://github.com/baaivision/Painter)]
 
 - Reliability-Hierarchical Memory Network for
-Scribble-Supervised Video Object Segmentation [[paper](https://arxiv.org/pdf/2303.14384.pdf)][[code](https://github.com/mkg1204/RHMNet-for-SSVOS)]
+Scribble-Supervised Video Object Segmentation [[paper](https://arxiv.org/pdf/2303.14384.pdf)] [[code](https://github.com/mkg1204/RHMNet-for-SSVOS)]
 
 #### CVPR 2023
-- [Generalist model, evaluated on $\colorbox{palegreen}{{\color{dimgray}\textsf{ Svos }}}$ $\colorbox{mistyrose}{{\color{dimgray}\textsf{ Rvos }}}$]  Universal Instance Perception as Object Discovery and Retrieval [[paper](https://arxiv.org/pdf/2303.06674.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
+- [:hammer_and_wrench: Generalist model, evaluated on $\colorbox{palegreen}{{\color{dimgray}\textsf{ Svos }}}$ $\colorbox{mistyrose}{{\color{dimgray}\textsf{ Rvos }}}$]  Universal Instance Perception as Object Discovery and Retrieval [[paper](https://arxiv.org/pdf/2303.06674.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
    
 - $\colorbox{palegreen}{{\color{dimgray}\textsf{ Svos }}}$ Two-shot Video Object Segmetnation [[paper](https://arxiv.org/pdf/2303.12078.pdf)] [[code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation)]
 
