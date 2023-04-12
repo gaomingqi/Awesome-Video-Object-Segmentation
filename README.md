@@ -17,6 +17,9 @@ $\colorbox{mistyrose}{{\color{dimgray}\textsf{ Rvos }}}$: Referring VOS
 ## 2023
 
 #### Arxiv
+
+- $\colorbox{paleturquoise}{{\color{dimgray}\textsf{ Uvos }}}$ Co-attention Propagation Network for Zero-Shot Video Object Segmentation [[paper](https://arxiv.org/pdf/2304.03910.pdf)] [[code](https://github.com/NUST-Machine-Intelligence-Laboratory/HCPN)]
+
 - [:fire: Generalist model, evaluated on $\colorbox{palegreen}{{\color{dimgray}\textsf{ Svos }}}$] SegGPT: Segmenting Everything In Context [[paper](https://arxiv.org/pdf/2304.03284.pdf)] [[code](https://github.com/baaivision/Painter)]
 
 - Reliability-Hierarchical Memory Network for
