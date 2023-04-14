@@ -26,6 +26,11 @@ $\colorbox{mistyrose}{{\color{dimgray}\textsf{ Rvos }}}$: Referring VOS
 Scribble-Supervised Video Object Segmentation [[paper](https://arxiv.org/pdf/2303.14384.pdf)] [[code](https://github.com/mkg1204/RHMNet-for-SSVOS)]
 
 #### CVPR 2023
+
+- $\colorbox{paleturquoise}{{\color{dimgray}\textsf{ Uvos }}}$ MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation [[paper](https://arxiv.org/pdf/2304.05930.pdf)] [[code]](https://rkyuca.github.io/medvt/)
+
+- $\colorbox{palegreen}{{\color{dimgray}\textsf{ Svos }}}$ Boosting Video Object Segmentation via Space-time Correspondence Learning [[paper](https://arxiv.org/pdf/2304.06211.pdf)] [[code](https://github.com/wenguanwang/VOS_Correspondence)]
+
 - [:fire: Generalist model, evaluated on $\colorbox{palegreen}{{\color{dimgray}\textsf{ Svos }}}$ $\colorbox{mistyrose}{{\color{dimgray}\textsf{ Rvos }}}$]  Universal Instance Perception as Object Discovery and Retrieval [[paper](https://arxiv.org/pdf/2303.06674.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
    
 - $\colorbox{palegreen}{{\color{dimgray}\textsf{ Svos }}}$ Two-shot Video Object Segmetnation [[paper](https://arxiv.org/pdf/2303.12078.pdf)] [[code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation)]
