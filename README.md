@@ -21,7 +21,7 @@ We employ squares with different colours and abbreviates to highlight different 
 ## 2023
 
 #### Arxiv 2023
-|<img width=87/>||<img width=87/>|
+|<img width=87/>||<img width=110/>|
 | :-----| :---- | :---- |
 |:blue_square: `SVOS`|Co-attention Propagation Network for Zero-Shot Video Object Segmentation|[[paper](https://arxiv.org/pdf/2304.03910.pdf)] [[code](https://github.com/NUST-Machine-Intelligence-Laboratory/HCPN)]|
 |:blue_square: `SVOS`|SegGPT: Segmenting Everything In Context (:fire: Generalist model)|[[paper](https://arxiv.org/pdf/2304.03284.pdf)] [[code](https://github.com/baaivision/Painter)]|
