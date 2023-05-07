@@ -21,7 +21,7 @@ We employ squares with different colours and abbreviates to highlight different 
 ## 2023
 
 #### Arxiv 2023
-|<img width=87/>||<img width=110/>|
+|<img width=87/>||<img width=115/>|
 | :-----| :---- | :---- |
 |:blue_square: `SVOS`|Co-attention Propagation Network for Zero-Shot Video Object Segmentation|[[paper](https://arxiv.org/pdf/2304.03910.pdf)] [[code](https://github.com/NUST-Machine-Intelligence-Laboratory/HCPN)]|
 |:blue_square: `SVOS`|SegGPT: Segmenting Everything In Context (:fire: Generalist model)|[[paper](https://arxiv.org/pdf/2304.03284.pdf)] [[code](https://github.com/baaivision/Painter)]|
@@ -29,7 +29,7 @@ We employ squares with different colours and abbreviates to highlight different 
 
 #### CVPR 2023
 
-|<img width=87/>||<img width=110/>|
+|<img width=87/>||<img width=115/>|
 | :-----| :---- | :---- |
 |:green_square: `UVOS`|MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation|[[paper](https://arxiv.org/pdf/2304.05930.pdf)] [[code](https://rkyuca.github.io/medvt/)]|
 |:blue_square: `SVOS` |Boosting Video Object Segmentation via Space-time Correspondence Learning| [[paper](https://arxiv.org/pdf/2304.06211.pdf)] [[code](https://github.com/wenguanwang/VOS_Correspondence)]|
@@ -40,12 +40,12 @@ We employ squares with different colours and abbreviates to highlight different 
 
 #### AAAI 2023
 
-|<img width=87/>||<img width=110/>|
+|<img width=87/>||<img width=115/>|
 | :-----| :---- | :---- |
 |:blue_square: `SVOS` |Learning to Learn Better for Video Object Segmentation |[[paper](https://arxiv.org/pdf/2212.02112.pdf)]|
 
 #### Journals 2023
-|<img width=87/>|||<img width=110/>|
+|<img width=87/>|||<img width=115/>|
 | :-----| :----: | :---- | :---- |
 |:orange_square: `RVOS`|TPAMI|VLT: Vision-Language Transformer and Query Generation for Referring Segmentation |[[paper](https://ieeexplore.ieee.org/abstract/document/9932025)]|
 |:orange_square: `RVOS` |TPAMI|Local-Global Context Aware Transformer for Language-Guided Video Segmentation |[[paper](https://ieeexplore.ieee.org/abstract/document/10083244)] [[code](https://github.com/leonnnop/Locater)]|
@@ -54,13 +54,13 @@ We employ squares with different colours and abbreviates to highlight different 
 
 #### NeurIPS 2022
 
-|<img width=87/>||<img width=110/>|
+|<img width=87/>||<img width=115/>|
 | :-----| :---- | :---- |
 |:blue_square: `SVOS` |Decoupling Features in Hierarchical Propagation for Video Object Segmentation |[[paper](https://arxiv.org/pdf/2210.09782.pdf)]|
 ||Self-supervised Amodal Video Object Segmentation |[[paper](https://arxiv.org/pdf/2210.12733.pdf)]|
 
 #### ECCV 2022
-|<img width=87/>||<img width=110/>|
+|<img width=87/>||<img width=115/>|
 | :-----| :---- | :---- |
 |:blue_square: `SVOS` |XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model |[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880633.pdf)] [[code](https://github.com/hkchengrex/XMem)]|
 |:blue_square: `SVOS` |BATMAN: Bilateral Attention Transformer in Motion-Appearance Neighboring Space for Video Object Segmentation |[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890603.pdf)]|
@@ -70,7 +70,7 @@ We employ squares with different colours and abbreviates to highlight different 
 |:green_square: `UVOS`  |Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation |[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940584.pdf)]|
 
 #### CVPR 2022
-|<img width=87/>||<img width=110/>|
+|<img width=87/>||<img width=115/>|
 | :-----| :---- | :---- |
 |:orange_square: `RVOS` |End-to-End Referring Video Object Segmentation With Multimodal Transformers |[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Botach_End-to-End_Referring_Video_Object_Segmentation_With_Multimodal_Transformers_CVPR_2022_paper.pdf)] [[code](https://github.com/mttr2021/MTTR)]|
 |:orange_square: `RVOS` |Language As Queries for Referring Video Object Segmentation |[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Language_As_Queries_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.pdf)] [[code](https://github.com/wjn922/ReferFormer)]|
@@ -84,7 +84,7 @@ We employ squares with different colours and abbreviates to highlight different 
 ||YouMVOS: An Actor-Centric Multi-Shot Video Object Segmentation Dataset |[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_YouMVOS_An_Actor-Centric_Multi-Shot_Video_Object_Segmentation_Dataset_CVPR_2022_paper.pdf)] [[DATASET](https://donglaiw.github.io/proj/youMVOS/)]|
 
 #### AAAI 2022
-|<img width=87/>||<img width=110/>|
+|<img width=87/>||<img width=115/>|
 | :-----| :---- | :---- |
 |:blue_square: `SVOS` |Siamese Network with Interactive Transformer for Video Object Segmentation |[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20009)] [[code](https://github.com/LANMNG/SITVOS)]|
 |:blue_square: `SVOS` |Reliable Propagation-Correction Modulation for Video Object Segmentation |[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20200)]|
@@ -93,7 +93,7 @@ We employ squares with different colours and abbreviates to highlight different 
 
 #### Journals 2023
 
-|<img width=87/>|||<img width=110/>|
+|<img width=87/>|||<img width=115/>|
 | :-----| :----: | :---- | :---- |
 |:blue_square: `SVOS` |TPAMI|Video Object Segmentation Using Kernelized Memory Network With Multiple Kernels |[[paper](https://ieeexplore.ieee.org/document/9745367)]|
 |:blue_square: `SVOS` |TIP|From Pixels to Semantics: Self-Supervised Video Object Segmentation With Multiperspective Feature Mining |[[paper](https://ieeexplore.ieee.org/document/9875116)]|
