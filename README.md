@@ -24,6 +24,8 @@ We employ squares with different colours and abbreviates to highlight different 
 
 ### Arxiv 2023
 
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2305.04470) / [DATASET](https://github.com/yoxu515/VIPOSeg-Benchmark) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Video Object Segmentation in Panoptic Wild Scenes
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.03910.pdf) / [code](https://github.com/NUST-Machine-Intelligence-Laboratory/HCPN) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Co-attention Propagation Network for Zero-Shot Video Object Segmentation 
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.03284.pdf) / [code](https://github.com/baaivision/Painter) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SegGPT: Segmenting Everything In Context (:fire: Generalist model)
