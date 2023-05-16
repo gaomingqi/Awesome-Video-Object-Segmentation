@@ -22,7 +22,7 @@ We indicate different VOS types with coloured squares:
 
 ---
 
-## Arxiv 2023
+### Arxiv 2023
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2305.04470) / [DATASET](https://github.com/yoxu515/VIPOSeg-Benchmark) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Video Object Segmentation in Panoptic Wild Scenes
 
@@ -32,7 +32,9 @@ We indicate different VOS types with coloured squares:
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.14384.pdf) / [code](https://github.com/mkg1204/RHMNet-for-SSVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reliability-Hierarchical Memory Network for Scribble-Supervised Video Object Segmentation
 
-## CVPR 2023
+---
+
+### CVPR 2023
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.05930.pdf) / [code](https://rkyuca.github.io/medvt/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation
 
@@ -46,11 +48,15 @@ We indicate different VOS types with coloured squares:
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2212.06826.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Look Before You Match: Instance Understanding Matters in Video Object Segmentation
 
-## AAAI 2023
+---
+
+### AAAI 2023
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2212.02112.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning to Learn Better for Video Object Segmentation
 
-## Journals 2023
+---
+
+### Journals 2023
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/9932025) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` VLT: Vision-Language Transformer and Query Generation for Referring Segmentation
 
@@ -58,13 +64,15 @@ We indicate different VOS types with coloured squares:
 
 ---
 
-## NeurIPS 2022
+### NeurIPS 2022
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2210.12733.pdf) / [code](https://github.com/z-x-yang/AOT)  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decoupling Features in Hierarchical Propagation for Video Object Segmentation
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2210.09782.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Self-supervised Amodal Video Object Segmentation
 
-## ECCV 2022
+---
+
+### ECCV 2022
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880633.pdf) / [code](https://github.com/hkchengrex/XMem) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model
 
@@ -78,7 +86,9 @@ We indicate different VOS types with coloured squares:
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940584.pdf)  / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation 
 
-## CVPR 2022
+---
+
+### CVPR 2022
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Botach_End-to-End_Referring_Video_Object_Segmentation_With_Multimodal_Transformers_CVPR_2022_paper.pdf) / [code](https://github.com/mttr2021/MTTR) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; End-to-End Referring Video Object Segmentation With Multimodal Transformers 
 
@@ -100,7 +110,9 @@ We indicate different VOS types with coloured squares:
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_YouMVOS_An_Actor-Centric_Multi-Shot_Video_Object_Segmentation_Dataset_CVPR_2022_paper.pdf) / [DATASET](https://donglaiw.github.io/proj/youMVOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; YouMVOS: An Actor-Centric Multi-Shot Video Object Segmentation Dataset
 
-## AAAI 2022
+---
+
+### AAAI 2022
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20009) / [code](https://github.com/LANMNG/SITVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Siamese Network with Interactive Transformer for Video Object Segmentation 
 
@@ -110,7 +122,9 @@ We indicate different VOS types with coloured squares:
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20011) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier 
 
-## Journals 2022
+---
+
+### Journals 2022
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/document/9745367) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Video Object Segmentation Using Kernelized Memory Network With Multiple Kernels
 
