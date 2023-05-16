@@ -8,9 +8,9 @@ A curated list of awesome video object segmentation (VOS) works since 2022. VOS 
 
 ## Contributing
 
-Please feel free to send us pull requests or email (mingqi.gao@outlook.com) to add VOS works :partying_face:.
+Please feel free to send us pull requests or email (mingqi.gao@outlook.com) to add VOS works.
 
-We employ coloured squares and abbreviates to highlight different VOS types:
+We indicate different VOS types with coloured squares:
 
 :blue_square: `SVOS`: Semi-Supervised VOS (also termed as One-Shot VOS)
 
