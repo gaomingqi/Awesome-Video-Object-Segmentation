@@ -48,6 +48,8 @@ We indicate different VOS types with coloured squares:
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2212.06826.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Look Before You Match: Instance Understanding Matters in Video Object Segmentation
 
+:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2212.06200.pdf) / [DATASET](https://www.vostdataset.org/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Breaking the “Object” in Video Object Segmentation
+
 ---
 
 ### AAAI 2023
