@@ -6,11 +6,9 @@ A curated list of awesome video object segmentation (VOS) works since 2022. VOS 
 
 >Deep Learning for Video Object Segmentation: A Review <br>Artificial Intelligence Review. 2023.&nbsp;&nbsp;[paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf) / [project page](https://github.com/gaomingqi/VOS-Review) 
 
-## Contributing
+:dancers: Please feel free to send us pull requests to add VOS works.
 
-Please feel free to send us pull requests to add VOS works.
-
-We indicate different VOS types with coloured squares:
+:teddy_bear: We indicate different VOS types with coloured squares:
 
 :blue_square: `SVOS`: Semi-Supervised VOS (also termed as One-Shot VOS)
 
