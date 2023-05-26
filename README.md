@@ -6,8 +6,6 @@ A curated list of awesome video object segmentation (VOS) works since 2022. VOS 
 
 >Deep Learning for Video Object Segmentation: A Review / [paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf) / [project page](https://github.com/gaomingqi/VOS-Review) 
 
-:dancers: Please feel free to send us pull requests to add VOS works.
-
 :teddy_bear: We indicate different VOS types with coloured squares:
 
 :blue_square: `SVOS`: Semi-Supervised VOS (also termed as One-Shot VOS)
@@ -17,6 +15,8 @@ A curated list of awesome video object segmentation (VOS) works since 2022. VOS 
 :orange_square: `RVOS`: Referring VOS (also termed as Language-Guided VOS)
 
 :white_large_square: `XVOS`: Other types of VOS
+
+:teddy_bear: Please feel free to send us pull requests to add VOS works.
 
 ---
 
@@ -154,7 +154,4 @@ End of the list. :seedling:
 
 VOS papers and datasets before 2022 could be found below:
 
->Deep Learning for Video Object Segmentation: A Review <br>Artificial Intelligence Review. 2023.&nbsp;&nbsp;[paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf) / [project page](https://github.com/gaomingqi/VOS-Review) 
-
-
-
+>Deep Learning for Video Object Segmentation: A Review / [paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf) / [project page](https://github.com/gaomingqi/VOS-Review) 
