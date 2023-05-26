@@ -23,6 +23,9 @@ A curated list of awesome video object segmentation (VOS) works since 2022. VOS 
 ### Arxiv 2023
 
 
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.16318.pdf) / [code](https://github.com/OpenGVLab/MUTR) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referred by Multi-Modality: A Unified Temporal
+Transformer for Video Object Segmentation (Also audio-guided VOS!) 
+
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.12659.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2305.06558) / [code](https://github.com/z-x-yang/Segment-and-Track-Anything) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Segment and Track Anything
