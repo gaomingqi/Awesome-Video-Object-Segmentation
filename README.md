@@ -23,6 +23,8 @@ A curated list of awesome video object segmentation (VOS) works since 2022. VOS 
 ### Arxiv 2023
 
 
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2305.17011) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation
+
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.16318.pdf) / [code](https://github.com/OpenGVLab/MUTR) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referred by Multi-Modality: A Unified Temporal
 Transformer for Video Object Segmentation (Also support audio-guided VOS!) 
 
