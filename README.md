@@ -22,6 +22,12 @@ A curated list of awesome video object segmentation (VOS) works since 2022. VOS 
 
 ### Arxiv 2023
 
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2307.00997.pdf) / [code](https://github.com/LancasterLi/RefSAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; RefSAM: Efficiently Adapting Segmenting Anything Model for
+Referring Video Object Segmentation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2307.00536.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referring Video Object Segmentation with Inter-Frame Interaction and Cross-Modal Correlation
+
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2306.12048.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Online Unsupervised Video Object Segmentation
 via Contrastive Motion Clustering
 
