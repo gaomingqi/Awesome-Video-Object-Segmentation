@@ -1,4 +1,4 @@
-# Awesome Video Object Segmentation (2022-Present)
+# Awesome Video Object Segmentation
 
 ![](https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?style=flat-square&colorB=abcdef)
 
