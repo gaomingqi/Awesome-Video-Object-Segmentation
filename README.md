@@ -41,15 +41,17 @@ Transformer for Video Object Segmentation (Also support audio-guided VOS!)
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2304.11968) / [code](https://github.com/gaomingqi/Track-Anything) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;  Track Anything: Segment Anything Meets Videos
 
+:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.14384.pdf) / [code](https://github.com/mkg1204/RHMNet-for-SSVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reliability-Hierarchical Memory Network for Scribble-Supervised Video Object Segmentation
+
+---
+
+### ICCV 2023
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2211.10181.pdf) / [DATASET](https://lingyihongfd.github.io/lvos.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LVOS: A Benchmark for Long-term Video Object Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2302.01872) / [DATASET](https://github.com/henghuiding/MOSE-api) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MOSE: A New Dataset for Video Object Segmentation in Complex Scenes
 
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.03910.pdf) / [code](https://github.com/NUST-Machine-Intelligence-Laboratory/HCPN) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Co-attention Propagation Network for Zero-Shot Video Object Segmentation 
-
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.03284.pdf) / [code](https://github.com/baaivision/Painter) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SegGPT: Segmenting Everything In Context (:fire:`generalist model`)
-
-:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.14384.pdf) / [code](https://github.com/mkg1204/RHMNet-for-SSVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reliability-Hierarchical Memory Network for Scribble-Supervised Video Object Segmentation
 
 ---
 
@@ -84,6 +86,8 @@ Transformer for Video Object Segmentation (Also support audio-guided VOS!)
 ---
 
 ### Journals 2023
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10105896) / [code](https://github.com/NUST-Machine-Intelligence-Laboratory/HCPN) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TIP` Hierarchical Co-Attention Propagation Network for Zero-Shot Video Object Segmentation 
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2306.12048.pdf) / [code](https://github.com/xilin1991/CluterNet) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TCSVT` Online Unsupervised Video Object Segmentation
 via Contrastive Motion Clustering
