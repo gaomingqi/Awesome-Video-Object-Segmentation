@@ -18,9 +18,9 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 :teddy_bear: Please feel free to send us pull requests to add VOS works.
 
----
-
 ### Arxiv 2023
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.13974) / [code](https://github.com/jiawen-zhu/HQTrack) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Tracking Anything in High Quality
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.01197) / [code](https://github.com/SysCV/sam-pt) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Segment Anything Meets Point Tracking
 
