@@ -55,7 +55,7 @@ Transformer for Video Object Segmentation (Also support audio-guided VOS!)
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2302.01872) / [DATASET](https://github.com/henghuiding/MOSE-api) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MOSE: A New Dataset for Video Object Segmentation in Complex Scenes
 
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.03284.pdf) / [code](https://github.com/baaivision/Painter) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SegGPT: Segmenting Everything In Context (:fire:`generalist model`)
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.03284.pdf) / [code](https://github.com/baaivision/Painter) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SegGPT: Segmenting Everything In Context (:fire:`multi-task model`) 
 
 ---
 
@@ -65,7 +65,9 @@ Transformer for Video Object Segmentation (Also support audio-guided VOS!)
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.06211.pdf) / [code](https://github.com/wenguanwang/VOS_Correspondence) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Boosting Video Object Segmentation via Space-time Correspondence Learning
 
-:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.06674.pdf) / [code](https://github.com/MasterBin-IIAU/UNINEXT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Instance Perception as Object Discovery and Retrieval (:fire:`generalist model`) 
+:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.06674.pdf) / [code](https://github.com/MasterBin-IIAU/UNINEXT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Instance Perception as Object Discovery and Retrieval (:fire:`multi-task model`) 
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Athar_TarViS_A_Unified_Approach_for_Target-Based_Video_Segmentation_CVPR_2023_paper.pdf) / [code](https://github.com/Ali2500/TarViS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; TarViS: A Unified Approach for Target-Based Video Segmentation (:fire:`multi-task model`) 
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.12078.pdf) / [code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Two-shot Video Object Segmetnation
 
