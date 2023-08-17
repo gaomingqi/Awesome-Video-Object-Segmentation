@@ -55,7 +55,7 @@ Transformer for Video Object Segmentation (Also support audio-guided VOS!)
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.15958) / [code](https://github.com/max810/XMem2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; XMem++: Production-level Video Segmentation From Few Annotated Frames
 
-:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://drive.google.com/file/d/1WRanGRaYPpaNfrwq4xRq0sfmiJLSr9-b/view) / [DATASET](https://henghuiding.github.io/MeViS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.08544) / [DATASET](https://henghuiding.github.io/MeViS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.13537) / [code](https://github.com/bo-miao/SgMg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Spectrum-guided Multi-granularity Referring Video Object Segmentation
 
