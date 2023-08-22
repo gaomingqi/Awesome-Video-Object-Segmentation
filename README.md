@@ -63,6 +63,8 @@ Transformer for Video Object Segmentation (Also support audio-guided VOS!)
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.09356) / [code](https://github.com/wudongming97/OnlineRefer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation
 
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.09903) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Scalable Video Object Segmentation with Simplified Framework
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2211.10181.pdf) / [DATASET](https://lingyihongfd.github.io/lvos.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LVOS: A Benchmark for Long-term Video Object Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2302.01872) / [DATASET](https://github.com/henghuiding/MOSE-api) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MOSE: A New Dataset for Video Object Segmentation in Complex Scenes
