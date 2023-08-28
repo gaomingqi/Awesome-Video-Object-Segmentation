@@ -20,6 +20,8 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ### Arxiv 2023
 
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.13505) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation
+
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.04162) / [code](https://github.com/lab206/EPCFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.02162) / [code](https://github.com/wangbo-zhao/WRVOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Referring Video Object Segmentation from Weak Annotation
@@ -55,21 +57,23 @@ Transformer for Video Object Segmentation (Also support audio-guided VOS!)
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2207.01203) / [code](https://github.com/lxa9867/R2VOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Robust Referring Video Object Segmentation with Cyclic Structural Consensus
 
-:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.08544) / [DATASET](https://henghuiding.github.io/MeViS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions
-
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.13537) / [code](https://github.com/bo-miao/SgMg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Spectrum-guided Multi-granularity Referring Video Object Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.09356) / [code](https://github.com/wudongming97/OnlineRefer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.08544) / [DATASET](https://henghuiding.github.io/MeViS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.13266) / [code](https://github.com/yoxu515/MITS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation (:fire:`versatile model`)
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.15958) / [code](https://github.com/max810/XMem2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; XMem++: Production-level Video Segmentation From Few Annotated Frames
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.09903) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Scalable Video Object Segmentation with Simplified Framework
 
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.03284.pdf) / [code](https://github.com/baaivision/Painter) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SegGPT: Segmenting Everything In Context (:fire:`versatile model`) 
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2211.10181.pdf) / [DATASET](https://lingyihongfd.github.io/lvos.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LVOS: A Benchmark for Long-term Video Object Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2302.01872) / [DATASET](https://github.com/henghuiding/MOSE-api) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MOSE: A New Dataset for Video Object Segmentation in Complex Scenes
-
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.03284.pdf) / [code](https://github.com/baaivision/Painter) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SegGPT: Segmenting Everything In Context (:fire:`multi-task model`) 
 
 ---
 
@@ -79,9 +83,9 @@ Transformer for Video Object Segmentation (Also support audio-guided VOS!)
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.06211.pdf) / [code](https://github.com/wenguanwang/VOS_Correspondence) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Boosting Video Object Segmentation via Space-time Correspondence Learning
 
-:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.06674.pdf) / [code](https://github.com/MasterBin-IIAU/UNINEXT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Instance Perception as Object Discovery and Retrieval (:fire:`multi-task model`) 
+:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.06674.pdf) / [code](https://github.com/MasterBin-IIAU/UNINEXT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Instance Perception as Object Discovery and Retrieval (:fire:`versatile model`) 
 
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Athar_TarViS_A_Unified_Approach_for_Target-Based_Video_Segmentation_CVPR_2023_paper.pdf) / [code](https://github.com/Ali2500/TarViS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; TarViS: A Unified Approach for Target-Based Video Segmentation (:fire:`multi-task model`) 
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Athar_TarViS_A_Unified_Approach_for_Target-Based_Video_Segmentation_CVPR_2023_paper.pdf) / [code](https://github.com/Ali2500/TarViS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; TarViS: A Unified Approach for Target-Based Video Segmentation (:fire:`versatile model`) 
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.12078.pdf) / [code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Two-shot Video Object Segmetnation
 
