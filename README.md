@@ -53,10 +53,6 @@ Transformer for Video Object Segmentation (Also support audio-guided VOS!)
 
 ### ICCV 2023
 
-
-
-
-
 :green_square: `UVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://drive.google.com/file/d/1lAgg-j8d6EH1XYUz9htDaZDh4pxuIslb/edit) / [code](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DEVA: Tracking Anything with Decoupled Video Segmentation (:fire:`versatile model`)
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.06693) / [code](https://github.com/DLUT-yyc/Isomer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Isomer: Isomerous Transformer for Zero-Shot Video Object Segmentation
@@ -66,6 +62,8 @@ Transformer for Video Object Segmentation (Also support audio-guided VOS!)
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.13537) / [code](https://github.com/bo-miao/SgMg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Spectrum-guided Multi-granularity Referring Video Object Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.09356) / [code](https://github.com/wudongming97/OnlineRefer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.02041) / [code](https://github.com/hengliusky/Few_shot_RVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.08544) / [DATASET](https://henghuiding.github.io/MeViS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions
 
