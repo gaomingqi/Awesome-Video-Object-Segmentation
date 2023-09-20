@@ -14,7 +14,7 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 :orange_square: `RVOS`: Referring VOS (also termed as Language-Guided VOS)
 
-:red_square: `AVOS`: Audio-guided VOS (also termed Audio-Visual Video Segmentation)
+:red_square: `AVOS`: Audio-guided VOS (also termed as Audio-Visual Video Segmentation)
 
 :white_large_square: `XVOS`: Other types of VOS
 
@@ -24,7 +24,7 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ### Arxiv 2023
 
-:red_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.09709) / [code](https://github.com/aspirinone/CATR.github.io) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.09709) / [code](https://github.com/aspirinone/CATR.github.io) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.13505) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation
 
