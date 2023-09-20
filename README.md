@@ -22,7 +22,11 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-### Arxiv 2023
+Links for a quick jump: [ArXiv 2023](arxiv23), [ICCV 2023](iccv23), [CVPR 2023](cvpr23), [IJCAI 2023](ijcai23), [AAAI 2023](aaai23), [Journals 2023](j23), [NeurIPS 2022](neurips22), [ECCV 2022](eccv22), [CVPR 2022](cvpr22), [AAAI 2022](aaai22), [Journals 2022](j22)
+
+---
+
+### <span id="arxiv23">ArXiv 2023</span>
 
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.09709) / [code](https://github.com/aspirinone/CATR.github.io) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation
 
@@ -57,7 +61,7 @@ Transformer for Video Object Segmentation
 
 ---
 
-### ICCV 2023
+### <span id="iccv23">ICCV 2023</span>
 
 :green_square: `UVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.03903) / [code](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DEVA: Tracking Anything with Decoupled Video Segmentation (:fire:`versatile model`)
 
@@ -89,7 +93,7 @@ Transformer for Video Object Segmentation
 
 ---
 
-### CVPR 2023
+### <span id="cvpr23">CVPR 2023</span>
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.05930.pdf) / [code](https://rkyuca.github.io/medvt/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation
 
@@ -109,7 +113,7 @@ Transformer for Video Object Segmentation
 
 ---
 
-### IJCAI 2023
+### <span id="ijcai23">IJCAI 2023</span>
 
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.09501) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Discovering Sounding Objects by Audio Queries for Audio Visual Segmentation
 
@@ -117,13 +121,13 @@ Transformer for Video Object Segmentation
 
 ---
 
-### AAAI 2023
+### <span id="aaai23">AAAI 2023</span>
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2212.02112.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning to Learn Better for Video Object Segmentation
 
 ---
 
-### Journals 2023
+### <span id="j23">Journals 2023</span>
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10105896) / [code](https://github.com/NUST-Machine-Intelligence-Laboratory/HCPN) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TIP` Hierarchical Co-Attention Propagation Network for Zero-Shot Video Object Segmentation 
 
@@ -136,7 +140,7 @@ via Contrastive Motion Clustering
 
 ---
 
-### NeurIPS 2022
+### <span id="neurips22">NeurIPS 2022</span>
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2210.09782.pdf) / [code](https://github.com/z-x-yang/AOT)  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decoupling Features in Hierarchical Propagation for Video Object Segmentation
 
@@ -144,7 +148,7 @@ via Contrastive Motion Clustering
 
 ---
 
-### ECCV 2022
+### <span id="eccv22">ECCV 2022</span>
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880633.pdf) / [code](https://github.com/hkchengrex/XMem) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model
 
@@ -160,7 +164,7 @@ via Contrastive Motion Clustering
 
 ---
 
-### CVPR 2022
+### <span id="cvpr22">CVPR 2022</span>
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Botach_End-to-End_Referring_Video_Object_Segmentation_With_Multimodal_Transformers_CVPR_2022_paper.pdf) / [code](https://github.com/mttr2021/MTTR) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; End-to-End Referring Video Object Segmentation With Multimodal Transformers 
 
@@ -184,7 +188,7 @@ via Contrastive Motion Clustering
 
 ---
 
-### AAAI 2022
+### <span id="aaai22">AAAI 2022</span>
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20009) / [code](https://github.com/LANMNG/SITVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Siamese Network with Interactive Transformer for Video Object Segmentation 
 
@@ -196,7 +200,7 @@ via Contrastive Motion Clustering
 
 ---
 
-### Journals 2022
+### <span id="j22">Journals 2022</span>
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/document/9745367) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Video Object Segmentation Using Kernelized Memory Network With Multiple Kernels
 
