@@ -14,11 +14,17 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 :orange_square: `RVOS`: Referring VOS (also termed as Language-Guided VOS)
 
+:red_square: `AVOS`: Audio-guided VOS (also termed Audio-Visual Video Segmentation)
+
 :white_large_square: `XVOS`: Other types of VOS
 
 :teddy_bear: Please feel free to send us pull requests to add VOS works.
 
+---
+
 ### Arxiv 2023
+
+:red_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.09709) / [code](https://github.com/aspirinone/CATR.github.io) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.13505) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation
 
@@ -38,8 +44,8 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2305.17011) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation
 
-:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.16318.pdf) / [code](https://github.com/OpenGVLab/MUTR) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referred by Multi-Modality: A Unified Temporal
-Transformer for Video Object Segmentation (Also support audio-guided VOS!) 
+:orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.16318.pdf) / [code](https://github.com/OpenGVLab/MUTR) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referred by Multi-Modality: A Unified Temporal
+Transformer for Video Object Segmentation
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.12659.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model
 
@@ -104,6 +110,8 @@ Transformer for Video Object Segmentation (Also support audio-guided VOS!)
 ---
 
 ### IJCAI 2023
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.09501) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Discovering Sounding Objects by Audio Queries for Audio Visual Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2305.04470) / [DATASET](https://github.com/yoxu515/VIPOSeg-Benchmark) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Video Object Segmentation in Panoptic Wild Scenes
 
