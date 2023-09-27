@@ -34,6 +34,8 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ICCV 2023](#iccv23), [CVPR 2023
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.13505) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation
 
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.14786) / [code](https://github.com/suhwan-cho/TMO) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Treating Motion as Option with Output Selection for Unsupervised Video Object Segmentation
+
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.12659.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model
 
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.09709) / [code](https://github.com/aspirinone/CATR.github.io) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation
