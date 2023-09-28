@@ -71,6 +71,8 @@ Transformer for Video Object Segmentation
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.06693) / [code](https://github.com/DLUT-yyc/Isomer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Isomer: Isomerous Transformer for Zero-Shot Video Object Segmentation
 
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Su_Unsupervised_Video_Object_Segmentation_with_Online_Adversarial_Self-Tuning_ICCV_2023_paper.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unsupervised Video Object Segmentation with Online Adversarial Self-Tuning
+
 :green_square: `UVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.03903) / [code](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DEVA: Tracking Anything with Decoupled Video Segmentation (:fire:`versatile model`)
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.03473) / [code](https://github.com/Toneyaya/TempCD) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Temporal Collection and Distribution for Referring Video Object Segmentation
@@ -83,6 +85,8 @@ Transformer for Video Object Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.02041) / [code](https://github.com/hengliusky/Few_shot_RVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples
 
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Han_HTML_Hybrid_Temporal-scale_Multimodal_Learning_Framework_for_Referring_Video_Object_ICCV_2023_paper.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HTML: Hybrid Temporal-scale Multimodal Learning Framework for Referring Video Object Segmentation
+
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.08544) / [DATASET](https://henghuiding.github.io/MeViS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.13266) / [code](https://github.com/yoxu515/MITS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation (:fire:`versatile model`)
@@ -90,6 +94,8 @@ Transformer for Video Object Segmentation
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.15958) / [code](https://github.com/max810/XMem2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; XMem++: Production-level Video Segmentation From Few Annotated Frames
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.09903) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Scalable Video Object Segmentation with Simplified Framework
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_Alignment_Before_Aggregation_Trajectory_Memory_Retrieval_Network_for_Video_Object_ICCV_2023_paper.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Alignment Before Aggregation: Trajectory Memory Retrieval Network for Video Object Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.03284.pdf) / [code](https://github.com/baaivision/Painter) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SegGPT: Segmenting Everything In Context (:fire:`versatile model`) 
 
