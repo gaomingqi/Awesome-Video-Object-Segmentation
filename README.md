@@ -69,7 +69,7 @@ Transformer for Video Object Segmentation
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.11160) / [code](https://github.com/nankepan/VIPMT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Multi-grained Temporal Prototype Learning for Few-shot Video Object Segmentation
 
-:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.11796) / [code](https://github.com/SMSD75/Timetuning) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.11796) / [code](https://github.com/SMSD75/Timetuning) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations (`self-supervised learning for UVOS`)
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.06693) / [code](https://github.com/DLUT-yyc/Isomer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Isomer: Isomerous Transformer for Zero-Shot Video Object Segmentation
 
