@@ -38,6 +38,8 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ICCV 2023](#iccv23), [CVPR 2023
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.12659.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model
 
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.00132) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition
+
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.09709) / [code](https://github.com/aspirinone/CATR.github.io) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation
 
 :orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.16318.pdf) / [code](https://github.com/OpenGVLab/MUTR) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referred by Multi-Modality: A Unified Temporal
