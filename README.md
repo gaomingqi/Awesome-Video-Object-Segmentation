@@ -47,7 +47,7 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ICCV 2023](#iccv23), [CVPR 2023
 :orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.16318.pdf) / [code](https://github.com/OpenGVLab/MUTR) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referred by Multi-Modality: A Unified Temporal
 Transformer for Video Object Segmentation
 
-:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.04162) / [code](https://github.com/lab206/EPCFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation
+:orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.04162) / [code](https://github.com/lab206/EPCFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.02162) / [code](https://github.com/wangbo-zhao/WRVOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Referring Video Object Segmentation from Weak Annotation
 
