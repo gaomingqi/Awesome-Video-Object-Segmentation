@@ -160,10 +160,11 @@ Transformer for Video Object Segmentation
 
 ### <span id="j23">Journals 2023</span>
 
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10105896) / [code](https://github.com/NUST-Machine-Intelligence-Laboratory/HCPN) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TIP` Hierarchical Co-Attention Propagation Network for Zero-Shot Video Object Segmentation 
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/document/10298026) / [code](https://github.com/ZSVOS/HGPU) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TIP` Hierarchical Graph Pattern Understanding for Zero-Shot Video Object Segmentation
 
-:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2306.12048.pdf) / [code](https://github.com/xilin1991/CluterNet) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TCSVT` Online Unsupervised Video Object Segmentation
-via Contrastive Motion Clustering
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10159996) / [code](https://github.com/xilin1991/CluterNet) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TCSVT` Online Unsupervised Video Object Segmentation via Contrastive Motion Clustering
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10105896) / [code](https://github.com/NUST-Machine-Intelligence-Laboratory/HCPN) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TIP` Hierarchical Co-Attention Propagation Network for Zero-Shot Video Object Segmentation 
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/9932025) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` VLT: Vision-Language Transformer and Query Generation for Referring Segmentation
 
