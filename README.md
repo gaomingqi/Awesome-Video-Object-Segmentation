@@ -30,13 +30,13 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ACMMM 2023](#mm23), [ICCV 2023]
 
 :green_square: `UVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.17893) / [code](https://github.com/shvdiwnkozbw/SSL-UVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation
 
-:white_large_square: `XVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.07261) / [code](https://github.com/YRlin-12/Sketch-VOS-datasets) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sketch-based Video Object Segmentation: Benchmark and Analysis `Nov`
+:white_large_square: `XVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.07261) / [code](https://github.com/YRlin-12/Sketch-VOS-datasets) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sketch-based Video Object Segmentation: Benchmark and Analysis
 
 :white_large_square: `XVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.04414) / [code](https://eva-vos.compute.dtu.dk/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning the What and How of Annotation in Video Object Segmentation
 
 :blue_square: `SVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.12982) / [code](https://github.com/hkchengrex/Cutie) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Putting the Object Back into Video Object Segmentation
 
-:blue_square: `SVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.03967) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sub-token ViT Embedding via Stochastic Resonance Transformers (`show improvement on svos`)
+:blue_square: `SVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.03967) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sub-token ViT Embedding via Stochastic Resonance Transformers (show improvement on svos)
 
 :blue_square: `SVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.12303) / [DATASET](https://github.com/shilinyan99/PanoVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation
 
