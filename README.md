@@ -28,6 +28,8 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ACMMM 2023](#mm23), [ICCV 2023]
 
 ### <span id="arxiv23">ArXiv 2023 (Within the last 6 months)</span>
 
+:orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.18837) / [code](https://github.com/ChenHsing/VIDiff) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models (:fire: versatile model, support rvos) 
+
 :green_square: `UVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.17893) / [code](https://github.com/shvdiwnkozbw/SSL-UVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation
 
 :white_large_square: `XVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.07261) / [code](https://github.com/YRlin-12/Sketch-VOS-datasets) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sketch-based Video Object Segmentation: Benchmark and Analysis
@@ -36,7 +38,7 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ACMMM 2023](#mm23), [ICCV 2023]
 
 :blue_square: `SVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.12982) / [code](https://github.com/hkchengrex/Cutie) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Putting the Object Back into Video Object Segmentation
 
-:blue_square: `SVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.03967) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sub-token ViT Embedding via Stochastic Resonance Transformers (show improvement on svos)
+:blue_square: `SVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.03967) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sub-token ViT Embedding via Stochastic Resonance Transformers (support svos)
 
 :blue_square: `SVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.12303) / [DATASET](https://github.com/shilinyan99/PanoVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation
 
@@ -122,7 +124,7 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ACMMM 2023](#mm23), [ICCV 2023]
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.06211.pdf) / [code](https://github.com/wenguanwang/VOS_Correspondence) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Boosting Video Object Segmentation via Space-time Correspondence Learning
 
-:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.06674.pdf) / [code](https://github.com/MasterBin-IIAU/UNINEXT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Instance Perception as Object Discovery and Retrieval (:fire:`versatile model`) 
+:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.06674.pdf) / [code](https://github.com/MasterBin-IIAU/UNINEXT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Instance Perception as Object Discovery and Retrieval (:fire: versatile model) 
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Athar_TarViS_A_Unified_Approach_for_Target-Based_Video_Segmentation_CVPR_2023_paper.pdf) / [code](https://github.com/Ali2500/TarViS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; TarViS: A Unified Approach for Target-Based Video Segmentation (:fire:`versatile model`) 
 
