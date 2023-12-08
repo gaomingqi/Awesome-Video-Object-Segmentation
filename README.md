@@ -28,6 +28,8 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ACMMM 2023](#mm23), [ICCV 2023]
 
 ### <span id="arxiv23">ArXiv 2023 (Within the last 6 months)</span>
 
+:orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.01623) / [code](https://github.com/workforai/UniLSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Segmentation at Arbitrary Granularity with Language Instruction (:fire: versatile model, support rvos) 
+
 :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.18837) / [code](https://github.com/ChenHsing/VIDiff) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models (:fire: versatile model, support rvos) 
 
 :green_square: `UVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.17893) / [code](https://github.com/shvdiwnkozbw/SSL-UVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation
@@ -59,8 +61,6 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ACMMM 2023](#mm23), [ICCV 2023]
 :orange_square: `RVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.00997) / [code](https://github.com/LancasterLi/RefSAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation
 
 :white_large_square: `XVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.01197) / [code](https://github.com/SysCV/sam-pt) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Segment Anything Meets Point Tracking
-
-:orange_square: `RVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2306.08736) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation
 
 ---
 ### <span id="mm23">ACM MM 2023</span>
@@ -166,6 +166,8 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ACMMM 2023](#mm23), [ICCV 2023]
 
 
 ### <span id="earxiv">Earlier Arxiv 2023</span>
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2306.08736) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.12659.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model
 
