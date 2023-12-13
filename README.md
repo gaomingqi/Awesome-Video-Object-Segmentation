@@ -28,6 +28,8 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ACMMM 2023](#mm23), [ICCV 2023]
 
 ### <span id="arxiv23">ArXiv 2023 (Within the last 6 months)</span>
 
+:red_square: `AVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.06462) / [code](https://github.com/yannqi/COMBO-AVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation
+
 :orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.01623) / [code](https://github.com/workforai/UniLSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Segmentation at Arbitrary Granularity with Language Instruction (:fire: versatile model, support rvos) 
 
 :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.18837) / [code](https://github.com/ChenHsing/VIDiff) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models (:fire: versatile model, support rvos) 
