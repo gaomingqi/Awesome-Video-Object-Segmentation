@@ -28,6 +28,8 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [ACMMM 2023](#mm23), [ICCV 2023]
 
 ### <span id="arxiv23">ArXiv 2023 (Within the last 6 months)</span>
 
+:green_square: `UVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.11463) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Appearance-based Refinement for Object-Centric Motion Segmentation
+
 :blue_square: `SVOS` :orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.09158) / [code](https://github.com/FoundationVision/GLEE) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; General Object Foundation Model for Images and Videos at Scale
 
 :blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.08514) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; M3T: Multi-Scale Memory Matching for Video Object Segmentation and Tracking
