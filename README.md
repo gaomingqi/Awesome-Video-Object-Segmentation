@@ -28,6 +28,8 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [NeurIPS 2023](#nips23), [ACMMM 
 
 ### <span id="arxiv23">ArXiv 2023 (Within the last 6 months)</span>
 
+:orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.17448) / [code](https://github.com/jiawen-zhu/TrackGPT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Tracking with Human-Intent Reasoning
+
 :blue_square: `SVOS` :orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.15715) / [code](https://github.com/FoundationVision/UniRef) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces
 
 :green_square: `UVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.11463) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Appearance-based Refinement for Object-Centric Motion Segmentation
