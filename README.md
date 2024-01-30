@@ -22,13 +22,11 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv 2023](#arxiv23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv 2024](#arxiv24), [AAAI 2024](#aaai24), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 
-### <span id="arxiv23">ArXiv 2024 (Within the last 6 months)</span>
-
-
+### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
 :white_large_square: `XVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2401.14168) / [code](https://github.com/scott-yjyang/Vivim) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Vivim: a Video Vision Mamba for Medical Video Object Segmentation
 
@@ -75,6 +73,12 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [NeurIPS 2023](#nips23), [ACMMM 
 :orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.02162) / [code](https://github.com/wangbo-zhao/WRVOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Referring Video Object Segmentation from Weak Annotation
 
 ---
+### <span id="aaai24">AAAI 2024</span>
+:orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.16318.pdf) / [code](https://github.com/OpenGVLab/MUTR) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; paper / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Generalizable Fourier Augmentation for Unsupervised Video Object Segmentation
+
+---
 ### <span id="nips23">NeurIPS 2023</span>
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2305.17011) / [code](https://github.com/RobertLuo1/NeurIPS2023_SOC) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation
 
@@ -106,7 +110,7 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [NeurIPS 2023](#nips23), [ACMMM 
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Su_Unsupervised_Video_Object_Segmentation_with_Online_Adversarial_Self-Tuning_ICCV_2023_paper.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unsupervised Video Object Segmentation with Online Adversarial Self-Tuning
 
-:green_square: `UVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.03903) / [code](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DEVA: Tracking Anything with Decoupled Video Segmentation (:fire:`versatile model`)
+:green_square: `UVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.03903) / [code](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DEVA: Tracking Anything with Decoupled Video Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.03473) / [code](https://github.com/Toneyaya/TempCD) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Temporal Collection and Distribution for Referring Video Object Segmentation
 
@@ -122,7 +126,7 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [NeurIPS 2023](#nips23), [ACMMM 
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.08544) / [DATASET](https://henghuiding.github.io/MeViS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions
 
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.13266) / [code](https://github.com/yoxu515/MITS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation (:fire:`versatile model`)
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.13266) / [code](https://github.com/yoxu515/MITS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.15958) / [code](https://github.com/max810/XMem2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; XMem++: Production-level Video Segmentation From Few Annotated Frames
 
@@ -190,9 +194,6 @@ Links for a quick jump: [ArXiv 2023](#arxiv23), [NeurIPS 2023](#nips23), [ACMMM 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2306.08736) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.12659.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model
-
-:orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.16318.pdf) / [code](https://github.com/OpenGVLab/MUTR) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referred by Multi-Modality: A Unified Temporal
-Transformer for Video Object Segmentation
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2305.06558) / [code](https://github.com/z-x-yang/Segment-and-Track-Anything) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Segment and Track Anything
 
