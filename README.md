@@ -22,13 +22,11 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv 2024](#arxiv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [AAAI 2024](#aaai24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
-
-:white_large_square: `XVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.05917) / [code](https://pointvos.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Point-VOS: Pointing Up Video Object Segmentation
 
 :red_square: `AVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.02327) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Bootstrapping Audio-Visual Segmentation by Strengthening Audio Cues
 
@@ -62,14 +60,10 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), [CVPR 2024](#cvpr24), [AAAI 2024
 
 :blue_square: `SVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.03967) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sub-token ViT Embedding via Stochastic Resonance Transformers (support svos)
 
-:blue_square: `SVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.12303) / [DATASET](https://github.com/shilinyan99/PanoVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation
-
-:green_square: `UVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.14786) / [code](https://github.com/suhwan-cho/TMO) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Treating Motion as Option with Output Selection for Unsupervised Video Object Segmentation
-
-:red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.00132) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition
-
 ---
 ### <span id="cvpr24">CVPR 2024</span>
+
+:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.05917) / [code](https://pointvos.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Point-VOS: Pointing Up Video Object Segmentation
 
 :blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.18115) / [code](https://github.com/MinghanLi/UniVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniVS: Unified and Universal Video Segmentation with Prompts as Queries
 
@@ -200,6 +194,12 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), [CVPR 2024](#cvpr24), [AAAI 2024
 
 
 ### <span id="earxiv">Earlier Arxiv 2023</span>
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.12303) / [DATASET](https://github.com/shilinyan99/PanoVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.14786) / [code](https://github.com/suhwan-cho/TMO) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Treating Motion as Option with Output Selection for Unsupervised Video Object Segmentation
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.00132) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2308.13505) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation
 
