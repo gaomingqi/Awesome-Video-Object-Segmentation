@@ -48,8 +48,6 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 :red_square: `AVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.06462) / [code](https://github.com/yannqi/COMBO-AVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation
 
-:orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.01623) / [code](https://github.com/workforai/UniLSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Segmentation at Arbitrary Granularity with Language Instruction 
-
 :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.18837) / [code](https://github.com/ChenHsing/VIDiff) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models 
 
 :green_square: `UVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.17893) / [code](https://github.com/shvdiwnkozbw/SSL-UVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation
@@ -68,6 +66,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.00132) / [code](https://github.com/lxa9867/QSD) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Robust Audiovisual Segmentation in Complex Environments with Quantization-based Semantic Decomposition
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.04258) / [code](https://github.com/NiFangBaAGe/DATTT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Depth-aware Test-Time Training for Zero-shot Video Object Segmentation
+
+:orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.01623) / [code](https://github.com/workforai/UniLSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Segmentation at Arbitrary Granularity with Language Instruction
 
 :blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.18115) / [code](https://github.com/MinghanLi/UniVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniVS: Unified and Universal Video Segmentation with Prompts as Queries
 
