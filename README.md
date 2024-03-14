@@ -28,6 +28,10 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
+:blue_square: `SVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.08682) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework
+
+⬜ `XVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.06130) / [code](https://github.com/PinxueGuo/ClickVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ClickVOS: Click Video Object Segmentation
+
 :red_square: `AVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.02327) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Bootstrapping Audio-Visual Segmentation by Strengthening Audio Cues
 
 :white_large_square: `XVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2401.14168) / [code](https://github.com/scott-yjyang/Vivim) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Vivim: a Video Vision Mamba for Medical Video Object Segmentation
