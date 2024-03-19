@@ -28,7 +28,7 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
-:orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.04924) / [code & dataset](https://github.com/lxa9867/r2bench) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations
+:orange_square: `RVOS` :red_square: `AVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.04924) / [code & dataset](https://github.com/lxa9867/r2bench) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations
 
 :orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.12042) / [code](https://github.com/buxiangzhiren/VD-IT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation
 
