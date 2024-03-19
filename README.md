@@ -28,6 +28,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
+:orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.12042) / [code](https://github.com/buxiangzhiren/VD-IT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation
+
 :blue_square: `SVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.08682) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework
 
 ⬜ `XVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.06130) / [code](https://github.com/PinxueGuo/ClickVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ClickVOS: Click Video Object Segmentation
