@@ -97,7 +97,7 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 ### <span id="aaai24">AAAI 2024</span>
 :orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2305.16318.pdf) / [code](https://github.com/OpenGVLab/MUTR) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation
 
-:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; paper / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Generalizable Fourier Augmentation for Unsupervised Video Object Segmentation
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28295) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Generalizable Fourier Augmentation for Unsupervised Video Object Segmentation
 
 ---
 ### <span id="emnlp23">EMNLP 2023</span>
