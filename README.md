@@ -25,6 +25,12 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [AAAI 2024](#aaai24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
+### <span id="workshopschallenges">Active Workshops/Challenges</span>
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [VOTS 2024](https://www.votchallenge.net/)
+
+:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [PVUW 2024](https://www.vspwdataset.com/Workshop2024.html)
+
+---
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
