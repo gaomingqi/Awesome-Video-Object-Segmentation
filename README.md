@@ -34,6 +34,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
+:orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.19407) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Temporally Consistent Referring Video Object Segmentation
+
 :blue_square: `SVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.17937) / [code](https://github.com/Amshaker/MAVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient Video Object Segmentation via Modulated Cross-Attention Memory
 
 :orange_square: `RVOS` :red_square: `AVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.04924) / [code & dataset](https://github.com/lxa9867/r2bench) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations
@@ -71,8 +73,6 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 :white_large_square: `XVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.07261) / [code](https://github.com/YRlin-12/Sketch-VOS-datasets) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sketch-based Video Object Segmentation: Benchmark and Analysis
 
 :white_large_square: `XVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.04414) / [code](https://eva-vos.compute.dtu.dk/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning the What and How of Annotation in Video Object Segmentation
-
-:blue_square: `SVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.03967) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sub-token ViT Embedding via Stochastic Resonance Transformers (support svos)
 
 ---
 ### <span id="cvpr24">CVPR 2024</span>
@@ -223,6 +223,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 ### <span id="earxiv">Earlier Arxiv 2023</span>
 
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.03967) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sub-token ViT Embedding via Stochastic Resonance Transformers (support svos)
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.12303) / [code & dataset](https://github.com/shilinyan99/PanoVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2309.14786) / [code](https://github.com/suhwan-cho/TMO) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Treating Motion as Option with Output Selection for Unsupervised Video Object Segmentation
@@ -243,13 +245,13 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2303.14384.pdf) / [code](https://github.com/mkg1204/RHMNet-for-SSVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reliability-Hierarchical Memory Network for Scribble-Supervised Video Object Segmentation
 
-:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.13974) / [code](https://github.com/jiawen-zhu/HQTrack) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Tracking Anything in High Quality
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.13974) / [code](https://github.com/jiawen-zhu/HQTrack) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Tracking Anything in High Quality
 
-:orange_square: `RVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.00536) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referring Video Object Segmentation with Inter-Frame Interaction and Cross-Modal Correlation
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.00536) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referring Video Object Segmentation with Inter-Frame Interaction and Cross-Modal Correlation
 
-:orange_square: `RVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.00997) / [code](https://github.com/LancasterLi/RefSAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.00997) / [code](https://github.com/LancasterLi/RefSAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation
 
-:white_large_square: `XVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.01197) / [code](https://github.com/SysCV/sam-pt) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Segment Anything Meets Point Tracking
+:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2307.01197) / [code](https://github.com/SysCV/sam-pt) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Segment Anything Meets Point Tracking
 
 ---
 
