@@ -40,6 +40,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 :orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.19407) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Temporally Consistent Referring Video Object Segmentation
 
+:red_square: `AVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.14203) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unsupervised Audio-Visual Segmentation with Modality Alignment
+
 :blue_square: `SVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.17937) / [code](https://github.com/Amshaker/MAVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient Video Object Segmentation via Modulated Cross-Attention Memory
 
 :orange_square: `RVOS` :red_square: `AVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.04924) / [code & dataset](https://github.com/lxa9867/r2bench) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations
