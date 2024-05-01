@@ -34,6 +34,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
+:white_large_square: `XVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.13505) / [code](https://github.com/NUST-Machine-Intelligence-Laboratory/HVC) Dynamic in Static: Hybrid Visual Correspondence for Self-Supervised Video Object Segmentation
+
 :green_square: `UVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.12389) / [code](https://github.com/Jyxarthur/flowsam) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Moving Object Segmentation: All You Need Is SAM (and Flow)
 
 :blue_square: `SVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.06265) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Spatial-Temporal Multi-level Association for Video Object Segmentation
@@ -73,14 +75,6 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 :blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.08514) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; M3T: Multi-Scale Memory Matching for Video Object Segmentation and Tracking
 
 :red_square: `AVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.06462) / [code](https://github.com/yannqi/COMBO-AVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation
-
-:orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.18837) / [code](https://github.com/ChenHsing/VIDiff) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models 
-
-:green_square: `UVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.17893) / [code](https://github.com/shvdiwnkozbw/SSL-UVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation
-
-:white_large_square: `XVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.07261) / [code](https://github.com/YRlin-12/Sketch-VOS-datasets) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sketch-based Video Object Segmentation: Benchmark and Analysis
-
-:white_large_square: `XVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.04414) / [code](https://eva-vos.compute.dtu.dk/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning the What and How of Annotation in Video Object Segmentation
 
 ---
 ### <span id="cvpr24">CVPR 2024</span>
@@ -232,6 +226,14 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 
 ### <span id="earxiv">Earlier Arxiv 2023</span>
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.18837) / [code](https://github.com/ChenHsing/VIDiff) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models 
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.17893) / [code](https://github.com/shvdiwnkozbw/SSL-UVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation
+
+:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.07261) / [code](https://github.com/YRlin-12/Sketch-VOS-datasets) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sketch-based Video Object Segmentation: Benchmark and Analysis
+
+:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.04414) / [code](https://eva-vos.compute.dtu.dk/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning the What and How of Annotation in Video Object Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.03967) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sub-token ViT Embedding via Stochastic Resonance Transformers (support svos)
 
