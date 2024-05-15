@@ -34,6 +34,10 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
+:blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2405.07031) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Global Motion Understanding in Large-Scale Video Object Segmentation
+
+:blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2405.08715) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DeVOS: Flow-Guided Deformable Transformer for Video Object Segmentation
+
 :white_large_square: `XVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.13505) / [code](https://github.com/NUST-Machine-Intelligence-Laboratory/HVC) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;  Dynamic in Static: Hybrid Visual Correspondence for Self-Supervised Video Object Segmentation
 
 :green_square: `UVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.12389) / [code](https://github.com/Jyxarthur/flowsam) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Moving Object Segmentation: All You Need Is SAM (and Flow)
