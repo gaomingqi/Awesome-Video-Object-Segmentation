@@ -28,11 +28,17 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 ### 🏁 <span id="workshopschallenges">Active Workshops/Challenges</span>
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [VOTS 2024](https://www.votchallenge.net/)
 
-:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [PVUW 2024](https://www.vspwdataset.com/Workshop2024.html)
+~~:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [PVUW 2024](https://www.vspwdataset.com/Workshop2024.html)~~
 
 ---
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
+
+:blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.19326) / [code and dataset](https://lingyihongfd.github.io/lvos.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LVOS (v2, with more data): A Benchmark for Large-scale Long-term Video Object Segmentation
+
+:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2405.10610) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models
+
+:blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2405.14010) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; One-shot Training for Video Object Segmentation
 
 :blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2405.07031) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Global Motion Understanding in Large-Scale Video Object Segmentation
 
