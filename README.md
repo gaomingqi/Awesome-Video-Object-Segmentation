@@ -109,6 +109,10 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 :blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.18115) / [code](https://github.com/MinghanLi/UniVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniVS: Unified and Universal Video Segmentation with Prompts as Queries
 
+:blue_square: `SVOS` :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2406.04221) / [code](https://github.com/siyuanliii/masa) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Matching Anything By Segmenting Anything
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2406.08476) / [code](https://github.com/Restricted-Memory/RMem) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; RMem: Restricted Memory Banks Improve Video Object Segmentation
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.01945) / [code](https://github.com/HebeiFast/EventLowLightVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Event-assisted Low-Light Video Object Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.12982) / [code](https://github.com/hkchengrex/Cutie) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Putting the Object Back into Video Object Segmentation
