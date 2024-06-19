@@ -34,6 +34,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
+:orange_square: `RVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2406.12834) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation
+
 :blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.19326) / [code and dataset](https://lingyihongfd.github.io/lvos.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LVOS (v2, with more data): A Benchmark for Large-scale Long-term Video Object Segmentation
 
 :orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2405.10610) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models
@@ -73,18 +75,6 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 :white_large_square: `XVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2401.13937) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Self-supervised Video Object Segmentation with Distillation Learning of Deformable Attention
 
 :white_large_square: `XVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2401.12480) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Explore Synergistic Interaction Across Frames for Interactive Video Object Segmentation
-
-:orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.17448) / [code](https://github.com/jiawen-zhu/TrackGPT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Tracking with Human-Intent Reasoning
-
-:blue_square: `SVOS` :orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.15715) / [code](https://github.com/FoundationVision/UniRef) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces
-
-:green_square: `UVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.11463) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Appearance-based Refinement for Object-Centric Motion Segmentation
-
-:blue_square: `SVOS` :orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.09158) / [code](https://github.com/FoundationVision/GLEE) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; General Object Foundation Model for Images and Videos at Scale
-
-:blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.08514) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; M3T: Multi-Scale Memory Matching for Video Object Segmentation and Tracking
-
-:red_square: `AVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.06462) / [code](https://github.com/yannqi/COMBO-AVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation
 
 ---
 ### <span id="cvpr24">CVPR 2024</span>
@@ -240,6 +230,18 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[CVPR 2024](#cvpr24)🔥, [A
 
 
 ### <span id="earxiv">Earlier Arxiv 2023</span>
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.17448) / [code](https://github.com/jiawen-zhu/TrackGPT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Tracking with Human-Intent Reasoning
+
+:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.15715) / [code](https://github.com/FoundationVision/UniRef) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces
+
+:green_square: `UVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.11463) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Appearance-based Refinement for Object-Centric Motion Segmentation
+
+:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.09158) / [code](https://github.com/FoundationVision/GLEE) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; General Object Foundation Model for Images and Videos at Scale
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.08514) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; M3T: Multi-Scale Memory Matching for Video Object Segmentation and Tracking
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.06462) / [code](https://github.com/yannqi/COMBO-AVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2311.18837) / [code](https://github.com/ChenHsing/VIDiff) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models 
 
