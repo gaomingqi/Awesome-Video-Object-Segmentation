@@ -61,17 +61,11 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 
 :blue_square: `SVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.06265) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Spatial-Temporal Multi-level Association for Video Object Segmentation
 
-:orange_square: `RVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.03645) / [code](https://github.com/heshuting555/DsHmp) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation
-
 :orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.19407) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Temporally Consistent Referring Video Object Segmentation
 
 :red_square: `AVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.14203) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unsupervised Audio-Visual Segmentation with Modality Alignment
 
 :blue_square: `SVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.17937) / [code](https://github.com/Amshaker/MAVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient Video Object Segmentation via Modulated Cross-Attention Memory
-
-:orange_square: `RVOS` :red_square: `AVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.04924) / [code & dataset](https://github.com/lxa9867/r2bench) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations
-
-:orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.12042) / [code](https://github.com/buxiangzhiren/VD-IT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation
 
 :blue_square: `SVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.08682) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework
 
@@ -82,6 +76,11 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 
 ---
 ### <span id="eccv24">ECCV 2024</span>
+
+:orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.04924) / [code & dataset](https://github.com/lxa9867/r2bench) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.12042) / [code](https://github.com/buxiangzhiren/VD-IT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation
+
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.07402) / [code](https://github.com/ut-vision/ActionVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ActionVOS: Actions as Prompts for Video Object Segmentation
 
 ---
@@ -100,6 +99,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2211.12036) / [code](https://github.com/Hydragon516/DPA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Dual Prototype Attention for Unsupervised Video Object Segmentation
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2303.08314) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Guided Slot Attention for Unsupervised Video Object Segmentation
+
+:orange_square: `RVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.03645) / [code](https://github.com/heshuting555/DsHmp) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2306.08736) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation
 
