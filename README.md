@@ -43,8 +43,6 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 
 :green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2407.11714) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Improving Unsupervised Video Object Segmentation via Fake Flow Generation
 
-:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.07760) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Spatial-Semantic Features for Robust Video Object Segmentation
-
 :red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2406.02345) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Progressive Confident Masking Attention Network for Audio-Visual Segmentation
 
 :red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2406.06163) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation
@@ -82,6 +80,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 
 ---
 ### <span id="eccv24">ECCV 2024</span>
+
+:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.07760) / [code](https://github.com/yahooo-m/VOS-Solution) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Spatial-Semantic Features for Robust Video Object Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.11325) / [code](https://github.com/cilinyan/VISA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VISA: Reasoning Video Object Segmentation via Large Language Model
 
