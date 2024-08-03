@@ -75,13 +75,11 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 
 ⬜ `XVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.06130) / [code](https://github.com/PinxueGuo/ClickVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ClickVOS: Click Video Object Segmentation
 
-:red_square: `AVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.02327) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Bootstrapping Audio-Visual Segmentation by Strengthening Audio Cues
-
 
 ---
 ### <span id="eccv24">ECCV 2024</span>
 
-:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.07760) / [code](https://github.com/yahooo-m/VOS-Solution) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Spatial-Semantic Features for Robust Video Object Segmentation
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.07760) / [code](https://github.com/yahooo-m/VOS-Solution) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Spatial-Semantic Features for Robust Video Object Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.11325) / [code](https://github.com/cilinyan/VISA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VISA: Reasoning Video Object Segmentation via Large Language Model
 
@@ -251,6 +249,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 
 
 ### <span id="earxiv">Earlier Arxiv 2023</span>
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.02327) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Bootstrapping Audio-Visual Segmentation by Strengthening Audio Cues
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2401.14168) / [code](https://github.com/scott-yjyang/Vivim) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Vivim: a Video Vision Mamba for Medical Video Object Segmentation
 
