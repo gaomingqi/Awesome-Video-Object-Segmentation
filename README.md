@@ -10,19 +10,6 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 :blue_square: `SVOS`: Semi-Supervised VOS (also termed as One-Shot VOS)
 
-<svg width="15" height="15">
-  <rect width="15" height="15" style="fill:#FF0000;" />
-</svg> 红色 (Red)
-
-<svg width="15" height="15">
-  <rect width="15" height="15" style="fill:#00FF00;" />
-</svg> 绿色 (Green)
-
-<svg width="15" height="15">
-  <rect width="15" height="15" style="fill:#0000FF;" />
-</svg> 蓝色 (Blue)
-
-
 :green_square: `UVOS`: Un-Supervised VOS (also termed as Zero-Shot VOS)
 
 :orange_square: `RVOS`: Referring VOS (also termed as Language-Guided VOS)
