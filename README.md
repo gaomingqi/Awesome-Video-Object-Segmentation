@@ -18,6 +18,11 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 :white_large_square: `XVOS`: Other types of VOS
 
+![Red](https://via.placeholder.com/15/FF0000/000000?text=+) 红色 (Red)  
+![Green](https://via.placeholder.com/15/00FF00/000000?text=+) 绿色 (Green)  
+![Blue](https://via.placeholder.com/15/0000FF/000000?text=+) 蓝色 (Blue)  
+![Yellow](https://via.placeholder.com/15/FFFF00/000000?text=+) 黄色 (Yellow)
+
 :teddy_bear: Please feel free to send us pull requests to add VOS works.
 
 ---
