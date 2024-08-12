@@ -27,11 +27,11 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
 
-:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [LSVOS @ECCV 2024](https://lsvos.github.io/) 🔥ACTIVE!🔥
+:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [LSVOS @ECCV 2024](https://lsvos.github.io/) (Finished)
 
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [VOTS @ECCV 2024](https://www.votchallenge.net/)
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [VOTS @ECCV 2024](https://www.votchallenge.net/) (Finished)
 
-:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [PVUW @CVPR 2024](https://www.vspwdataset.com/Workshop2024.html)
+:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [PVUW @CVPR 2024](https://www.vspwdataset.com/Workshop2024.html) (Finished)
 
 ---
 
