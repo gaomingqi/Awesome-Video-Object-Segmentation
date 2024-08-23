@@ -1,22 +1,29 @@
-# Awesome Video Object Segmentation
+<div align=center>
+<img src="./data/assets/logo.jpg" width="350em"/>
+</div>
+
+---
 
 ![](https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?style=flat-square&colorB=abcdef)
 
-Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be found in our review paper:
+
+
+Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be found in our survey paper:
 
 >Deep Learning for Video Object Segmentation: A Review / [paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf) / [project page](https://github.com/gaomingqi/VOS-Review) 
 
-:teddy_bear: We indicate different VOS types with coloured squares:
+---
 
-:blue_square: `SVOS`: Semi-Supervised VOS (also termed as One-Shot VOS)
+:teddy_bear: We indicate different VOS tasks with coloured squares:
 
-:green_square: `UVOS`: Un-Supervised VOS (also termed as Zero-Shot VOS)
-
-:orange_square: `RVOS`: Referring VOS (also termed as Language-Guided VOS)
-
-:red_square: `AVOS`: Audio-guided VOS (also termed as Audio-Visual Video Segmentation)
-
-:white_large_square: `XVOS`: Other types of VOS
+| Indicator | VOS Task | Pipeline |
+|----------|----------|----------|
+| :blue_square: `SVOS` | Semi-Supervised VOS (also termed as One-Shot VOS) | Row 1, Column 3 |
+| :green_square: `UVOS` | Un-Supervised VOS (also termed as Zero-Shot VOS) | Row 2, Column 3 |
+| :orange_square: `RVOS` | Referring VOS (also termed as Language-Guided VOS) | Row 3, Column 3 |
+| :red_square: `AVOS` | Audio-guided VOS (also termed as Audio-Visual Video Segmentation) | Row 3, Column 3 |
+| :diamond_shape_with_a_dot_inside: `MAT` | Video Matting (VOS with detailed edge handling) | Row 3, Column 3 |
+| :white_large_square: `XVOS` | Other types of VOS |  |
 
 :teddy_bear: Please feel free to send us pull requests to add VOS works.
 
