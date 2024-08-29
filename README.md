@@ -44,7 +44,7 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
-:red_square: `AVOS` :orange_square: `RVOS` `Aug` [paper](https://arxiv.org/abs/2408.15876) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation
+:red_square: `AVOS` :orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.15876) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation
 
 :red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.01708) / [code](https://github.com/MarkXCloud/AVESFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation
 
