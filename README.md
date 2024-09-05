@@ -2,7 +2,8 @@
 <img src="./data/assets/logo.jpg" width="350em"/>
 </div>
 
-![](https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?style=flat-square&colorB=abcdef)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gaomingqi/awesome-video-object-segmentation?style=flat-square&colorB=b74e45)
+![](https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?style=flat-square&colorB=4574b6)
 
 Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be found in our survey paper:
 
