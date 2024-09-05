@@ -6,7 +6,16 @@
 
 Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be found in our survey paper:
 
->Deep Learning for Video Object Segmentation: A Review / [paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf) / [project page](https://github.com/gaomingqi/VOS-Review) 
+>Deep Learning for Video Object Segmentation: A Review / [paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf) / [project page](https://github.com/gaomingqi/VOS-Review) <details><summary>BibTex</summary> @article{gao2023deep,
+  title={Deep learning for video object segmentation: a review},
+  author={Gao, Mingqi and Zheng, Feng and Yu, James JQ and Shan, Caifeng and Ding, Guiguang and Han, Jungong},
+  journal={Artificial Intelligence Review},
+  volume={56},
+  number={1},
+  pages={457--531},
+  year={2023},
+  publisher={Springer}
+}
 
 ---
 
