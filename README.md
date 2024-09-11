@@ -4,11 +4,13 @@
 
 <p align="center">
     <a href="" alt="">
-        <img src="https://img.shields.io/github/commit-activity/m/gaomingqi/awesome-video-object-segmentation?style=flat-square&colorB=b74e45" /></a>
+        <img src="https://img.shields.io/github/commit-activity/m/gaomingqi/awesome-video-object-segmentation?colorB=b74e45" /></a>
     <a href="" alt="">
-        <img src="https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?style=flat-square&colorB=4574b6" /></a>
+        <img src="https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?colorB=4574b6" /></a>
     <a src="https://img.shields.io/badge/%F0%9F%93%96%20_-our_survey_paper-6f34a4?style=flat-square" href="https://link.springer.com/article/10.1007/s10462-022-10176-7">
-        <img src="https://img.shields.io/badge/%F0%9F%93%96%20_-our_survey_paper-6f34a4?style=flat-square"></a>
+        <img src="https://img.shields.io/badge/%F0%9F%93%96%20_-our_survey_paper-6f34a4"></a>
+    <a href="" alt="">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=gaomingqi.awesome-video-object-segmentation?style=flat-square" /></a>
 </p>
 
 Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be found in our survey paper:
