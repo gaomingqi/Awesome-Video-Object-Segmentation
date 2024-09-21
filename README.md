@@ -37,7 +37,7 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
         <th style="width: 50%;">Dataset (Year)</th>
     </tr>
     <tr>
-        <td style="width: 20%;">:blue_square: `SVOS`</td>
+        <td style="width: 20%;">:blue_square:<code>SVOS</code></td>
         <td style="width: 30%;"><img src="data/assets/svos.gif" alt="SVOS" style="max-width: 100%;" /></td>
         <td style="width: 50%;">
             <a href="https://ai.meta.com/datasets/segment-anything-video/">SA-V</a> (24), 
@@ -48,14 +48,14 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
         </td>
     </tr>
     <tr>
-        <td style="width: 20%;">:green_square: `UVOS`</td>
+        <td style="width: 20%;">:green_square:<code>UVOS</code></td>
         <td style="width: 30%;"><img src="data/assets/uvos.gif" alt="UVOS" style="max-width: 100%;" /></td>
         <td style="width: 50%;">
             <a href="https://davischallenge.org/index.html">DAVIS</a> (16/17)
         </td>
     </tr>
     <tr>
-        <td style="width: 20%;">:orange_square: `RVOS`</td>
+        <td style="width: 20%;">:orange_square:<code>RVOS</code></td>
         <td style="width: 30%;"><img src="data/assets/rvos.gif" alt="RVOS" style="max-width: 100%;" /></td>
         <td style="width: 50%;">
             <a href="https://henghuiding.github.io/MeViS/">MeVIS</a> (23), 
@@ -66,14 +66,14 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
         </td>
     </tr>
     <tr>
-        <td style="width: 20%;">:red_square: `AVOS`</td>
+        <td style="width: 20%;">:red_square:<code>AVOS</code></td>
         <td style="width: 30%;"><img src="data/assets/avos.gif" alt="AVOS" style="max-width: 100%;" /></td>
         <td style="width: 50%;">
             <a href="https://opennlplab.github.io/AVSBench/">AVSBench</a> (22)
         </td>
     </tr>
     <tr>
-        <td style="width: 20%;">:diamond_shape_with_a_dot_inside: `VMAT`</td>
+        <td style="width: 20%;">:diamond_shape_with_a_dot_inside:<code>VMAT</code></td>
         <td style="width: 30%;"><img src="data/assets/vmat.gif" alt="VMAT" style="max-width: 100%;" /></td>
         <td style="width: 50%;">
             <a href="https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets">VideoMatte240K</a> (21), 
@@ -81,7 +81,7 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
         </td>
     </tr>
     <tr>
-        <td style="width: 20%;">:white_large_square: `XVOS`</td>
+        <td style="width: 20%;">:white_large_square:<code>XVOS</code></td>
         <td style="width: 30%;">Other types of VOS</td>
         <td style="width: 50%;"></td>
     </tr>
