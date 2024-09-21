@@ -6,9 +6,9 @@
     <a href="" alt="">
         <img src="https://img.shields.io/github/commit-activity/m/gaomingqi/awesome-video-object-segmentation?colorB=b74e45" /></a>
     <a href="" alt="">
-        <img src="https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?colorB=4574b6" /></a>
-    <a src="https://img.shields.io/badge/%F0%9F%93%96%20_-our_survey_paper-6f34a4?style=flat-square" href="https://link.springer.com/article/10.1007/s10462-022-10176-7">
-        <img src="https://img.shields.io/badge/%F0%9F%93%96%20_-our_survey_paper-6f34a4"></a>
+        <img src="https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?colorB=54b345" /></a>
+    <a src="https://img.shields.io/badge/survey-PDF-ffbe7a?style=flat-square" href="https://link.springer.com/article/10.1007/s10462-022-10176-7">
+        <img src="https://img.shields.io/badge/survey-PDF-ffbe7a"></a>
     <a href="" alt="">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=gaomingqi.awesome-video-object-segmentation?style=flat-square" /></a>
 </p>
@@ -28,15 +28,15 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-:teddy_bear: We indicate different VOS tasks with coloured squares:
+:teddy_bear: We mark different VOS works with coloured squares:
 
-| Indicator | VOS Task | 
-|----------|----------|
-| :blue_square: `SVOS` | Semi-Supervised VOS (also termed as One-Shot VOS) | 
-| :green_square: `UVOS` | Un-Supervised VOS (also termed as Zero-Shot VOS) | 
-| :orange_square: `RVOS` | Referring VOS (also termed as Language-Guided VOS) | 
-| :red_square: `AVOS` | Audio-guided VOS (also termed as Audio-Visual Video Segmentation) | 
-| :diamond_shape_with_a_dot_inside: `VMAT` | Video Matting (VOS with detailed edge handling) | 
+| Marker | VOS Task | Dataset (Year) |
+|----------|----------|----------|
+| :blue_square: `SVOS` | ![](data/assets/svos.gif) | [SA-V](https://ai.meta.com/datasets/segment-anything-video/) (24), [LVOS](https://lingyihongfd.github.io/lvos.github.io/dataset.html) (23), [MOSE](https://henghuiding.github.io/MOSE/) (23), [YouTube-VOS](https://youtube-vos.org/) (18/19), [DAVIS](https://davischallenge.org/index.html) (16/17)
+| :green_square: `UVOS` | ![](data/assets/uvos.gif) | [DAVIS](https://davischallenge.org/index.html) (16/17)
+| :orange_square: `RVOS` | ![](data/assets/rvos.gif) | [MeVIS](https://henghuiding.github.io/MeViS/) (23), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (18), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (18)
+| :red_square: `AVOS` | ![](data/assets/avos.gif) | [AVSBench](https://opennlplab.github.io/AVSBench/) (22)
+| :diamond_shape_with_a_dot_inside: `VMAT` | ![](data/assets/vmat.gif) | [VideoMatte240K](https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets) (21), [CRGNN](https://github.com/TiantianWang/VideoMatting-CRGNN) (21)
 | :white_large_square: `XVOS` | Other types of VOS | 
 
 :teddy_bear: Please feel free to send us pull requests to add VOS works.
@@ -135,11 +135,11 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2303.08314) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Guided Slot Attention for Unsupervised Video Object Segmentation
 
-:orange_square: `RVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.03645) / [code](https://github.com/heshuting555/DsHmp) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.03645) / [code](https://github.com/heshuting555/DsHmp) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2306.08736) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation
 
-:orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.01623) / [code](https://github.com/workforai/UniLSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Segmentation at Arbitrary Granularity with Language Instruction
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.01623) / [code](https://github.com/workforai/UniLSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Segmentation at Arbitrary Granularity with Language Instruction
 
 :blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.18115) / [code](https://github.com/MinghanLi/UniVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniVS: Unified and Universal Video Segmentation with Prompts as Queries
 
