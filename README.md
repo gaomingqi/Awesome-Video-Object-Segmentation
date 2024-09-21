@@ -31,12 +31,12 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 :teddy_bear: We mark different VOS tasks with coloured squares:
 
 <table>
-    <tr>
+    <!-- <tr>
         <th style="width: 20%;">Marker</th>
         <th style="width: 30%;">VOS Task</th>
         <th style="width: 20%;">Marker</th>
         <th style="width: 30%;">VOS Task</th>
-    </tr>
+    </tr> -->
     <tr>
         <td style="width: 20%;">:blue_square:<code>SVOS</code></td>
         <td style="width: 30%;"><img src="data/assets/svos.gif" alt="SVOS" style="max-width: 100%;" /></td>
@@ -134,23 +134,28 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
 
+No Active Workshops/Challenges.
+
+<details><summary>Finished</summary>
+
 :blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [LSVOS @ECCV 2024](https://lsvos.github.io/) (Finished)
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [VOTS @ECCV 2024](https://www.votchallenge.net/) (Finished)
 
 :blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [PVUW @CVPR 2024](https://www.vspwdataset.com/Workshop2024.html) (Finished)
+</details>
 
 ---
 ### :floppy_disk: <span id="dataset">VOS Dataset (Year)</span>
-:blue_square: `SVOS`: [SA-V](https://ai.meta.com/datasets/segment-anything-video/) (24), [LVOS](https://lingyihongfd.github.io/lvos.github.io/dataset.html) (23), [MOSE](https://henghuiding.github.io/MOSE/) (23), [YouTube-VOS](https://youtube-vos.org/) (18/19), [DAVIS](https://davischallenge.org/index.html) (16/17)
+:blue_square: `SVOS`: [SA-V](https://ai.meta.com/datasets/segment-anything-video/) (2024), [LVOS](https://lingyihongfd.github.io/lvos.github.io/dataset.html) (2023), [MOSE](https://henghuiding.github.io/MOSE/) (2023), [YouTube-VOS](https://youtube-vos.org/) (2018/2019), [DAVIS](https://davischallenge.org/index.html) (2016/2017)
 
-:orange_square: `RVOS`: [MeVIS](https://henghuiding.github.io/MeViS/) (23), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (18), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (18)
+:orange_square: `RVOS`: [MeVIS](https://henghuiding.github.io/MeViS/) (2023), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/) (2020), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions) (2018), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018)
 
-:green_square: `UVOS`: [DAVIS](https://davischallenge.org/index.html) (16/17)
+:green_square: `UVOS`: [DAVIS](https://davischallenge.org/index.html) (2016)
 
-:red_square: `AVOS`: [AVSBench](https://opennlplab.github.io/AVSBench/) (22)
+:red_square: `AVOS`: [AVSBench](https://opennlplab.github.io/AVSBench/) (2022)
 
-:diamond_shape_with_a_dot_inside: `VMAT`: [VideoMatte240K](https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets) (21), [CRGNN](https://github.com/TiantianWang/VideoMatting-CRGNN) (21)
+:diamond_shape_with_a_dot_inside: `VMAT`: [VideoMatte240K](https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets) (2021), [CRGNN](https://github.com/TiantianWang/VideoMatting-CRGNN) (2021)
 
 ---
 
