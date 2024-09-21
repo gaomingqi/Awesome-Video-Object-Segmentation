@@ -28,15 +28,15 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-:teddy_bear: We mark different VOS works with coloured squares:
+:teddy_bear: We mark different VOS tasks with coloured squares:
 
-| Marker | VOS Task | Dataset (Year) |
-|----------|----------|----------|
-| :blue_square: `SVOS` | ![](data/assets/svos.gif) | [SA-V](https://ai.meta.com/datasets/segment-anything-video/) (24), [LVOS](https://lingyihongfd.github.io/lvos.github.io/dataset.html) (23), [MOSE](https://henghuiding.github.io/MOSE/) (23), [YouTube-VOS](https://youtube-vos.org/) (18/19), [DAVIS](https://davischallenge.org/index.html) (16/17)
-| :green_square: `UVOS` | ![](data/assets/uvos.gif) | [DAVIS](https://davischallenge.org/index.html) (16/17)
-| :orange_square: `RVOS` | ![](data/assets/rvos.gif) | [MeVIS](https://henghuiding.github.io/MeViS/) (23), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (18), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (18)
-| :red_square: `AVOS` | ![](data/assets/avos.gif) | [AVSBench](https://opennlplab.github.io/AVSBench/) (22)
-| :diamond_shape_with_a_dot_inside: `VMAT` | ![](data/assets/vmat.gif) | [VideoMatte240K](https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets) (21), [CRGNN](https://github.com/TiantianWang/VideoMatting-CRGNN) (21)
+| VOS Task | Dataset (Year) |
+|----------|----------|
+| :blue_square: `SVOS` ![](data/assets/svos.gif) | [SA-V](https://ai.meta.com/datasets/segment-anything-video/) (24), [LVOS](https://lingyihongfd.github.io/lvos.github.io/dataset.html) (23), [MOSE](https://henghuiding.github.io/MOSE/) (23), [YouTube-VOS](https://youtube-vos.org/) (18/19), [DAVIS](https://davischallenge.org/index.html) (16/17)
+| :green_square: `UVOS` ![](data/assets/uvos.gif) | [DAVIS](https://davischallenge.org/index.html) (16/17)
+| :orange_square: `RVOS` ![](data/assets/rvos.gif) | [MeVIS](https://henghuiding.github.io/MeViS/) (23), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/) (20), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions) (18), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (18), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (18)
+| :red_square: `AVOS` ![](data/assets/avos.gif) | [AVSBench](https://opennlplab.github.io/AVSBench/) (22)
+| :diamond_shape_with_a_dot_inside: `VMAT` ![](data/assets/vmat.gif) | [VideoMatte240K](https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets) (21), [CRGNN](https://github.com/TiantianWang/VideoMatting-CRGNN) (21)
 | :white_large_square: `XVOS` | Other types of VOS | 
 
 :teddy_bear: Please feel free to send us pull requests to add VOS works.
