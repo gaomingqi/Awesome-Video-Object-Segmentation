@@ -6,9 +6,15 @@
     <a href="" alt="">
         <img src="https://img.shields.io/github/commit-activity/m/gaomingqi/awesome-video-object-segmentation?colorB=b74e45" /></a>
     <a href="" alt="">
+<<<<<<< HEAD
         <img src="https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?colorB=54b345" /></a>
     <a src="https://img.shields.io/badge/survey-PDF-ffbe7a?style=flat-square" href="https://link.springer.com/article/10.1007/s10462-022-10176-7">
         <img src="https://img.shields.io/badge/survey-PDF-ffbe7a"></a>
+=======
+        <img src="https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?colorB=4574b6" /></a>
+    <a src="https://img.shields.io/badge/%F0%9F%93%96%20_-our_survey_paper-6f34a4?style=flat-square" href="https://link.springer.com/article/10.1007/s10462-022-10176-7">
+        <img src="https://img.shields.io/badge/%F0%9F%93%96%20_-our_survey_paper-6f34a4"></a>
+>>>>>>> d06d9579ea74a6242b368de64cf727bb74d72f80
     <a href="" alt="">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=gaomingqi.awesome-video-object-segmentation?style=flat-square" /></a>
 </p>
@@ -121,6 +127,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 ---
 ### <span id="cvpr24">CVPR 2024</span>
 
+:diamond_shape_with_a_dot_inside: `VMAT` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.16035) / [code](https://github.com/hmchuong/MaGGIe) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MaGGIe: Masked Guided Gradual Human Instance Matting
+
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.05917) / [code](https://pointvos.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Point-VOS: Pointing Up Video Object Segmentation
 
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2310.00132) / [code](https://github.com/lxa9867/QSD) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Robust Audiovisual Segmentation in Complex Environments with Quantization-based Semantic Decomposition
@@ -227,6 +235,8 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 ---
 
 ### <span id="cvpr23">CVPR 2023</span>
+
+:diamond_shape_with_a_dot_inside: `VMAT` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2304.06018) / [code](https://github.com/microsoft/AdaM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Adaptive Human Matting for Dynamic Videos
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2304.05930.pdf) / [code](https://rkyuca.github.io/medvt/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation
 
