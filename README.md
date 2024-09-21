@@ -33,64 +33,27 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 <table>
     <tr>
         <th style="width: 20%;">Marker</th>
-        <th style="width: 30%;">VOS Task (with Dataset)</th>
+        <th style="width: 30%;">VOS Task</th>
         <th style="width: 20%;">Marker</th>
-        <th style="width: 30%;">VOS Task (with Dataset)</th>
+        <th style="width: 30%;">VOS Task</th>
     </tr>
     <tr>
-        <td rowspan="2"style="width: 20%;">:blue_square:<code>SVOS</code></td>
+        <td style="width: 20%;">:blue_square:<code>SVOS</code></td>
         <td style="width: 30%;"><img src="data/assets/svos.gif" alt="SVOS" style="max-width: 100%;" /></td>
-        <td rowspan="2"style="width: 20%;">:orange_square:<code>RVOS</code></td>
+        <td style="width: 20%;">:orange_square:<code>RVOS</code></td>
         <td style="width: 30%;"><img src="data/assets/rvos.gif" alt="RVOS" style="max-width: 100%;" /></td>
     </tr>
     <tr>
-        <td style="width: 30%;">
-            Datasets (Year): 
-            <a href="https://ai.meta.com/datasets/segment-anything-video/">SA-V</a> (24), 
-            <a href="https://lingyihongfd.github.io/lvos.github.io/dataset.html">LVOS</a> (23), 
-            <a href="https://henghuiding.github.io/MOSE/">MOSE</a> (23), 
-            <a href="https://youtube-vos.org/">YouTube-VOS</a> (18/19), 
-            <a href="https://davischallenge.org/index.html">DAVIS</a> (16/17)
-        </td>
-        <td style="width: 30%;">
-            Datasets (Year): 
-            <a href="https://henghuiding.github.io/MeViS/">MeVIS</a> (23), 
-            <a href="https://youtube-vos.org/dataset/rvos/">Ref-YouTube-VOS</a> (20), 
-            <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions">Ref-DAVIS</a> (18), 
-            <a href="https://kgavrilyuk.github.io/publication/actor_action/">J-HMDB-Sentences</a> (18), 
-            <a href="https://kgavrilyuk.github.io/publication/actor_action/">A2D-Sentences</a> (18)
-        </td>
-    </tr>
-    <tr>
-        <td rowspan="2"style="width: 20%;">:green_square:<code>UVOS</code></td>
+        <td style="width: 20%;">:green_square:<code>UVOS</code></td>
         <td style="width: 30%;"><img src="data/assets/uvos.gif" alt="UVOS" style="max-width: 100%;" /></td>
-        <td rowspan="2"style="width: 20%;">:red_square:<code>AVOS</code></td>
+        <td style="width: 20%;">:red_square:<code>AVOS</code></td>
         <td style="width: 30%;"><img src="data/assets/avos.gif" alt="AVOS" style="max-width: 100%;" /></td>
     </tr>
     <tr>
-        <td style="width: 30%;">
-            Datasets (Year): 
-            <a href="https://davischallenge.org/index.html">DAVIS</a> (16/17)
-        </td>
-        <td style="width: 30%;">
-            Datasets (Year): 
-            <a href="https://opennlplab.github.io/AVSBench/">AVSBench</a> (22)
-        </td>
-    </tr>
-    <tr>
-        <td rowspan="2"style="width: 20%;">:diamond_shape_with_a_dot_inside:<code>VMAT</code></td>
+        <td style="width: 20%;">:diamond_shape_with_a_dot_inside:<code>VMAT</code></td>
         <td style="width: 30%;"><img src="data/assets/vmat.gif" alt="VMAT" style="max-width: 100%;" /></td>
-        <td rowspan="2"style="width: 20%;">:white_large_square:<code>XVOS</code></td>
+        <td style="width: 20%;">:white_large_square:<code>XVOS</code></td>
         <td style="width: 30%;">Other types of VOS</td>
-    </tr>
-    <tr>
-        <td style="width: 30%;">
-            Datasets (Year): 
-            <a href="https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets">VideoMatte240K</a> (21), 
-            <a href="https://github.com/TiantianWang/VideoMatting-CRGNN">CRGNN</a> (21)
-        </td>
-        <td style="width: 30%;">
-        </td>
     </tr>
     <!-- <tr>
         <td rowspan="2"style="width: 20%;">:blue_square:<code>RVOS</code></td>
@@ -176,6 +139,18 @@ Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [C
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [VOTS @ECCV 2024](https://www.votchallenge.net/) (Finished)
 
 :blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [PVUW @CVPR 2024](https://www.vspwdataset.com/Workshop2024.html) (Finished)
+
+---
+### :floppy_disk: <span id="dataset">VOS Dataset (Year)</span>
+:blue_square: `SVOS`: [SA-V](https://ai.meta.com/datasets/segment-anything-video/) (24), [LVOS](https://lingyihongfd.github.io/lvos.github.io/dataset.html) (23), [MOSE](https://henghuiding.github.io/MOSE/) (23), [YouTube-VOS](https://youtube-vos.org/) (18/19), [DAVIS](https://davischallenge.org/index.html) (16/17)
+
+:orange_square: `RVOS`: [MeVIS](https://henghuiding.github.io/MeViS/) (23), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (18), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (18)
+
+:green_square: `UVOS`: [DAVIS](https://davischallenge.org/index.html) (16/17)
+
+:red_square: `AVOS`: [AVSBench](https://opennlplab.github.io/AVSBench/) (22)
+
+:diamond_shape_with_a_dot_inside: `VMAT`: [VideoMatte240K](https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets) (21), [CRGNN](https://github.com/TiantianWang/VideoMatting-CRGNN) (21)
 
 ---
 
