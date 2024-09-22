@@ -7,8 +7,8 @@
         <img src="https://img.shields.io/github/commit-activity/m/gaomingqi/awesome-video-object-segmentation?colorB=b74e45" /></a>
     <a href="" alt="">
         <img src="https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?colorB=54b345" /></a>
-    <a src="https://img.shields.io/badge/survey-PDF-ffbe7a?style=flat-square" href="https://link.springer.com/article/10.1007/s10462-022-10176-7">
-        <img src="https://img.shields.io/badge/survey-PDF-ffbe7a"></a>
+    <a src="https://img.shields.io/badge/survey_paper-PDF-ffbe7a?style=flat-square" href="https://link.springer.com/article/10.1007/s10462-022-10176-7">
+        <img src="https://img.shields.io/badge/survey_paper-PDF-ffbe7a"></a>
     <a href="" alt="">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=gaomingqi.awesome-video-object-segmentation?style=flat-square" /></a>
 </p>
@@ -149,7 +149,7 @@ No Active Workshops/Challenges.
 ### :floppy_disk: <span id="dataset">VOS Dataset (Year)</span>
 :blue_square: `SVOS`: [SA-V](https://ai.meta.com/datasets/segment-anything-video/) (2024), [LVOS](https://lingyihongfd.github.io/lvos.github.io/dataset.html) (2023), [MOSE](https://henghuiding.github.io/MOSE/) (2023), [YouTube-VOS](https://youtube-vos.org/) (2018/2019), [DAVIS](https://davischallenge.org/index.html) (2016/2017)
 
-:orange_square: `RVOS`: [MeVIS](https://henghuiding.github.io/MeViS/) (2023), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/) (2020), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions) (2018), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018)
+:orange_square: `RVOS`: [ReVOS](https://github.com/cilinyan/ReVOS-api) (2024), [MeViS](https://henghuiding.github.io/MeViS/) (2023), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/) (2020), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions) (2018), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018)
 
 :green_square: `UVOS`: [DAVIS](https://davischallenge.org/index.html) (2016)
 
