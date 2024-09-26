@@ -167,6 +167,8 @@ No Active Workshops/Challenges.
 
 :red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.01708) / [code](https://github.com/MarkXCloud/AVESFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation
 
+:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.00169) / [code](https://github.com/Vujas-Eteph/LazyXMem) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Strike the Balance: On-the-Fly Uncertainty based User Interactions for Long-Term Video Object Segmentation
+
 :blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) / [code](https://github.com/facebookresearch/segment-anything-2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 2: Segment Anything in Images and Videos
 
 :orange_square: `RVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.14500) / [code](https://github.com/rkzheng99/ViLLa) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ViLLa: Video Reasoning Segmentation with Large Language Model
