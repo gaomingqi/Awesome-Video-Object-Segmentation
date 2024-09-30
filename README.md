@@ -161,6 +161,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
+:green_square: `UVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.18653) / [code](https://github.com/zhoustan/SAM2-VCOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation
+
 :blue_square: `SVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.14343) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Memory Matching is not Enough: Jointly Improving Memory Matching and Decoding for Video Object Segmentation
 
 :red_square: `AVOS` :orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.15876) / [code](https://github.com/appletea233/AL-Ref-SAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation
