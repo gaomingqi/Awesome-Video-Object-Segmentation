@@ -129,7 +129,7 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[ECCV 2024](#eccv24)🔥, [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[NeurIPS 2024](#nips24)🔥, [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
@@ -160,6 +160,8 @@ No Active Workshops/Challenges.
 ---
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
+
+:blue_square: `SVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.19342) / [code](https://github.com/PinxueGuo/X-Prompt) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; X-Prompt: Multi-modal Visual Prompt for Video Object Segmentation
 
 :green_square: `UVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.18653) / [code](https://github.com/zhoustan/SAM2-VCOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation
 
@@ -209,6 +211,11 @@ No Active Workshops/Challenges.
 
 ⬜ `XVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.06130) / [code](https://github.com/PinxueGuo/ClickVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ClickVOS: Click Video Object Segmentation
 
+
+---
+### <span id="nips24">NeurIPS 2024</span>
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.19603) / [code](https://github.com/showlab/VideoLISA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; One Token to Seg Them All: Language InstructedReasoning Segmentation in Videos
 
 ---
 ### <span id="eccv24">ECCV 2024</span>
