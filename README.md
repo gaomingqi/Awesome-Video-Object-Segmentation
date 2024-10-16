@@ -281,6 +281,8 @@ No Active Workshops/Challenges.
 ### <span id="j24">Journals 2024</span>
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/document/10694805) / [code](https://github.com/Yxxxb/LAVT-RS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Language-Aware Vision Transformer for Referring Segmentation
 
+:orange_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10713285) / [code](https://github.com/BIT-Vision/ECOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Continuous-time Object Segmentation using High Temporal Resolution Event Camera
+
 ---
 ### <span id="emnlp23">EMNLP 2023</span>
 
