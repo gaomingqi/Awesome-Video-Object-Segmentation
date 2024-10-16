@@ -213,7 +213,7 @@ No Active Workshops/Challenges.
 ---
 ### <span id="nips24">NeurIPS 2024</span>
 
-:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.19603) / [code](https://github.com/showlab/VideoLISA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; One Token to Seg Them All: Language InstructedReasoning Segmentation in Videos
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.19603) / [code](https://github.com/showlab/VideoLISA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos
 
 ---
 ### <span id="eccv24">ECCV 2024</span>
@@ -281,7 +281,7 @@ No Active Workshops/Challenges.
 ### <span id="j24">Journals 2024</span>
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/document/10694805) / [code](https://github.com/Yxxxb/LAVT-RS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Language-Aware Vision Transformer for Referring Segmentation
 
-:orange_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10713285) / [code](https://github.com/BIT-Vision/ECOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Continuous-time Object Segmentation using High Temporal Resolution Event Camera
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10713285) / [code](https://github.com/BIT-Vision/ECOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Continuous-time Object Segmentation using High Temporal Resolution Event Camera
 
 ---
 ### <span id="emnlp23">EMNLP 2023</span>
