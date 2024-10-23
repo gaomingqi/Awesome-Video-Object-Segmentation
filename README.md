@@ -31,12 +31,6 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 :teddy_bear: We mark different VOS tasks with coloured squares:
 
 <table>
-    <!-- <tr>
-        <th style="width: 20%;">Marker</th>
-        <th style="width: 30%;">VOS Task</th>
-        <th style="width: 20%;">Marker</th>
-        <th style="width: 30%;">VOS Task</th>
-    </tr> -->
     <tr>
         <td style="width: 20%;">:blue_square:<code>SVOS</code></td>
         <td style="width: 30%;"><img src="data/assets/svos.gif" alt="SVOS" style="max-width: 100%;" /></td>
@@ -55,73 +49,6 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
         <td style="width: 20%;">:white_large_square:<code>XVOS</code></td>
         <td style="width: 30%;">Other types of VOS</td>
     </tr>
-    <!-- <tr>
-        <td rowspan="2"style="width: 20%;">:blue_square:<code>RVOS</code></td>
-        <td style="width: 30%;"><img src="data/assets/rvos.gif" alt="RVOS" style="max-width: 100%;" /></td>
-        <td style="width: 50%;">
-            <a href="https://ai.meta.com/datasets/segment-anything-video/">SA-V</a> (24), 
-            <a href="https://lingyihongfd.github.io/lvos.github.io/dataset.html">LVOS</a> (23), 
-            <a href="https://henghuiding.github.io/MOSE/">MOSE</a> (23), 
-            <a href="https://youtube-vos.org/">YouTube-VOS</a> (18/19), 
-            <a href="https://davischallenge.org/index.html">DAVIS</a> (16/17)
-        </td>
-        <td style="width: 50%;">
-            <a href="https://ai.meta.com/datasets/segment-anything-video/">SA-V</a> (24), 
-            <a href="https://lingyihongfd.github.io/lvos.github.io/dataset.html">LVOS</a> (23), 
-            <a href="https://henghuiding.github.io/MOSE/">MOSE</a> (23), 
-            <a href="https://youtube-vos.org/">YouTube-VOS</a> (18/19), 
-            <a href="https://davischallenge.org/index.html">DAVIS</a> (16/17)
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 20%;">:blue_square:<code>SVOS</code></td>
-        <td style="width: 30%;"><img src="data/assets/svos.gif" alt="SVOS" style="max-width: 100%;" /></td>
-        <td style="width: 50%;">
-            <a href="https://ai.meta.com/datasets/segment-anything-video/">SA-V</a> (24), 
-            <a href="https://lingyihongfd.github.io/lvos.github.io/dataset.html">LVOS</a> (23), 
-            <a href="https://henghuiding.github.io/MOSE/">MOSE</a> (23), 
-            <a href="https://youtube-vos.org/">YouTube-VOS</a> (18/19), 
-            <a href="https://davischallenge.org/index.html">DAVIS</a> (16/17)
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 20%;">:green_square:<code>UVOS</code></td>
-        <td style="width: 30%;"><img src="data/assets/uvos.gif" alt="UVOS" style="max-width: 100%;" /></td>
-        <td style="width: 50%;">
-            <a href="https://davischallenge.org/index.html">DAVIS</a> (16/17)
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 20%;">:orange_square:<code>RVOS</code></td>
-        <td style="width: 30%;"><img src="data/assets/rvos.gif" alt="RVOS" style="max-width: 100%;" /></td>
-        <td style="width: 50%;">
-            <a href="https://henghuiding.github.io/MeViS/">MeVIS</a> (23), 
-            <a href="https://youtube-vos.org/dataset/rvos/">Ref-YouTube-VOS</a> (20), 
-            <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions">Ref-DAVIS</a> (18), 
-            <a href="https://kgavrilyuk.github.io/publication/actor_action/">J-HMDB-Sentences</a> (18), 
-            <a href="https://kgavrilyuk.github.io/publication/actor_action/">A2D-Sentences</a> (18)
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 20%;">:red_square:<code>AVOS</code></td>
-        <td style="width: 30%;"><img src="data/assets/avos.gif" alt="AVOS" style="max-width: 100%;" /></td>
-        <td style="width: 50%;">
-            <a href="https://opennlplab.github.io/AVSBench/">AVSBench</a> (22)
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 20%;">:diamond_shape_with_a_dot_inside:<code>VMAT</code></td>
-        <td style="width: 30%;"><img src="data/assets/vmat.gif" alt="VMAT" style="max-width: 100%;" /></td>
-        <td style="width: 50%;">
-            <a href="https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets">VideoMatte240K</a> (21), 
-            <a href="https://github.com/TiantianWang/VideoMatting-CRGNN">CRGNN</a> (21)
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 20%;">:white_large_square:<code>XVOS</code></td>
-        <td style="width: 30%;">Other types of VOS</td>
-        <td style="width: 50%;"></td>
-    </tr> -->
 </table>
 
 
@@ -160,6 +87,8 @@ No Active Workshops/Challenges.
 ---
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
+
+:blue_square: `SVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.19342) / [code](https://arxiv.org/abs/2410.16268) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree
 
 :blue_square: `SVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.19342) / [code](https://github.com/PinxueGuo/X-Prompt) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; X-Prompt: Multi-modal Visual Prompt for Video Object Segmentation
 
@@ -200,15 +129,6 @@ No Active Workshops/Challenges.
 :white_large_square: `XVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.13505) / [code](https://github.com/NUST-Machine-Intelligence-Laboratory/HVC) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;  Dynamic in Static: Hybrid Visual Correspondence for Self-Supervised Video Object Segmentation
 
 :green_square: `UVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.12389) / [code](https://github.com/Jyxarthur/flowsam) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Moving Object Segmentation: All You Need Is SAM (and Flow)
-
-:orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.19407) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Temporally Consistent Referring Video Object Segmentation
-
-:red_square: `AVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.14203) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unsupervised Audio-Visual Segmentation with Modality Alignment
-
-:blue_square: `SVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.17937) / [code](https://github.com/Amshaker/MAVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient Video Object Segmentation via Modulated Cross-Attention Memory
-
-⬜ `XVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.06130) / [code](https://github.com/PinxueGuo/ClickVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ClickVOS: Click Video Object Segmentation
-
 
 ---
 ### <span id="nips24">NeurIPS 2024</span>
@@ -402,6 +322,15 @@ No Active Workshops/Challenges.
 
 
 ### <span id="earxiv">Earlier Arxiv 2023</span>
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.19407) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Temporally Consistent Referring Video Object Segmentation
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.14203) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unsupervised Audio-Visual Segmentation with Modality Alignment
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.17937) / [code](https://github.com/Amshaker/MAVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient Video Object Segmentation via Modulated Cross-Attention Memory
+
+⬜ `XVOS`&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.06130) / [code](https://github.com/PinxueGuo/ClickVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ClickVOS: Click Video Object Segmentation
+
 
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.02327) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Bootstrapping Audio-Visual Segmentation by Strengthening Audio Cues
 
