@@ -181,7 +181,7 @@ No Active Workshops/Challenges.
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.03645) / [code](https://github.com/heshuting555/DsHmp) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation
 
-:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2306.08736) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2306.08736) / [code](https://github.com/LinfengYuan1997/Losh) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2312.01623) / [code](https://github.com/workforai/UniLSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Universal Segmentation at Arbitrary Granularity with Language Instruction
 
