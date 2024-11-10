@@ -88,6 +88,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
+:blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.02818) / [code](https://github.com/uncbiag/LiVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LiVOS: Light Video Object Segmentation with Gated Linear Matching
+
 :orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.23287) / [project page](https://miccooper9.github.io/projects/ReferEverything/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferEverything: Towards Segmenting Everything We Can Speak of in Videos
 
 :blue_square: `SVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.18538) / [code](https://github.com/alimohammadiamirhossein/smite/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SMITE: Segment Me In TimE
@@ -129,10 +131,6 @@ No Active Workshops/Challenges.
 :blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2405.07031) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Global Motion Understanding in Large-Scale Video Object Segmentation
 
 :blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2405.08715) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DeVOS: Flow-Guided Deformable Transformer for Video Object Segmentation
-
-:white_large_square: `XVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.13505) / [code](https://github.com/NUST-Machine-Intelligence-Laboratory/HVC) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;  Dynamic in Static: Hybrid Visual Correspondence for Self-Supervised Video Object Segmentation
-
-:green_square: `UVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.12389) / [code](https://github.com/Jyxarthur/flowsam) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Moving Object Segmentation: All You Need Is SAM (and Flow)
 
 ---
 ### <span id="nips24">NeurIPS 2024</span>
@@ -326,6 +324,10 @@ No Active Workshops/Challenges.
 
 
 ### <span id="earxiv">Earlier Arxiv 2023</span>
+
+:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.13505) / [code](https://github.com/NUST-Machine-Intelligence-Laboratory/HVC) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;  Dynamic in Static: Hybrid Visual Correspondence for Self-Supervised Video Object Segmentation
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.12389) / [code](https://github.com/Jyxarthur/flowsam) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Moving Object Segmentation: All You Need Is SAM (and Flow)
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.19407) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Temporally Consistent Referring Video Object Segmentation
 
