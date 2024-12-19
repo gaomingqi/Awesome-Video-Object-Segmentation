@@ -88,6 +88,10 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
 
+:blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.13803) / [project page](https://zixuan-chen.github.io/M-cube-VOS.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; M3-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation (`svos with phase transition for embodied ai`)
+
+:orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.14006) / [code](https://github.com/congvvc/InstructSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models
+
 :orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.09754) / [project page](https://ali2500.github.io/vicas-project/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation
 
 :red_square: `AVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.08161) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Collaborative Hybrid Propagator for Temporal Misalignment in Audio-Visual Segmentation
