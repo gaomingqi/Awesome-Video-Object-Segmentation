@@ -56,7 +56,7 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv 2024](#arxiv24), 🔥[NeurIPS 2024](#nips24)🔥, [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv (within 6 months)](#arxiv24), 🔥[NeurIPS 2024](#nips24)🔥, [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
@@ -86,7 +86,11 @@ No Active Workshops/Challenges.
 
 ---
 
-### <span id="arxiv24">ArXiv 2024 (Within the last 6 months)</span>
+### <span id="arxiv24">ArXiv (Within the last 6 months)</span>
+
+:orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.04001) / [code](https://github.com/magic-research/Sa2VA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos
+
+:blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.19761) / [project page](https://genprop.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Generative Video Propagation (`with applications in SVOS`)
 
 :blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.19761) / [project page](https://genprop.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Generative Video Propagation (`with applications in SVOS`)
 
