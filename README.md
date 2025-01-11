@@ -167,6 +167,8 @@ No Active Workshops/Challenges.
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.19603) / [code](https://github.com/showlab/VideoLISA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos
 
+:blue_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.19806) / [code](https://github.com/SkyworkAI/Vitron) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing (`with applications in SVOS`)
+
 ---
 ### <span id="eccv24">ECCV 2024</span>
 
