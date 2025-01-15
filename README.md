@@ -88,11 +88,15 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv24">ArXiv (Within the last 6 months)</span>
 
+:red_square: `AVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.07806) / [code](https://github.com/SitongGong/AVS-Mamba) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 
+ AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation
+
+:green_square: `UVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.07806) / [code](https://github.com/hy0523/MTNet) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 
+ Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation
+
 :orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.04939) / [code](https://github.com/Choi58/MTCM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation
 
 :orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.04001) / [code](https://github.com/magic-research/Sa2VA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos
-
-:blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.19761) / [project page](https://genprop.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Generative Video Propagation (`with applications in SVOS`)
 
 :blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.19761) / [project page](https://genprop.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Generative Video Propagation (`with applications in SVOS`)
 
