@@ -177,6 +177,8 @@ No Active Workshops/Challenges.
 
 :blue_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.19806) / [code](https://github.com/SkyworkAI/Vitron) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing (`with applications in SVOS`)
 
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.12392) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning segmentation from point trajectories
+
 ---
 ### <span id="eccv24">ECCV 2024</span>
 
