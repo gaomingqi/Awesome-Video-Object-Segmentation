@@ -88,6 +88,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv24">ArXiv (Within the last 6 months)</span>
 
+:orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.13667) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation
+
 :blue_square: `SVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.07256) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; EdgeTAM: On-Device Track Anything Model
 
 :orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.08549) / [code](https://github.com/SitongGong/VRS-HQ) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; The Devil is in Temporal Token: High Quality Video Reasoning Segmentation
