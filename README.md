@@ -56,7 +56,7 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv (within 6 months)](#arxiv24), 🔥[NeurIPS 2024](#nips24)🔥, [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv (within 6 months)](#arxiv24), 🔥[NeurIPS 2024](#nips24)🔥, [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
@@ -87,6 +87,8 @@ No Active Workshops/Challenges.
 ---
 
 ### <span id="arxiv24">ArXiv (Within the last 6 months)</span>
+
+:red_square: `AVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.00358) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Do Audio-Visual Segmentation Models Truly Segment Sounding Objects?
 
 :diamond_shape_with_a_dot_inside: `VMAT` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.14677) / [project page](https://pq-yang.github.io/projects/MatAnyone/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Stable Video Matting with Consistent Memory Propagation
 
@@ -159,22 +161,6 @@ No Active Workshops/Challenges.
 :red_square: `AVOS` :orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.15876) / [code](https://github.com/appletea233/AL-Ref-SAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation
 
 :red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.01708) / [code](https://github.com/MarkXCloud/AVESFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation
-
-:white_large_square: `XVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.00169) / [code](https://github.com/Vujas-Eteph/LazyXMem) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Strike the Balance: On-the-Fly Uncertainty based User Interactions for Long-Term Video Object Segmentation
-
-:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) / [code](https://github.com/facebookresearch/segment-anything-2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 2: Segment Anything in Images and Videos
-
-:orange_square: `RVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.14500) / [code](https://github.com/rkzheng99/ViLLa) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ViLLa: Video Reasoning Segmentation with Large Language Model
-
-:green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2407.11714) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Improving Unsupervised Video Object Segmentation via Fake Flow Generation
-
-:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.07760) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Spatial-Semantic Features for Robust Video Object Segmentation
-
-:red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2406.02345) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Progressive Confident Masking Attention Network for Audio-Visual Segmentation
-
-:red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2406.06163) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation
-
-:orange_square: `RVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2406.12834) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation
 
 ---
 ### <span id="nips24">NeurIPS 2024</span>
@@ -252,6 +238,24 @@ No Active Workshops/Challenges.
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/document/10694805) / [code](https://github.com/Yxxxb/LAVT-RS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Language-Aware Vision Transformer for Referring Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10713285) / [code](https://github.com/BIT-Vision/ECOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Continuous-time Object Segmentation using High Temporal Resolution Event Camera
+
+---
+### <span id="earxiv24">Earlier Arxiv 2024</span>
+:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.00169) / [code](https://github.com/Vujas-Eteph/LazyXMem) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Strike the Balance: On-the-Fly Uncertainty based User Interactions for Long-Term Video Object Segmentation
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) / [code](https://github.com/facebookresearch/segment-anything-2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 2: Segment Anything in Images and Videos
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.14500) / [code](https://github.com/rkzheng99/ViLLa) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ViLLa: Video Reasoning Segmentation with Large Language Model
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2407.11714) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Improving Unsupervised Video Object Segmentation via Fake Flow Generation
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.07760) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Spatial-Semantic Features for Robust Video Object Segmentation
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2406.02345) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Progressive Confident Masking Attention Network for Audio-Visual Segmentation
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2406.06163) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2406.12834) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation
 
 ---
 ### <span id="emnlp23">EMNLP 2023</span>
@@ -371,7 +375,7 @@ No Active Workshops/Challenges.
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10083244) / [code](https://github.com/leonnnop/Locater) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Local-Global Context Aware Transformer for Language-Guided Video Segmentation
 
 
-### <span id="earxiv">Earlier Arxiv 2023</span>
+### <span id="earxiv23">Earlier Arxiv 2023</span>
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2404.19326) / [code and dataset](https://lingyihongfd.github.io/lvos.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LVOS (v2, with more data): A Benchmark for Large-scale Long-term Video Object Segmentation
 
@@ -394,7 +398,6 @@ No Active Workshops/Challenges.
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.17937) / [code](https://github.com/Amshaker/MAVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient Video Object Segmentation via Modulated Cross-Attention Memory
 
 ⬜ `XVOS`&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2403.06130) / [code](https://github.com/PinxueGuo/ClickVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ClickVOS: Click Video Object Segmentation
-
 
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2402.02327) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Bootstrapping Audio-Visual Segmentation by Strengthening Audio Cues
 
