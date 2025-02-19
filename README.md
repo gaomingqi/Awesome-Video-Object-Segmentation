@@ -88,6 +88,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv24">ArXiv (Within the last 6 months)</span>
 
+:blue_square: `SVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.09660) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Fine-grained Interactive Segmentation in Images and Videos
+
 :blue_square: `SVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.04144) / [project page](https://hd-epic.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HD-EPIC: A Highly-Detailed Egocentric Video Dataset (`with long-term SVOS dataset`) 
 
 :red_square: `AVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.00358) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Do Audio-Visual Segmentation Models Truly Segment Sounding Objects?
