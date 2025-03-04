@@ -158,7 +158,7 @@ No Active Workshops/Challenges.
 ---
 ### <span id="cvpr25">CVPR 2025</span>
 
-:diamond_shape_with_a_dot_inside: `VMAT` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.14677) / [project page](https://pq-yang.github.io/projects/MatAnyone/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Stable Video Matting with Consistent Memory Propagation
+:diamond_shape_with_a_dot_inside: `VMAT` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.14677) / [code](https://github.com/pq-yang/MatAnyone) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Stable Video Matting with Consistent Memory Propagation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.08549) / [code](https://github.com/SitongGong/VRS-HQ) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; The Devil is in Temporal Token: High Quality Video Reasoning Segmentation
 
