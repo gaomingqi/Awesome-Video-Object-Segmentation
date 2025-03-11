@@ -124,8 +124,6 @@ No Active Workshops/Challenges.
 
 :red_square: `AVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.08161) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Collaborative Hybrid Propagator for Temporal Misalignment in Audio-Visual Segmentation
 
-:white_large_square: `XVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.04623) / [code](https://github.com/Kaihua-Chen/diffusion-vas) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Using Diffusion Priors for Video Amodal Segmentation (`segment both visible and invisible (e.g., occluded) video objects`)
-
 :green_square: `UVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.04930) / [project page](https://www.cs.umd.edu/~gauravsh/video_decomposition/index.html) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Video Decomposition Prior: A Methodology to Decompose Videos into Layers (`with applications in UVOS`)
 
 :orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.01136) / [project page](https://cvlab-kaist.github.io/SOLA/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referring Video Object Segmentation via Language-aligned Track Selection
@@ -143,8 +141,6 @@ No Active Workshops/Challenges.
 :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.09921) / [project page](https://groundmore.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level
 
 :blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.11922) / [code](https://github.com/yangchris11/samurai) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory
-
-:blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.02818) / [code](https://github.com/uncbiag/LiVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LiVOS: Light Video Object Segmentation with Gated Linear Matching
 
 :orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.23287) / [project page](https://miccooper9.github.io/projects/ReferEverything/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferEverything: Towards Segmenting Everything We Can Speak of in Videos
 
@@ -165,6 +161,10 @@ No Active Workshops/Challenges.
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.08549) / [code](https://github.com/SitongGong/VRS-HQ) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; The Devil is in Temporal Token: High Quality Video Reasoning Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.17576) / [code](https://github.com/jovanavidenovic/DAM4SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; A Distractor-Aware Memory for Visual Object Tracking with SAM2
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.02818) / [code](https://github.com/uncbiag/LiVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LiVOS: Light Video Object Segmentation with Gated Linear Matching
+
+:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.04623) / [code](https://github.com/Kaihua-Chen/diffusion-vas) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Using Diffusion Priors for Video Amodal Segmentation (`segment both visible and invisible (e.g., occluded) video objects`)
 
 ---
 ### <span id="iclr25">ICLR 2025</span>
