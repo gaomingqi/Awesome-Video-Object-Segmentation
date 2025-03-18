@@ -164,6 +164,10 @@ No Active Workshops/Challenges.
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.13803) / [project page](https://zixuan-chen.github.io/M-cube-VOS.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; M3-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation (`svos with phase transition for embodied ai`)
 
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.12840) / [code](https://github.com/YenanLiu/DDESeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Dynamic Derivation and Elimination: Audio Visual Segmentation with Enhanced Audio Semantics
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.12847) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment
+
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.04623) / [code](https://github.com/Kaihua-Chen/diffusion-vas) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Using Diffusion Priors for Video Amodal Segmentation (`segment both visible and invisible (e.g., occluded) video objects`)
 
 ---
