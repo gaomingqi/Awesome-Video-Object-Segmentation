@@ -94,8 +94,6 @@ No Active Workshops/Challenges.
 
 :blue_square: `SVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.09660) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Fine-grained Interactive Segmentation in Images and Videos
 
-:blue_square: `SVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.04144) / [project page](https://hd-epic.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HD-EPIC: A Highly-Detailed Egocentric Video Dataset (`with long-term SVOS dataset`) 
-
 :red_square: `AVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.00358) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Do Audio-Visual Segmentation Models Truly Segment Sounding Objects?
 
 :orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.14607) / [code](https://github.com/iSEE-Laboratory/ReferDINO) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations
@@ -161,6 +159,8 @@ No Active Workshops/Challenges.
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.17576) / [code](https://github.com/jovanavidenovic/DAM4SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; A Distractor-Aware Memory for Visual Object Tracking with SAM2
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.02818) / [code](https://github.com/uncbiag/LiVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LiVOS: Light Video Object Segmentation with Gated Linear Matching
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.04144) / [project page](https://hd-epic.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HD-EPIC: A Highly-Detailed Egocentric Video Dataset (`with long-term SVOS dataset`) 
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.13803) / [project page](https://zixuan-chen.github.io/M-cube-VOS.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; M3-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation (`svos with phase transition for embodied ai`)
 
