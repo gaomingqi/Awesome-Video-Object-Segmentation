@@ -56,7 +56,7 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv (within 6 months)](#arxiv24), 🔥[CVPR 2025](#cvpr25)🔥, 🔥[ICLR 2025](#iclr25)🔥, 🔥[AAAI 2025](#aaai25)🔥, [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv (within 6 months)](#arxiv24), 🔥[CVPR 2025](#cvpr25)🔥, 🔥[ICLR 2025](#iclr25)🔥, 🔥[AAAI 2025](#aaai25)🔥, [Journals 2025](#j25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
@@ -182,6 +182,10 @@ No Active Workshops/Challenges.
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.01471) / [project page](https://cvlab-kaist.github.io/MUG-VOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Multi-Granularity Video Object Segmentation
 
 :red_square: `AVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.15876) / [code](https://github.com/appletea233/AL-Ref-SAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation
+
+---
+### <span id="j25">Journals 2025</span>
+:orange_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10933555) / [code](https://github.com/yk-pku/Low-shot-VOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Low-shot Video Object Segmentation
 
 ---
 ### <span id="nips24">NeurIPS 2024</span>
