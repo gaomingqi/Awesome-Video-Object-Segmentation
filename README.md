@@ -88,6 +88,10 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv24">ArXiv (Within the last 6 months)</span>
 
+:diamond_shape_with_a_dot_inside: `VMAT` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.10678) / [project page](https://bio.lehanyang.info/VRMDiff.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion
+
+:diamond_shape_with_a_dot_inside: `VMAT` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.01262) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Object-Aware Video Matting with Cross-Frame Guidance
+
 :orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.03492) / [code](https://github.com/suhwan-cho/FindTrack) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation
 
 :green_square: `SVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.12975) / [code](https://github.com/danqu130/EvInsMOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Instance-Level Moving Object Segmentation from a Single Image with Events
@@ -130,8 +134,6 @@ No Active Workshops/Challenges.
 
 :blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.18933) / [code](https://github.com/yformer/EfficientTAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient Track Anything
 
-:orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.17646) / [code](https://github.com/ClaudiaCuttano/SAMWISE) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation
-
 :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.09921) / [project page](https://groundmore.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level
 
 :blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.11922) / [code](https://github.com/yangchris11/samurai) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory
@@ -151,6 +153,8 @@ No Active Workshops/Challenges.
 ### <span id="cvpr25">CVPR 2025</span>
 
 :diamond_shape_with_a_dot_inside: `VMAT` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.14677) / [code](https://github.com/pq-yang/MatAnyone) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Stable Video Matting with Consistent Memory Propagation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.17646) / [code](https://github.com/ClaudiaCuttano/SAMWISE) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.08549) / [code](https://github.com/SitongGong/VRS-HQ) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; The Devil is in Temporal Token: High Quality Video Reasoning Segmentation
 
@@ -172,6 +176,7 @@ No Active Workshops/Challenges.
 
 ---
 ### <span id="iclr25">ICLR 2025</span>
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.18538) / [code](https://github.com/alimohammadiamirhossein/smite/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SMITE: Segment Me In TimE
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.07760) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Spatial-Semantic Features for Robust Video Object Segmentation
