@@ -56,7 +56,7 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv (within 6 months)](#arxiv24), 🔥[CVPR 2025](#cvpr25)🔥, 🔥[ICLR 2025](#iclr25)🔥, 🔥[AAAI 2025](#aaai25)🔥, [Journals 2025](#j25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv (within 6 months)](#arxiv24), 🔥[CVPR 2025](#cvpr25)🔥, 🔥[ICLR 2025](#iclr25)🔥, [AAAI 2025](#aaai25), [Journals 2025](#j25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
@@ -87,6 +87,8 @@ No Active Workshops/Challenges.
 ---
 
 ### <span id="arxiv24">ArXiv (Within the last 6 months)</span>
+
+:orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.21056) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Online Reasoning Video Segmentation with Just-in-Time Digital Twins
 
 :diamond_shape_with_a_dot_inside: `VMAT` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.10678) / [project page](https://bio.lehanyang.info/VRMDiff.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion
 
@@ -142,12 +144,6 @@ No Active Workshops/Challenges.
 
 :blue_square: `SVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.16268) / [code](https://github.com/Mark12Ding/SAM2Long) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree
 
-:green_square: `UVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.18653) / [code](https://github.com/zhoustan/SAM2-VCOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation
-
-:blue_square: `SVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.14343) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Memory Matching is not Enough: Jointly Improving Memory Matching and Decoding for Video Object Segmentation
-
-:red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.01708) / [code](https://github.com/MarkXCloud/AVESFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation
-
 
 ---
 ### <span id="cvpr25">CVPR 2025</span>
@@ -173,6 +169,8 @@ No Active Workshops/Challenges.
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.12847) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.04623) / [code](https://github.com/Kaihua-Chen/diffusion-vas) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Using Diffusion Priors for Video Amodal Segmentation (`segment both visible and invisible (e.g., occluded) video objects`)
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.22268) / [code](https://github.com/nnanhuang/SegAnyMo) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Segment Any Motion in Videos
 
 ---
 ### <span id="iclr25">ICLR 2025</span>
@@ -280,6 +278,13 @@ No Active Workshops/Challenges.
 
 ---
 ### <span id="earxiv24">Earlier Arxiv 2024</span>
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.18653) / [code](https://github.com/zhoustan/SAM2-VCOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.14343) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Memory Matching is not Enough: Jointly Improving Memory Matching and Decoding for Video Object Segmentation
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.01708) / [code](https://github.com/MarkXCloud/AVESFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation
+
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.00169) / [code](https://github.com/Vujas-Eteph/LazyXMem) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Strike the Balance: On-the-Fly Uncertainty based User Interactions for Long-Term Video Object Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) / [code](https://github.com/facebookresearch/segment-anything-2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 2: Segment Anything in Images and Videos
