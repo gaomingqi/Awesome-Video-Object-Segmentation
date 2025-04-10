@@ -193,9 +193,9 @@ No Active Workshops/Challenges.
 ---
 ### <span id="j25">Journals 2025</span>
 
-:orange_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10933555) / [code](https://github.com/yk-pku/Low-shot-VOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Low-shot Video Object Segmentation
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10933555) / [code](https://github.com/yk-pku/Low-shot-VOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Low-shot Video Object Segmentation
 
-:orange_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10949703) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` JointFormer: A Unified Framework with Joint Modeling for Video Object Segmentation
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10949703) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` JointFormer: A Unified Framework with Joint Modeling for Video Object Segmentation
 
 ---
 ### <span id="nips24">NeurIPS 2024</span>
