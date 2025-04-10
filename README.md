@@ -56,7 +56,7 @@ Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv (within 6 months)](#arxiv24), 🔥[CVPR 2025](#cvpr25)🔥, 🔥[ICLR 2025](#iclr25)🔥, [AAAI 2025](#aaai25), [Journals 2025](#j25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv (within 6 months)](#arxiv24), 🔥[CVPR 2025](#cvpr25)🔥, [ICLR 2025](#iclr25), [AAAI 2025](#aaai25), [Journals 2025](#j25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
@@ -86,9 +86,7 @@ No Active Workshops/Challenges.
 
 ---
 
-### <span id="arxiv24">ArXiv (Within the last 6 months)</span>
-
-:green_square: `UVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2504.05468) / [code](https://github.com/thanosDelatolas/diff-zvos) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Studying Image Diffusion Features for Zero-Shot Video Object Segmentation
+### <span id="arxiv24">ArXiv (In last 6 months)</span>
 
 :green_square: `UVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2504.05904) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Intrinsic Saliency Guided Trunk-Collateral Network for Unsupervised Video Object Segmentation
 
@@ -140,8 +138,6 @@ No Active Workshops/Challenges.
 
 :blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.18933) / [code](https://github.com/yformer/EfficientTAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient Track Anything
 
-:orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.09921) / [project page](https://groundmore.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level
-
 :blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.11922) / [code](https://github.com/yangchris11/samurai) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory
 
 :orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.23287) / [project page](https://miccooper9.github.io/projects/ReferEverything/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferEverything: Towards Segmenting Everything We Can Speak of in Videos
@@ -160,6 +156,8 @@ No Active Workshops/Challenges.
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.09754) / [code](https://github.com/Ali2500/ViCaS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation
 
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.09921) / [code](https://github.com/dengandong/GroundMoRe) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.17576) / [code](https://github.com/jovanavidenovic/DAM4SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; A Distractor-Aware Memory for Visual Object Tracking with SAM2
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.02818) / [code](https://github.com/uncbiag/LiVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LiVOS: Light Video Object Segmentation with Gated Linear Matching
@@ -175,6 +173,8 @@ No Active Workshops/Challenges.
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.04623) / [code](https://github.com/Kaihua-Chen/diffusion-vas) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Using Diffusion Priors for Video Amodal Segmentation (`segment both visible and invisible (e.g., occluded) video objects`)
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.22268) / [code](https://github.com/nnanhuang/SegAnyMo) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Segment Any Motion in Videos
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2504.05468) / [code](https://github.com/thanosDelatolas/diff-zvos) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Studying Image Diffusion Features for Zero-Shot Video Object Segmentation
 
 ---
 ### <span id="iclr25">ICLR 2025</span>
