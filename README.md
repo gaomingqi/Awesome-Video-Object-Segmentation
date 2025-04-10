@@ -88,6 +88,10 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv24">ArXiv (Within the last 6 months)</span>
 
+:green_square: `UVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2504.05468) / [code](https://github.com/thanosDelatolas/diff-zvos) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Studying Image Diffusion Features for Zero-Shot Video Object Segmentation
+
+:green_square: `UVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2504.05904) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Intrinsic Saliency Guided Trunk-Collateral Network for Unsupervised Video Object Segmentation
+
 :orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.21056) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Online Reasoning Video Segmentation with Just-in-Time Digital Twins
 
 :diamond_shape_with_a_dot_inside: `VMAT` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.10678) / [project page](https://bio.lehanyang.info/VRMDiff.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion
