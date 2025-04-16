@@ -190,6 +190,10 @@ No Active Workshops/Challenges.
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.01471) / [project page](https://cvlab-kaist.github.io/MUG-VOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Multi-Granularity Video Object Segmentation
 
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32706) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Holistic Correction with Object Prototype for Video Object Segmentation
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32626) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Beyond Pixel and Object: Part Feature as Reference for Few-Shot Video Object Segmentation
+
 :red_square: `AVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.15876) / [code](https://github.com/appletea233/AL-Ref-SAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation
 
 ---
