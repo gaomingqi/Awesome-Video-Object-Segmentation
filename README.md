@@ -88,6 +88,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv24">ArXiv (In last 6 months)</span>
 
+:blue_square: `SVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2504.12080) / [code](https://github.com/zaplm/DC-SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency
+
 :green_square: `UVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2504.05904) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Intrinsic Saliency Guided Trunk-Collateral Network for Unsupervised Video Object Segmentation
 
 :orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.21056) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Online Reasoning Video Segmentation with Just-in-Time Digital Twins
