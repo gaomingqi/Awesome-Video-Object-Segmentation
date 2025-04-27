@@ -7,10 +7,8 @@
         <img src="https://img.shields.io/github/commit-activity/m/gaomingqi/awesome-video-object-segmentation?colorB=b74e45" /></a>
     <a href="" alt="">
         <img src="https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?colorB=54b345" /></a>
-    <a src="https://img.shields.io/badge/survey_paper-PDF-ffbe7a?style=flat-square" href="https://link.springer.com/article/10.1007/s10462-022-10176-7">
-        <img src="https://img.shields.io/badge/survey_paper-PDF-ffbe7a"></a>
-    <a href="" alt="">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=gaomingqi.awesome-video-object-segmentation?style=flat-square" /></a>
+    <a src="https://img.shields.io/badge/survey_paper-PDF-a7c7e7?style=flat-square" href="https://link.springer.com/article/10.1007/s10462-022-10176-7">
+        <img src="https://img.shields.io/badge/survey_paper-PDF-a7c7e7"></a>
 </p>
 
 Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be found in our survey paper:
