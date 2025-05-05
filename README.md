@@ -86,6 +86,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv24">ArXiv (In last 6 months)</span>
 
+:blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.00739) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MoSAM: Motion-Guided Segment Anything Model with Spatial-Temporal Memory Selection
+
 :blue_square: `SVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2504.16471) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; RGB-D Video Object Segmentation via Enhanced Multi-store Feature Memory
 
 :blue_square: `SVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2504.12080) / [code](https://github.com/zaplm/DC-SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency
