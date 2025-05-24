@@ -86,7 +86,11 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv24">ArXiv (In last 6 months)</span>
 
-:blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.08581) / [code](https://github.com/jinlab-imvr/ReSurgSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking
+:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.08581) / [code](https://github.com/jinlab-imvr/ReSurgSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking
+
+:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.12702) / [code](https://isee-laboratory.github.io/Long-RVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation
+
+:red_square: `AVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.01448) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; OpenAVS: Training-Free Open-Vocabulary Audio Visual Segmentation with Foundational Models
 
 :blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.00739) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MoSAM: Motion-Guided Segment Anything Model with Spatial-Temporal Memory Selection
 
