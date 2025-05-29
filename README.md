@@ -88,6 +88,8 @@ No Active Workshops/Challenges.
 
 :orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.08581) / [code](https://github.com/jinlab-imvr/ReSurgSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking
 
+:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.18561) / [code](https://github.com/DanielSHKao/ThinkVideo) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ThinkVideo: High-Quality Reasoning Video Segmentation with Chain of Thoughts
+
 :orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.12702) / [code](https://isee-laboratory.github.io/Long-RVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation
 
 :red_square: `AVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.01448) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; OpenAVS: Training-Free Open-Vocabulary Audio Visual Segmentation with Foundational Models
