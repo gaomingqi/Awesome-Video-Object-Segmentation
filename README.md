@@ -86,7 +86,7 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
-:red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01558) / [code](https://github.com/VoyageWang/SAM2LOVE) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
+:red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01558) / [code](https://github.com/VoyageWang/SAM2LOVE) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes
 
 :red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01015) / [code](https://github.com/yyliu01/AuralSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
 
