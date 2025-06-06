@@ -86,6 +86,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:orange_square: `RVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2506.02356) / [project](https://cvlab-kaist.github.io/InterRVOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; InterRVOS: Interaction-aware Referring Video Object Segmentation
+
 :red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01558) / [code](https://github.com/VoyageWang/SAM2LOVE) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes
 
 :red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01015) / [code](https://github.com/yyliu01/AuralSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
@@ -153,6 +155,10 @@ No Active Workshops/Challenges.
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2504.07962) / [code](https://github.com/GLUS-video/GLUS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation
 
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Pan_Semantic_and_Sequential_Alignment_for_Referring_Video_Object_Segmentation_CVPR_2025_paper.pdf) / [code](https://github.com/tavarich/SSA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Semantic and Sequential Alignment for Referring Video Object Segmentation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Decoupled_Motion_Expression_Video_Segmentation_CVPR_2025_paper.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decoupled Motion Expression Video Segmentation
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.17576) / [code](https://github.com/jovanavidenovic/DAM4SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; A Distractor-Aware Memory for Visual Object Tracking with SAM2
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.02818) / [code](https://github.com/uncbiag/LiVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LiVOS: Light Video Object Segmentation with Gated Linear Matching
@@ -164,6 +170,8 @@ No Active Workshops/Challenges.
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.12840) / [code](https://github.com/YenanLiu/DDESeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Dynamic Derivation and Elimination: Audio Visual Segmentation with Enhanced Audio Semantics
 
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.12847) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Radman_TSAM_Temporal_SAM_Augmented_with_Multimodal_Prompts_for_Referring_Audio-Visual_CVPR_2025_paper.pdf) / [project](https://abdurad.github.io/TSAM/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; TSAM: Temporal SAM Augmented with Multimodal Prompts for Referring Audio-Visual Segmentation
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.04623) / [code](https://github.com/Kaihua-Chen/diffusion-vas) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Using Diffusion Priors for Video Amodal Segmentation (`segment both visible and invisible (e.g., occluded) video objects`)
 
