@@ -122,8 +122,6 @@ No Active Workshops/Challenges.
 
 :red_square: `AVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.00358) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Do Audio-Visual Segmentation Models Truly Segment Sounding Objects?
 
-:orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.14607) / [code](https://github.com/iSEE-Laboratory/ReferDINO) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations
-
 :orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.13667) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation
 
 :blue_square: `SVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.07256) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; EdgeTAM: On-Device Track Anything Model
@@ -141,6 +139,8 @@ No Active Workshops/Challenges.
 ---
 ### <span id="iccv25">ICCV 2025</span>
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.16268) / [code](https://github.com/Mark12Ding/SAM2Long) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.14607) / [code](https://github.com/iSEE-Laboratory/ReferDINO) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations
 
 ---
 ### <span id="cvpr25">CVPR 2025</span>
