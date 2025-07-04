@@ -71,7 +71,10 @@ No Active Workshops/Challenges.
 </details>
 
 ---
-### :floppy_disk: <span id="dataset">VOS Dataset (Year)</span>
+### :floppy_disk: <span id="dataset">VOS Dataset</span>
+
+<details><summary>Click to expand</summary>
+
 :blue_square: `SVOS`: [SA-V](https://ai.meta.com/datasets/segment-anything-video/) (2024), [LVOS](https://lingyihongfd.github.io/lvos.github.io/dataset.html) (2023), [MOSE](https://henghuiding.github.io/MOSE/) (2023), [VOST](https://www.vostdataset.org/) (2023), [VISOR](https://epic-kitchens.github.io/VISOR/) (2022), [YouTube-VOS](https://youtube-vos.org/) (2018/2019), [DAVIS](https://davischallenge.org/index.html) (2016/2017)
 
 :orange_square: `RVOS`: [ReVOS](https://github.com/cilinyan/ReVOS-api) (2024), [MeViS](https://henghuiding.github.io/MeViS/) (2023), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/) (2020), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions) (2018), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018)
@@ -81,6 +84,8 @@ No Active Workshops/Challenges.
 :red_square: `AVOS`: [AVSBench](https://opennlplab.github.io/AVSBench/) (2022)
 
 :diamond_shape_with_a_dot_inside: `VMAT`: [VideoMatte240K](https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets) (2021), [CRGNN](https://github.com/TiantianWang/VideoMatting-CRGNN) (2021)
+
+</details>
 
 ---
 
@@ -141,6 +146,8 @@ No Active Workshops/Challenges.
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.16268) / [code](https://github.com/Mark12Ding/SAM2Long) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.14607) / [code](https://github.com/iSEE-Laboratory/ReferDINO) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.14006) / [code](https://github.com/congvvc/InstructSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models
 
 ---
 ### <span id="cvpr25">CVPR 2025</span>
@@ -213,8 +220,6 @@ No Active Workshops/Challenges.
 ---
 ### <span id="a25">Earlier Arxiv 2025</span>
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.19761) / [project page](https://genprop.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Generative Video Propagation (`with applications in SVOS`)
-
-:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.14006) / [code](https://github.com/congvvc/InstructSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models
 
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.08161) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Collaborative Hybrid Propagator for Temporal Misalignment in Audio-Visual Segmentation
 
