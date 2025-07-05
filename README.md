@@ -180,6 +180,8 @@ No Active Workshops/Challenges.
 
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.12840) / [code](https://github.com/YenanLiu/DDESeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Dynamic Derivation and Elimination: Audio Visual Segmentation with Enhanced Audio Semantics
 
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.23623) / [code](https://github.com/spyflying/VCT_AVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Revisiting Audio-Visual Segmentation with Vision-Centric Transformer
+
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.12847) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment
 
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Radman_TSAM_Temporal_SAM_Augmented_with_Multimodal_Prompts_for_Referring_Audio-Visual_CVPR_2025_paper.pdf) / [project](https://abdurad.github.io/TSAM/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; TSAM: Temporal SAM Augmented with Multimodal Prompts for Referring Audio-Visual Segmentation
