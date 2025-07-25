@@ -91,6 +91,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.15852) / [code](https://github.com/OpenIXCLab/SeC) / [dataset](https://huggingface.co/datasets/OpenIXCLab/SeCVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction
+
 :blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.07603) / [code](https://github.com/LouisFinner/HiM2SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking
 
 :white_large_square: `XVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.07519) / [dataset](https://volumetric-repository.labs.b-com.com/#/muvod) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation
