@@ -91,6 +91,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2507.18921) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object Embedding With Selective Update and Self-Supervised Distillation Feedback
+
 :blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.15852) / [code](https://github.com/OpenIXCLab/SeC) / [dataset](https://huggingface.co/datasets/OpenIXCLab/SeCVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction
 
 :blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.07603) / [code](https://github.com/LouisFinner/HiM2SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking
@@ -149,6 +151,9 @@ No Active Workshops/Challenges.
 
 ---
 ### <span id="iccv25">ICCV 2025</span>
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.18944) / [code](https://github.com/jinlab-imvr/OASIS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Structure Matters: Revisiting Boundary Refinement in Video Object Segmentation
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.16268) / [code](https://github.com/Mark12Ding/SAM2Long) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.14607) / [code](https://github.com/iSEE-Laboratory/ReferDINO) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations
