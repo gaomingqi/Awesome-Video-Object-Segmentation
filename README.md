@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/survey_paper-PDF-a7c7e7"></a>
 </p>
 
-Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be found in our survey paper:
+Latest Advances in Video Object Segmentation (VOS). VOS works before 2022 can be found in our survey paper:
 
 >Deep Learning for Video Object Segmentation: A Review / [paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf) / [project page](https://github.com/gaomingqi/VOS-Review) <details><summary>BibTex</summary> @article{gao2023deep,
   title={Deep learning for video object segmentation: a review},
@@ -91,6 +91,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.19790) / [code](https://github.com/suhwan-cho/DepthFlow) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DepthFlow: Exploiting Depth-Flow Structural Correlations for Unsupervised Video Object Segmentation
+
 :blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2507.18921) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object Embedding With Selective Update and Self-Supervised Distillation Feedback
 
 :blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.15852) / [code](https://github.com/OpenIXCLab/SeC) / [dataset](https://huggingface.co/datasets/OpenIXCLab/SeCVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction
@@ -159,6 +161,10 @@ No Active Workshops/Challenges.
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.14607) / [code](https://github.com/iSEE-Laboratory/ReferDINO) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.14006) / [code](https://github.com/congvvc/InstructSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models
+
+:white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.22061) / [code](https://github.com/FudanCVL/MOVE) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MOVE: Motion-Guided Few-Shot Video Object Segmentation
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.20740) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Implicit Counterfactual Learning for Audio-Visual Segmentation
 
 ---
 ### <span id="cvpr25">CVPR 2025</span>
