@@ -91,6 +91,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.22465) / [code](https://github.com/ZhengxyFlow/HMHI-Net) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Shallow Features Matter: Hierarchical Memory with Heterogeneous Interaction for Unsupervised Video Object Segmentation
+
 :green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.19790) / [code](https://github.com/suhwan-cho/DepthFlow) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DepthFlow: Exploiting Depth-Flow Structural Correlations for Unsupervised Video Object Segmentation
 
 :blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2507.18921) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object Embedding With Selective Update and Self-Supervised Distillation Feedback
