@@ -91,6 +91,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.02149) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AURORA: Augmented Understanding via Structured Reasoning and Reinforcement Learning for Reference Audio-Visual Segmentation
+
 :green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.22465) / [code](https://github.com/ZhengxyFlow/HMHI-Net) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Shallow Features Matter: Hierarchical Memory with Heterogeneous Interaction for Unsupervised Video Object Segmentation
 
 :green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.19790) / [code](https://github.com/suhwan-cho/DepthFlow) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DepthFlow: Exploiting Depth-Flow Structural Correlations for Unsupervised Video Object Segmentation
@@ -165,6 +167,8 @@ No Active Workshops/Challenges.
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.14006) / [code](https://github.com/congvvc/InstructSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.22061) / [code](https://github.com/FudanCVL/MOVE) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MOVE: Motion-Guided Few-Shot Video Object Segmentation
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.22886) / [code](https://github.com/FudanCVL/OmniAVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation
 
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.20740) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Implicit Counterfactual Learning for Audio-Visual Segmentation
 
