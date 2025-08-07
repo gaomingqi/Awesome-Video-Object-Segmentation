@@ -91,6 +91,8 @@ No Active Workshops/Challenges.
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.04418) / [code](https://github.com/jasongief/TGS-Agent) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation
+
 :red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.02149) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AURORA: Augmented Understanding via Structured Reasoning and Reinforcement Learning for Reference Audio-Visual Segmentation
 
 :green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.22465) / [code](https://github.com/ZhengxyFlow/HMHI-Net) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Shallow Features Matter: Hierarchical Memory with Heterogeneous Interaction for Unsupervised Video Object Segmentation
