@@ -59,16 +59,7 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
 
-No Active Workshops/Challenges.
-
-<details><summary>Finished</summary>
-
-:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [LSVOS @ECCV 2024](https://lsvos.github.io/) (Finished)
-
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [VOTS @ECCV 2024](https://www.votchallenge.net/) (Finished)
-
-:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [PVUW @CVPR 2024](https://www.vspwdataset.com/Workshop2024.html) (Finished)
-</details>
+:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [LSVOS @ICCV 2025](https://lsvos.github.io/) 
 
 ---
 ### :floppy_disk: <span id="dataset">VOS Dataset</span>
@@ -90,6 +81,14 @@ No Active Workshops/Challenges.
 ---
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
+
+:orange_square: `RVOS` :blue_square: `SVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.21809) / [code](https://github.com/google-deepmind/vocap) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VoCap: Video Object Captioning and Segmentation from Any Prompt
+
+:orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11955) / [code](https://github.com/Seung-Hun-Lee/SAMDWICH) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMDWICH: Moment-aware Video-text Alignment for Referring Video Object Segmentation
+
+:orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.13584) / [code](https://github.com/qianqiaoai/HCD) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model
+
+:orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11538) / [code](https://github.com/SitongGong/Veason-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reinforcing Video Reasoning Segmentation to Think Before It Segments
 
 :red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.04418) / [code](https://github.com/jasongief/TGS-Agent) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation
 
