@@ -82,6 +82,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.05751) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unleashing Hierarchical Reasoning: An LLM-Driven Framework for Training-Free Referring Video Object Segmentation
+
 :orange_square: `RVOS` :blue_square: `SVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.21809) / [code](https://github.com/google-deepmind/vocap) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VoCap: Video Object Captioning and Segmentation from Any Prompt
 
 :orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11955) / [code](https://github.com/Seung-Hun-Lee/SAMDWICH) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMDWICH: Moment-aware Video-text Alignment for Referring Video Object Segmentation
