@@ -54,7 +54,7 @@ Latest Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv25)🔥, 🔥[CVPR 2025](#cvpr25)🔥, [ICLR 2025](#iclr25), [AAAI 2025](#aaai25), [Journals 2025](#j25), [Earlier ArXiv 2025](#a25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#sig25)🔥, 🔥[ICCV 2025](#iccv25)🔥, [CVPR 2025](#cvpr25), [ICLR 2025](#iclr25), [AAAI 2025](#aaai25), [Journals 2025](#j25), [Earlier ArXiv 2025](#a25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
@@ -112,6 +112,10 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv
 
 :white_large_square: `XVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.07519) / [dataset](https://volumetric-repository.labs.b-com.com/#/muvod) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation
 
+:diamond_shape_with_a_dot_inside: `VMAT` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.04456) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; BiVM: Accurate Binarized Neural Network for Efficient Video Matting
+
+:diamond_shape_with_a_dot_inside: `VMAT` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.10840) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Post-Training Quantization for Video Matting
+
 :red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.11436) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models
 
 :orange_square: `RVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2506.02356) / [project](https://cvlab-kaist.github.io/InterRVOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; InterRVOS: Interaction-aware Referring Video Object Segmentation
@@ -143,6 +147,12 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv
 :orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.03492) / [code](https://github.com/suhwan-cho/FindTrack) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation
 
 :orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.04001) / [code](https://github.com/magic-research/Sa2VA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos
+
+---
+
+### <span id="sig25">SIGGRAPH 2025</span>
+
+:diamond_shape_with_a_dot_inside: `VMAT` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.07905) / [code](https://github.com/aim-uofa/GVM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Generative Video Matting
 
 ---
 ### <span id="iccv25">ICCV 2025</span>
