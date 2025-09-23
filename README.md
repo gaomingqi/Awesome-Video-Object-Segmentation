@@ -66,7 +66,7 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv
 
 <details><summary>Click to expand</summary>
 
-:blue_square: `SVOS`: [SA-V](https://ai.meta.com/datasets/segment-anything-video/) (2024), [LVOS](https://lingyihongfd.github.io/lvos.github.io/dataset.html) (2023), [MOSE](https://henghuiding.github.io/MOSE/) (2023), [VOST](https://www.vostdataset.org/) (2023), [VISOR](https://epic-kitchens.github.io/VISOR/) (2022), [YouTube-VOS](https://youtube-vos.org/) (2018/2019), [DAVIS](https://davischallenge.org/index.html) (2016/2017)
+:blue_square: `SVOS`: [MOSEv2](https://www.codabench.org/competitions/10062/) (2025), [SA-V](https://ai.meta.com/datasets/segment-anything-video/) (2024), [LVOS](https://lingyihongfd.github.io/lvos.github.io/dataset.html) (2023), [MOSEv1](https://henghuiding.github.io/MOSE/) (2023), [VOST](https://www.vostdataset.org/) (2023), [VISOR](https://epic-kitchens.github.io/VISOR/) (2022), [YouTube-VOS](https://youtube-vos.org/) (2018/2019), [DAVIS](https://davischallenge.org/index.html) (2016/2017)
 
 :orange_square: `RVOS`: [ReVOS](https://github.com/cilinyan/ReVOS-api) (2024), [MeViS](https://henghuiding.github.io/MeViS/) (2023), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/) (2020), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions) (2018), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018)
 
@@ -81,6 +81,10 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv
 ---
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
+
+:orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18094) / [code](https://github.com/PolyU-ChenLab/UniPixel) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning
+
+:orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.13722) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Mitigating Query Selection Bias in Referring Video Object Segmentation
 
 :orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.05751) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unleashing Hierarchical Reasoning: An LLM-Driven Framework for Training-Free Referring Video Object Segmentation
 
@@ -137,24 +141,6 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv
 :diamond_shape_with_a_dot_inside: `VMAT` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.01262) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Object-Aware Video Matting with Cross-Frame Guidance
 
 :orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.03492) / [code](https://github.com/suhwan-cho/FindTrack) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation
-
-:green_square: `SVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.12975) / [code](https://github.com/danqu130/EvInsMOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Instance-Level Moving Object Segmentation from a Single Image with Events
-
-:blue_square: `SVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.09660) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Fine-grained Interactive Segmentation in Images and Videos
-
-:red_square: `AVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.00358) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Do Audio-Visual Segmentation Models Truly Segment Sounding Objects?
-
-:orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.13667) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation
-
-:blue_square: `SVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.07256) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; EdgeTAM: On-Device Track Anything Model
-
-:red_square: `AVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.07806) / [code](https://github.com/SitongGong/AVS-Mamba) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 
- AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation
-
-:green_square: `UVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.07806) / [code](https://github.com/hy0523/MTNet) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 
- Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation
-
-:orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.04939) / [code](https://github.com/Choi58/MTCM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation
 
 :orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.04001) / [code](https://github.com/magic-research/Sa2VA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos
 
@@ -225,6 +211,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv
 ---
 ### <span id="iclr25">ICLR 2025</span>
 
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) / [code](https://github.com/facebookresearch/segment-anything-2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 2: Segment Anything in Images and Videos
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.18538) / [code](https://github.com/alimohammadiamirhossein/smite/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SMITE: Segment Me In TimE
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.07760) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Spatial-Semantic Features for Robust Video Object Segmentation
@@ -243,31 +231,30 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv
 ---
 ### <span id="j25">Journals 2025</span>
 
+:green_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.12975) / [code](https://github.com/danqu130/EvInsMOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `IJCV` Instance-Level Moving Object Segmentation from a Single Image with Events
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.07806) / [code](https://github.com/hy0523/MTNet) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 
+ `TNNLS` Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10933555) / [code](https://github.com/yk-pku/Low-shot-VOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Low-shot Video Object Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/10949703) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` JointFormer: A Unified Framework with Joint Modeling for Video Object Segmentation
 
 ---
 ### <span id="a25">Earlier Arxiv 2025</span>
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.19761) / [project page](https://genprop.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Generative Video Propagation (`with applications in SVOS`)
 
-:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.08161) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Collaborative Hybrid Propagator for Temporal Misalignment in Audio-Visual Segmentation
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.09660) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Fine-grained Interactive Segmentation in Images and Videos
 
-:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.04930) / [project page](https://www.cs.umd.edu/~gauravsh/video_decomposition/index.html) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Video Decomposition Prior: A Methodology to Decompose Videos into Layers (`with applications in UVOS`)
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.00358) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Do Audio-Visual Segmentation Models Truly Segment Sounding Objects?
 
-:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.01136) / [project page](https://cvlab-kaist.github.io/SOLA/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referring Video Object Segmentation via Language-aligned Track Selection
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.13667) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation
 
-:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.18977) / [code](https://github.com/motern88/Det-SAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Det-SAM2: Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.07256) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; EdgeTAM: On-Device Track Anything Model
 
-:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.19141) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; On Moving Object Segmentation from Monocular Video with Transformers
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.07806) / [code](https://github.com/SitongGong/AVS-Mamba) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 
+ AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation
 
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.19210) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation
-
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.18933) / [code](https://github.com/yformer/EfficientTAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient Track Anything
-
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.11922) / [code](https://github.com/yangchris11/samurai) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory
-
-:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.23287) / [project page](https://miccooper9.github.io/projects/ReferEverything/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferEverything: Towards Segmenting Everything We Can Speak of in Videos
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.04939) / [code](https://github.com/Choi58/MTCM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation
 
 ---
 ### <span id="nips24">NeurIPS 2024</span>
@@ -358,6 +345,26 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv
 ---
 ### <span id="earxiv24">Earlier Arxiv 2024</span>
 
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.19761) / [project page](https://genprop.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Generative Video Propagation (`with applications in SVOS`)
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.08161) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Collaborative Hybrid Propagator for Temporal Misalignment in Audio-Visual Segmentation
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.04930) / [project page](https://www.cs.umd.edu/~gauravsh/video_decomposition/index.html) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Video Decomposition Prior: A Methodology to Decompose Videos into Layers (`with applications in UVOS`)
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2412.01136) / [project page](https://cvlab-kaist.github.io/SOLA/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Referring Video Object Segmentation via Language-aligned Track Selection
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.18977) / [code](https://github.com/motern88/Det-SAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Det-SAM2: Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.19141) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; On Moving Object Segmentation from Monocular Video with Transformers
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.19210) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.18933) / [code](https://github.com/yformer/EfficientTAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient Track Anything
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2411.11922) / [code](https://github.com/yangchris11/samurai) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.23287) / [project page](https://miccooper9.github.io/projects/ReferEverything/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferEverything: Towards Segmenting Everything We Can Speak of in Videos
+
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.18653) / [code](https://github.com/zhoustan/SAM2-VCOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2409.14343) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Memory Matching is not Enough: Jointly Improving Memory Matching and Decoding for Video Object Segmentation
@@ -365,8 +372,6 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICCV 2025](#iccv
 :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.01708) / [code](https://github.com/MarkXCloud/AVESFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation
 
 :white_large_square: `XVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2408.00169) / [code](https://github.com/Vujas-Eteph/LazyXMem) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Strike the Balance: On-the-Fly Uncertainty based User Interactions for Long-Term Video Object Segmentation
-
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) / [code](https://github.com/facebookresearch/segment-anything-2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 2: Segment Anything in Images and Videos
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.14500) / [code](https://github.com/rkzheng99/ViLLa) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ViLLa: Video Reasoning Segmentation with Large Language Model
 
