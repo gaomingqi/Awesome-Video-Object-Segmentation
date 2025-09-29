@@ -82,6 +82,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18912) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation
+
 :orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18094) / [code](https://github.com/PolyU-ChenLab/UniPixel) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning
 
 :orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.13722) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Mitigating Query Selection Bias in Referring Video Object Segmentation
