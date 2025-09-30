@@ -82,6 +82,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.22740) / [code](https://github.com/jinbae-s/ACVIS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning What To Hear: Boosting Sound-Source Association For Robust Audiovisual Instance Segmentation
+
 :red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18912) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation
 
 :orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18094) / [code](https://github.com/PolyU-ChenLab/UniPixel) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning
