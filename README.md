@@ -245,6 +245,9 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#
 ---
 ### <span id="j25">Journals 2025</span>
 
+
+:orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/11184493) / [code](https://github.com/yongliu20/MRVS_SOC) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Semantic-Assisted Object Clustering for Multi-Modal Referring Video Segmentation
+
 :green_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2502.12975) / [code](https://github.com/danqu130/EvInsMOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `IJCV` Instance-Level Moving Object Segmentation from a Single Image with Events
 
 :green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.07806) / [code](https://github.com/hy0523/MTNet) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 
