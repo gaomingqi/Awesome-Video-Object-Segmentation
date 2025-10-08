@@ -82,6 +82,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.06139) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Deforming Videos to Masks: Flow Matching for Referring Video Segmentation
+
 :red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.22740) / [code](https://github.com/jinbae-s/ACVIS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning What To Hear: Boosting Sound-Source Association For Robust Audiovisual Instance Segmentation
 
 :red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18912) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation
