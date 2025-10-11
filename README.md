@@ -231,7 +231,7 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.18538) / [code](https://github.com/alimohammadiamirhossein/smite/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SMITE: Segment Me In TimE
 
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.07760) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Spatial-Semantic Features for Robust Video Object Segmentation
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2407.07760) / [code](https://github.com/yahooo-m/S3) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning Spatial-Semantic Features for Robust Video Object Segmentation
 
 ---
 ### <span id="aaai25">AAAI 2025</span>
