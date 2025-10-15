@@ -82,6 +82,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:red_square: `AVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.10051) / [code](https://github.com/SitongGong/CCFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Complementary and Contrastive Learning for Audio-Visual Segmentation
+
 :orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.09274) / [code](https://github.com/Dmmm1997/MomentSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding
 
 :orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.08305) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LTCA: Long-range Temporal Context Attention for Referring Video Object Segmentation
