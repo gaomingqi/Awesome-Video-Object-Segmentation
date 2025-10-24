@@ -177,6 +177,10 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2410.16268) / [code](https://github.com/Mark12Ding/SAM2Long) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree
 
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Baek_EVOLVE_Event-Guided_Deformable_Feature_Transfer_and_Dual-Memory_Refinement_for_Low-Light_ICCV_2025_paper.pdf) / [code](https://github.com/whdgusdl48/EVOLVE) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; EVOLVE: Event-Guided Deformable Feature Transfer and Dual-Memory Refinement for Low-Light Video Object Segmentation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Rong_MPG-SAM_2_Adapting_SAM_2_with_Mask_Priors_and_Global_ICCV_2025_paper.pdf) / [code](https://github.com/rongfu-dsb/MPG-SAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation
+
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.19599) / [code](https://github.com/qirui-chen/RGA3-release) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Object-centric Video Question Answering with Visual Grounding and Referring (`Video LLM with applications on RVOS`)
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.14607) / [code](https://github.com/iSEE-Laboratory/ReferDINO) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations
