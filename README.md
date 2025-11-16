@@ -54,7 +54,7 @@ Latest Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#sig25)🔥, 🔥[ICCV 2025](#iccv25)🔥, [CVPR 2025](#cvpr25), [ICLR 2025](#iclr25), [AAAI 2025](#aaai25), [Journals 2025](#j25), [Earlier ArXiv 2025](#a25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[NeurIPS 2025](#nips25)🔥, [AAAI 2025](#aaai25), [ACM MM 2025](#mm25), [SIGGRAPH 2025](#sig25), [ICCV 2025](#iccv25), [CVPR 2025](#cvpr25), [ICLR 2025](#iclr25), [AAAI 2025](#aaai25), [Journals 2025](#j25), [Earlier ArXiv 2025](#a25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
@@ -98,8 +98,6 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#
 
 :red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18912) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation
 
-:orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18094) / [code](https://github.com/PolyU-ChenLab/UniPixel) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning
-
 :orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.13722) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Mitigating Query Selection Bias in Referring Video Object Segmentation
 
 :orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.05751) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unleashing Hierarchical Reasoning: An LLM-Driven Framework for Training-Free Referring Video Object Segmentation
@@ -112,11 +110,7 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#
 
 :orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11538) / [code](https://github.com/SitongGong/Veason-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reinforcing Video Reasoning Segmentation to Think Before It Segments
 
-:red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.04418) / [code](https://github.com/jasongief/TGS-Agent) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation
-
 :red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.02149) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AURORA: Augmented Understanding via Structured Reasoning and Reinforcement Learning for Reference Audio-Visual Segmentation
-
-:green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.22465) / [code](https://github.com/ZhengxyFlow/HMHI-Net) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Shallow Features Matter: Hierarchical Memory with Heterogeneous Interaction for Unsupervised Video Object Segmentation
 
 :green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.19790) / [code](https://github.com/suhwan-cho/DepthFlow) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DepthFlow: Exploiting Depth-Flow Structural Correlations for Unsupervised Video Object Segmentation
 
@@ -163,6 +157,26 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[SIGGRAPH 2025](#
 :orange_square: `RVOS` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2503.03492) / [code](https://github.com/suhwan-cho/FindTrack) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation
 
 :orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2501.04001) / [code](https://github.com/magic-research/Sa2VA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos
+
+---
+
+### <span id="nips25">NeurIPS 2025</span>
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18094) / [code](https://github.com/PolyU-ChenLab/UniPixel) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openreview.net/pdf?id=z9xyREqxzq) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Robust Egocentric Referring Video Object Segmentation via Dual-Modal Causal Intervention
+
+---
+
+### <span id="aaai25">AAAI 2025</span>
+
+:red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.04418) / [code](https://github.com/jasongief/TGS-Agent) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation
+
+---
+
+### <span id="mm25">ACM MM 2025</span>
+
+:green_square: `UVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.22465) / [code](https://github.com/ZhengxyFlow/HMHI-Net) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Shallow Features Matter: Hierarchical Memory with Heterogeneous Interaction for Unsupervised Video Object Segmentation
 
 ---
 
