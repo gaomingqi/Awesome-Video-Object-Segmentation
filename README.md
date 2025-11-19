@@ -49,7 +49,6 @@ Latest Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
     </tr>
 </table>
 
-
 :teddy_bear: Please feel free to send us pull requests to add VOS works.
 
 ---
@@ -59,7 +58,10 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
 
+<details><summary>No Active - Click to see history</summary>
+    
 :blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [LSVOS @ICCV 2025](https://lsvos.github.io/) 
+</details>
 
 ---
 ### :floppy_disk: <span id="dataset">VOS Dataset</span>
@@ -81,6 +83,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 ---
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
+
+🔥🔥🔥 :blue_square: `SVOS` :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/586186898_724834017304937_2869787384130329011_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=V0ySxB4YEecQ7kNvwE9bO7k&_nc_oc=Adn7bAjFdDo3pyjopE-tHSmOV5lgvaoxLNYmJtRbE9Op6gSQHJoEsg2ANithdVk2hm5mJvm_jjjSyhT0TiB9Go0h&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Oa338lN6JufBYl5-MfIdMg&oh=00_Afj4QvVDmMqGVUembmWPdxu9nWcksZ6Rjruxy28TYOm3PA&oe=6923F072) / [code](https://github.com/facebookresearch/sam3) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 3: Segment Anything with Concepts
 
 :orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.19592) / [code](https://github.com/HYUNJS/DecAF) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation
 
