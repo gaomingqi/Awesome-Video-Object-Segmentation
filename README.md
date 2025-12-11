@@ -84,7 +84,15 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.02835) / [code](https://github.com/Clementine24/ReVSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning
+
 🔥🔥🔥 :blue_square: `SVOS` :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/586186898_724834017304937_2869787384130329011_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=V0ySxB4YEecQ7kNvwE9bO7k&_nc_oc=Adn7bAjFdDo3pyjopE-tHSmOV5lgvaoxLNYmJtRbE9Op6gSQHJoEsg2ANithdVk2hm5mJvm_jjjSyhT0TiB9Go0h&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Oa338lN6JufBYl5-MfIdMg&oh=00_Afj4QvVDmMqGVUembmWPdxu9nWcksZ6Rjruxy28TYOm3PA&oe=6923F072) / [code](https://github.com/facebookresearch/sam3) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 3: Segment Anything with Concepts
+
+:blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.16618) / [code](https://github.com/jinlab-imvr/SAM2S) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking
+
+:blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.20886) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; V2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence
+
+:orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.21139) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReVSeg: Referring Video Object Segmentation with Cross-Modality Proxy Queries
 
 :orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.19592) / [code](https://github.com/HYUNJS/DecAF) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation
 
@@ -136,16 +144,6 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 :red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01015) / [code](https://github.com/yyliu01/AuralSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
 
-:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.08581) / [code](https://github.com/jinlab-imvr/ReSurgSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking
-
-:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.18561) / [code](https://github.com/DanielSHKao/ThinkVideo) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ThinkVideo: High-Quality Reasoning Video Segmentation with Chain of Thoughts
-
-:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.12702) / [code](https://isee-laboratory.github.io/Long-RVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation
-
-:red_square: `AVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.01448) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; OpenAVS: Training-Free Open-Vocabulary Audio Visual Segmentation with Foundational Models
-
-:blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.00739) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MoSAM: Motion-Guided Segment Anything Model with Spatial-Temporal Memory Selection
-
 ---
 
 ### <span id="aaai26">AAAI 2026</span>
@@ -154,7 +152,9 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.13715) / [code](https://github.com/FudanCVL/SAAS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Segment Anything Across Shots: A Method and Benchmark
 
-:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.16077) / [code](https://github.com/euyis1019/VideoSeg-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VideoSeg-RL: Reasoning Video Object Segmentation via Reinforcement Learning
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.19475) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Tracking and Segmenting Anything in Any Modality
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.16077) / [code](https://github.com/euyis1019/VideoSeg-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VideoSeg-R1: Reasoning Video Object Segmentation via Reinforcement Learning
 
 ---
 
@@ -281,6 +281,16 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 ---
 ### <span id="a25">Earlier Arxiv 2025</span>
+
+:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.08581) / [code](https://github.com/jinlab-imvr/ReSurgSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking
+
+:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.18561) / [code](https://github.com/DanielSHKao/ThinkVideo) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ThinkVideo: High-Quality Reasoning Video Segmentation with Chain of Thoughts
+
+:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.12702) / [code](https://isee-laboratory.github.io/Long-RVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation
+
+:red_square: `AVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.01448) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; OpenAVS: Training-Free Open-Vocabulary Audio Visual Segmentation with Foundational Models
+
+:blue_square: `SVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.00739) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MoSAM: Motion-Guided Segment Anything Model with Spatial-Temporal Memory Selection
 
 :blue_square: `SVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2504.16471) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; RGB-D Video Object Segmentation via Enhanced Multi-store Feature Memory
 
