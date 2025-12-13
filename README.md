@@ -84,6 +84,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.08406) / [code](https://github.com/gaomingqi/sam-body4d) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM-Body4D: Training-Free 4D Human Body Mesh Recovery from Videos (`VOS-driven Human Mesh Recovery`)
+
 :orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.02835) / [code](https://github.com/Clementine24/ReVSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning
 
 🔥🔥🔥 :blue_square: `SVOS` :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/586186898_724834017304937_2869787384130329011_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=V0ySxB4YEecQ7kNvwE9bO7k&_nc_oc=Adn7bAjFdDo3pyjopE-tHSmOV5lgvaoxLNYmJtRbE9Op6gSQHJoEsg2ANithdVk2hm5mJvm_jjjSyhT0TiB9Go0h&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Oa338lN6JufBYl5-MfIdMg&oh=00_Afj4QvVDmMqGVUembmWPdxu9nWcksZ6Rjruxy28TYOm3PA&oe=6923F072) / [code](https://github.com/facebookresearch/sam3) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 3: Segment Anything with Concepts
