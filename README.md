@@ -70,7 +70,7 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 :blue_square: `SVOS`: [MOSEv2](https://www.codabench.org/competitions/10062/) (2025), [SA-V](https://ai.meta.com/datasets/segment-anything-video/) (2024), [LVOS](https://lingyihongfd.github.io/lvos.github.io/dataset.html) (2023), [MOSEv1](https://henghuiding.github.io/MOSE/) (2023), [VOST](https://www.vostdataset.org/) (2023), [VISOR](https://epic-kitchens.github.io/VISOR/) (2022), [YouTube-VOS](https://youtube-vos.org/) (2018/2019), [DAVIS](https://davischallenge.org/index.html) (2016/2017)
 
-:orange_square: `RVOS`: [ReVOS](https://github.com/cilinyan/ReVOS-api) (2024), [MeViS](https://henghuiding.github.io/MeViS/) (2023), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/) (2020), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions) (2018), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018)
+:orange_square: `RVOS`: [MeViSv2](https://henghuiding.com/MeViS/#dataset) (2025), [ReVOS](https://github.com/cilinyan/ReVOS-api) (2024), [MeViS](https://henghuiding.github.io/MeViS/) (2023), [Ref-YouTube-VOS](https://youtube-vos.org/dataset/rvos/) (2020), [Ref-DAVIS](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions) (2018), [J-HMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018), [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) (2018)
 
 :green_square: `UVOS`: [DAVIS](https://davischallenge.org/index.html) (2016)
 
@@ -83,6 +83,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 ---
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
+
+:orange_square: `RVOS` :red_square: `AVOS` `Dec` `TPAMI` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.10945) / [project page and dataset](https://henghuiding.com/MeViS/index.html) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation
 
 :blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.08406) / [code](https://github.com/gaomingqi/sam-body4d) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM-Body4D: Training-Free 4D Human Body Mesh Recovery from Videos (`VOS-driven Human Mesh Recovery`)
 
