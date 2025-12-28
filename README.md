@@ -84,6 +84,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:red_square: `AVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.20117) / [project page](https://trilarflagz.github.io/DDAVS-page/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DDAVS: Disentangled Audio Semantics and Delayed Bidirectional Alignment for Audio-Visual Segmentation
+
 :orange_square: `RVOS` :red_square: `AVOS` `Dec` `TPAMI` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.10945) / [project page and dataset](https://henghuiding.com/MeViS/index.html) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation
 
 :blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.08406) / [code](https://github.com/gaomingqi/sam-body4d) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM-Body4D: Training-Free 4D Human Body Mesh Recovery from Videos (`VOS-driven Human Mesh Recovery`)
