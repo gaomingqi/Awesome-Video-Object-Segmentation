@@ -84,6 +84,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:diamond_shape_with_a_dot_inside: `VMAT` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2512.11782) / [project page](https://pq-yang.github.io/projects/MatAnyone2/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator
+
 :red_square: `AVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.20117) / [project page](https://trilarflagz.github.io/DDAVS-page/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DDAVS: Disentangled Audio Semantics and Delayed Bidirectional Alignment for Audio-Visual Segmentation
 
 :orange_square: `RVOS` :red_square: `AVOS` `Dec` `TPAMI` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.10945) / [project page and dataset](https://henghuiding.com/MeViS/index.html) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation
