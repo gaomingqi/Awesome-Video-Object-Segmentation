@@ -84,6 +84,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:blue_square: `SVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2601.08831) / [project page](https://jayisaking.github.io/3AM-Page/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 3AM: 3egment Anything with Geometric Consistency in Videos
+
 :diamond_shape_with_a_dot_inside: `VMAT` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2512.11782) / [project page](https://pq-yang.github.io/projects/MatAnyone2/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator
 
 :red_square: `AVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.20117) / [project page](https://trilarflagz.github.io/DDAVS-page/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DDAVS: Disentangled Audio Semantics and Delayed Bidirectional Alignment for Audio-Visual Segmentation
