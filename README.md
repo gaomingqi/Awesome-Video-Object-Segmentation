@@ -84,6 +84,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:blue_square: `SVOS` :orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2601.09699) / [code](https://github.com/FudanCVL/SAM3-DMS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3
+
 :blue_square: `SVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2601.08831) / [project page](https://jayisaking.github.io/3AM-Page/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 3AM: 3egment Anything with Geometric Consistency in Videos
 
 :diamond_shape_with_a_dot_inside: `VMAT` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2512.11782) / [project page](https://pq-yang.github.io/projects/MatAnyone2/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator
