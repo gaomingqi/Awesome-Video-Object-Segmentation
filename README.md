@@ -84,6 +84,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:diamond_shape_with_a_dot_inside: `VMAT` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2601.14255) / [code](https://github.com/cvlab-kaist/VideoMaMa) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VideoMaMa: Mask-Guided Video Matting via Generative Prior
+
 :blue_square: `SVOS` :orange_square: `RVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2601.09699) / [code](https://github.com/FudanCVL/SAM3-DMS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3
 
 :blue_square: `SVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2601.08831) / [project page](https://jayisaking.github.io/3AM-Page/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 3AM: 3egment Anything with Geometric Consistency in Videos
