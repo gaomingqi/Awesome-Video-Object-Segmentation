@@ -53,7 +53,7 @@ Latest Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai26)🔥, 🔥[NeurIPS 2025](#nips25)🔥, [ACM MM 2025](#mm25), [SIGGRAPH 2025](#sig25), [ICCV 2025](#iccv25), [CVPR 2025](#cvpr25), [ICLR 2025](#iclr25), [AAAI 2025](#aaai25), [Journals 2025](#j25), [Earlier ArXiv 2025](#a25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICLR 2026](#iclr26)🔥, [AAAI 2026](#aaai26), [NeurIPS 2025](#nips25), [ACM MM 2025](#mm25), [SIGGRAPH 2025](#sig25), [ICCV 2025](#iccv25), [CVPR 2025](#cvpr25), [ICLR 2025](#iclr25), [AAAI 2025](#aaai25), [Journals 2025](#j25), [Earlier ArXiv 2025](#a25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
@@ -100,15 +100,11 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 :orange_square: `RVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.02835) / [code](https://github.com/Clementine24/ReVSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning
 
-🔥🔥🔥 :blue_square: `SVOS` :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/586186898_724834017304937_2869787384130329011_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=V0ySxB4YEecQ7kNvwE9bO7k&_nc_oc=Adn7bAjFdDo3pyjopE-tHSmOV5lgvaoxLNYmJtRbE9Op6gSQHJoEsg2ANithdVk2hm5mJvm_jjjSyhT0TiB9Go0h&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Oa338lN6JufBYl5-MfIdMg&oh=00_Afj4QvVDmMqGVUembmWPdxu9nWcksZ6Rjruxy28TYOm3PA&oe=6923F072) / [code](https://github.com/facebookresearch/sam3) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 3: Segment Anything with Concepts
-
 :blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.16618) / [code](https://github.com/jinlab-imvr/SAM2S) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking
 
 :blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.20886) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; V2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence
 
 :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.21139) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReVSeg: Referring Video Object Segmentation with Cross-Modality Proxy Queries
-
-:orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.19592) / [code](https://github.com/HYUNJS/DecAF) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation
 
 :red_square: `AVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.10051) / [code](https://github.com/SitongGong/CCFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Complementary and Contrastive Learning for Audio-Visual Segmentation
 
@@ -142,8 +138,6 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 
 :blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2507.18921) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object Embedding With Selective Update and Self-Supervised Distillation Feedback
 
-:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.15852) / [code](https://github.com/OpenIXCLab/SeC) / [dataset](https://huggingface.co/datasets/OpenIXCLab/SeCVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction
-
 :blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.07603) / [code](https://github.com/LouisFinner/HiM2SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking
 
 :white_large_square: `XVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.07519) / [dataset](https://volumetric-repository.labs.b-com.com/#/muvod) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation
@@ -157,6 +151,20 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[AAAI 2026](#aaai
 :orange_square: `RVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2506.02356) / [project](https://cvlab-kaist.github.io/InterRVOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; InterRVOS: Interaction-aware Referring Video Object Segmentation
 
 :red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01015) / [code](https://github.com/yyliu01/AuralSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
+
+---
+### <span id="iclr26">ICLR 2026</span>
+:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/586186898_724834017304937_2869787384130329011_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=V0ySxB4YEecQ7kNvwE9bO7k&_nc_oc=Adn7bAjFdDo3pyjopE-tHSmOV5lgvaoxLNYmJtRbE9Op6gSQHJoEsg2ANithdVk2hm5mJvm_jjjSyhT0TiB9Go0h&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Oa338lN6JufBYl5-MfIdMg&oh=00_Afj4QvVDmMqGVUembmWPdxu9nWcksZ6Rjruxy28TYOm3PA&oe=6923F072) / [code](https://github.com/facebookresearch/sam3) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 3: Segment Anything with Concepts
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.15852) / [code](https://github.com/OpenIXCLab/SeC) / [dataset](https://huggingface.co/datasets/OpenIXCLab/SeCVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openreview.net/pdf?id=HcivRSezJp) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient-SAM2: Accelerating SAM2 with Object-Aware Visual Encoding and Memory Retrieval
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.19592) / [code](https://github.com/HYUNJS/DecAF) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2510.06139) / [code](https://github.com/xmz111/FlowRVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Deforming Videos to Masks: Flow Matching for Referring Video Segmentation
+
+:diamond_shape_with_a_dot_inside: `VMAT` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openreview.net/pdf?id=6K08FPo2cf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Matting Anything 2: Towards Video Matting for Anything
 
 ---
 
