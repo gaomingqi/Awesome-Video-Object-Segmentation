@@ -84,6 +84,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICLR 2026](#iclr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:red_square: `AVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2602.03892) / [code](https://github.com/jasongief/MQA-RefAVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Audit After Segmentation: Reference-Free Mask Quality Assessment for Language-Referred Audio-Visual Segmentation
+
 :orange_square: `RVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2602.03595) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Refer-Agent: A Collaborative Multi-Agent System with Reasoning and Reflection for Referring Video Object Segmentation
 
 :diamond_shape_with_a_dot_inside: `VMAT` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2601.14255) / [code](https://github.com/cvlab-kaist/VideoMaMa) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VideoMaMa: Mask-Guided Video Matting via Generative Prior
