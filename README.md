@@ -164,7 +164,7 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICLR 2026](#iclr
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.15852) / [code](https://github.com/OpenIXCLab/SeC) / [dataset](https://huggingface.co/datasets/OpenIXCLab/SeCVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction
 
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openreview.net/pdf?id=HcivRSezJp) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient-SAM2: Accelerating SAM2 with Object-Aware Visual Encoding and Memory Retrieval
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2602.08224) / [code](https://github.com/jingjing0419/Efficient-SAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient-SAM2: Accelerating SAM2 with Object-Aware Visual Encoding and Memory Retrieval
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.19592) / [code](https://github.com/HYUNJS/DecAF) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation
 
