@@ -84,6 +84,9 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICLR 2026](#iclr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:orange_square: `RVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2602.12173) / [code](https://github.com/SimonZeng7108/efficientsam3/tree/sam3_litetext) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder
+for Efficient Vision-Language Segmentation
+
 :orange_square: `RVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2602.04454) / [code](https://github.com/iSEE-Laboratory/Seg-ReSearch) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Seg-ReSearch: Segmentation with Interleaved Reasoning and External Search (`Reasoning VOS via Outside Knowledge!`)
 
 :red_square: `AVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2602.03892) / [code](https://github.com/jasongief/MQA-RefAVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Audit After Segmentation: Reference-Free Mask Quality Assessment for Language-Referred Audio-Visual Segmentation
