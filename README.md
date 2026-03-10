@@ -58,7 +58,9 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICLR 2026](#iclr
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
 
-<details><summary>No Active - Click to see history</summary>
+:blue_square: `SVOS` :orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [PVUW @CVPR 2026](https://pvuw.github.io/) 
+
+<details><summary>Click to see history</summary>
     
 :blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [LSVOS @ICCV 2025](https://lsvos.github.io/) 
 </details>
