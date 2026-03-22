@@ -86,6 +86,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICLR 2026](#iclr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:red_square: `AVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.08967) / [code]( https://gitlab.com/viper-purdue/atlas) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Can You Hear, Localize, and Segment Continually? An Exemplar-Free Continual Learning Benchmark for Audio-Visual Segmentation
+
 :orange_square: `RVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2602.12173) / [code](https://github.com/SimonZeng7108/efficientsam3/tree/sam3_litetext) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder
 for Efficient Vision-Language Segmentation
 
@@ -186,6 +188,8 @@ for Efficient Vision-Language Segmentation
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.13715) / [code](https://github.com/FudanCVL/SAAS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Segment Anything Across Shots: A Method and Benchmark
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.19475) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Tracking and Segmenting Anything in Any Modality
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.01545) / [code](https://github.com/machine928/SDAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Training-Free Spatio-temporal Decoupled Reasoning Video Segmentation with Adaptive Object Memory
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.16077) / [code](https://github.com/euyis1019/VideoSeg-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VideoSeg-R1: Reasoning Video Object Segmentation via Reinforcement Learning
 
