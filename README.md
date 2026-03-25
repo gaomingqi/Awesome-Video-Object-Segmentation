@@ -53,7 +53,7 @@ Latest Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICLR 2026](#iclr26)🔥, [AAAI 2026](#aaai26), [NeurIPS 2025](#nips25), [ACM MM 2025](#mm25), [SIGGRAPH 2025](#sig25), [ICCV 2025](#iccv25), [CVPR 2025](#cvpr25), [ICLR 2025](#iclr25), [AAAI 2025](#aaai25), [Journals 2025](#j25), [Earlier ArXiv 2025](#a25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[CVPR 2026](#cvpr26)🔥, 🔥[ICLR 2026](#iclr26)🔥, [AAAI 2026](#aaai26), [NeurIPS 2025](#nips25), [ACM MM 2025](#mm25), [SIGGRAPH 2025](#sig25), [ICCV 2025](#iccv25), [CVPR 2025](#cvpr25), [ICLR 2025](#iclr25), [AAAI 2025](#aaai25), [Journals 2025](#j25), [Earlier ArXiv 2025](#a25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
@@ -105,11 +105,7 @@ for Efficient Vision-Language Segmentation
 
 :blue_square: `SVOS` `Jan` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2601.08831) / [project page](https://jayisaking.github.io/3AM-Page/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 3AM: 3egment Anything with Geometric Consistency in Videos
 
-:diamond_shape_with_a_dot_inside: `VMAT` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2512.11782) / [project page](https://pq-yang.github.io/projects/MatAnyone2/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator
-
 :red_square: `AVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.20117) / [project page](https://trilarflagz.github.io/DDAVS-page/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DDAVS: Disentangled Audio Semantics and Delayed Bidirectional Alignment for Audio-Visual Segmentation
-
-:orange_square: `RVOS` :red_square: `AVOS` `Dec` `TPAMI` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.10945) / [project page and dataset](https://henghuiding.com/MeViS/index.html) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation
 
 :blue_square: `SVOS` `Dec` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.08406) / [code](https://github.com/gaomingqi/sam-body4d) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM-Body4D: Training-Free 4D Human Body Mesh Recovery from Videos (`VOS-driven Human Mesh Recovery`)
 
@@ -131,41 +127,14 @@ for Efficient Vision-Language Segmentation
 
 :orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.06139) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Deforming Videos to Masks: Flow Matching for Referring Video Segmentation
 
-:red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.22740) / [code](https://github.com/jinbae-s/ACVIS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning What To Hear: Boosting Sound-Source Association For Robust Audiovisual Instance Segmentation
+---
+### <span id="cvpr26">CVPR 2026</span>
 
-:red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18912) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation
+:diamond_shape_with_a_dot_inside: `VMAT` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2512.11782) / [project page](https://pq-yang.github.io/projects/MatAnyone2/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator
 
-:orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.13722) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Mitigating Query Selection Bias in Referring Video Object Segmentation
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.12702) / [code](https://isee-laboratory.github.io/Long-RVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation
 
-:orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.05751) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unleashing Hierarchical Reasoning: An LLM-Driven Framework for Training-Free Referring Video Object Segmentation
-
-:orange_square: `RVOS` :blue_square: `SVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.21809) / [code](https://github.com/google-deepmind/vocap) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VoCap: Video Object Captioning and Segmentation from Any Prompt
-
-:orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11955) / [code](https://github.com/Seung-Hun-Lee/SAMDWICH) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMDWICH: Moment-aware Video-text Alignment for Referring Video Object Segmentation
-
-:orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.13584) / [code](https://github.com/qianqiaoai/HCD) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model
-
-:orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11538) / [code](https://github.com/SitongGong/Veason-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reinforcing Video Reasoning Segmentation to Think Before It Segments
-
-:red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.02149) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AURORA: Augmented Understanding via Structured Reasoning and Reinforcement Learning for Reference Audio-Visual Segmentation
-
-:green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.19790) / [code](https://github.com/suhwan-cho/DepthFlow) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DepthFlow: Exploiting Depth-Flow Structural Correlations for Unsupervised Video Object Segmentation
-
-:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2507.18921) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object Embedding With Selective Update and Self-Supervised Distillation Feedback
-
-:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.07603) / [code](https://github.com/LouisFinner/HiM2SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking
-
-:white_large_square: `XVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.07519) / [dataset](https://volumetric-repository.labs.b-com.com/#/muvod) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation
-
-:diamond_shape_with_a_dot_inside: `VMAT` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.04456) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; BiVM: Accurate Binarized Neural Network for Efficient Video Matting
-
-:diamond_shape_with_a_dot_inside: `VMAT` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.10840) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Post-Training Quantization for Video Matting
-
-:red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.11436) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models
-
-:orange_square: `RVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2506.02356) / [project](https://cvlab-kaist.github.io/InterRVOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; InterRVOS: Interaction-aware Referring Video Object Segmentation
-
-:red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01015) / [code](https://github.com/yyliu01/AuralSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
+:red_square: `AVOS` `Findings` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01015) / [code](https://github.com/yyliu01/AuralSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
 
 ---
 ### <span id="iclr26">ICLR 2026</span>
@@ -306,6 +275,8 @@ for Efficient Vision-Language Segmentation
 ---
 ### <span id="j25">Journals 2025</span>
 
+:orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2512.10945) / [project page and dataset](https://henghuiding.com/MeViS/index.html) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation
+
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/document/11311151) / [code](https://github.com/zaplm/DC-SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency
 
 :orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/11184493) / [code](https://github.com/yongliu20/MRVS_SOC) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Semantic-Assisted Object Clustering for Multi-Modal Referring Video Segmentation
@@ -322,11 +293,43 @@ for Efficient Vision-Language Segmentation
 ---
 ### <span id="a25">Earlier Arxiv 2025</span>
 
+:red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.22740) / [code](https://github.com/jinbae-s/ACVIS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning What To Hear: Boosting Sound-Source Association For Robust Audiovisual Instance Segmentation
+
+:red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18912) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation
+
+:orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.13722) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Mitigating Query Selection Bias in Referring Video Object Segmentation
+
+:orange_square: `RVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.05751) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Unleashing Hierarchical Reasoning: An LLM-Driven Framework for Training-Free Referring Video Object Segmentation
+
+:orange_square: `RVOS` :blue_square: `SVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.21809) / [code](https://github.com/google-deepmind/vocap) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VoCap: Video Object Captioning and Segmentation from Any Prompt
+
+:orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11955) / [code](https://github.com/Seung-Hun-Lee/SAMDWICH) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMDWICH: Moment-aware Video-text Alignment for Referring Video Object Segmentation
+
+:orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.13584) / [code](https://github.com/qianqiaoai/HCD) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model
+
+:orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11538) / [code](https://github.com/SitongGong/Veason-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reinforcing Video Reasoning Segmentation to Think Before It Segments
+
+:red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.02149) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AURORA: Augmented Understanding via Structured Reasoning and Reinforcement Learning for Reference Audio-Visual Segmentation
+
+:green_square: `UVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.19790) / [code](https://github.com/suhwan-cho/DepthFlow) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DepthFlow: Exploiting Depth-Flow Structural Correlations for Unsupervised Video Object Segmentation
+
+:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2507.18921) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object Embedding With Selective Update and Self-Supervised Distillation Feedback
+
+:blue_square: `SVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.07603) / [code](https://github.com/LouisFinner/HiM2SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking
+
+:white_large_square: `XVOS` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.07519) / [dataset](https://volumetric-repository.labs.b-com.com/#/muvod) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation
+
+:diamond_shape_with_a_dot_inside: `VMAT` `Jul` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.04456) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; BiVM: Accurate Binarized Neural Network for Efficient Video Matting
+
+:diamond_shape_with_a_dot_inside: `VMAT` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.10840) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Post-Training Quantization for Video Matting
+
+:red_square: `AVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.11436) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models
+
+:orange_square: `RVOS` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2506.02356) / [project](https://cvlab-kaist.github.io/InterRVOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; InterRVOS: Interaction-aware Referring Video Object Segmentation
+
 :orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.08581) / [code](https://github.com/jinlab-imvr/ReSurgSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking
 
 :orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.18561) / [code](https://github.com/DanielSHKao/ThinkVideo) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ThinkVideo: High-Quality Reasoning Video Segmentation with Chain of Thoughts
-
-:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.12702) / [code](https://isee-laboratory.github.io/Long-RVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation
 
 :red_square: `AVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.01448) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; OpenAVS: Training-Free Open-Vocabulary Audio Visual Segmentation with Foundational Models
 
