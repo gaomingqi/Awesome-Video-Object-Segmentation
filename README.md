@@ -58,9 +58,9 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICLR 2026](#iclr
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
 
-:blue_square: `SVOS` :orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [PVUW @CVPR 2026](https://pvuw.github.io/) 
-
 <details><summary>Click to see history</summary>
+
+:blue_square: `SVOS` :orange_square: `RVOS` :red_square: `AVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [PVUW @CVPR 2026](https://pvuw.github.io/) 
     
 :blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [LSVOS @ICCV 2025](https://lsvos.github.io/) 
 </details>
@@ -86,7 +86,9 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ICLR 2026](#iclr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
-:red_square: `AVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.08967) / [code]( https://gitlab.com/viper-purdue/atlas) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Can You Hear, Localize, and Segment Continually? An Exemplar-Free Continual Learning Benchmark for Audio-Visual Segmentation
+:orange_square: `RVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.23489) / [code](https://github.com/cvlab-kaist/AgentRVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AgentRVOS: Reasoning Over Object Tracks for Zero-Shot Referring Video Object Segmentation
+
+:red_square: `AVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.08967) / [code](https://gitlab.com/viper-purdue/atlas) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Can You Hear, Localize, and Segment Continually? An Exemplar-Free Continual Learning Benchmark for Audio-Visual Segmentation
 
 :orange_square: `RVOS` `Feb` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2602.12173) / [code](https://github.com/SimonZeng7108/efficientsam3/tree/sam3_litetext) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder
 for Efficient Vision-Language Segmentation
