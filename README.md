@@ -86,6 +86,10 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[CVPR 2026](#cvpr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:red_square: `AVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.14203) / [code](https://github.com/happylife-pk/SDAVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Selective Noise Suppression and Discriminative Mutual Interaction for Robust Audio-Visual Segmentation
+
+:red_square: `AVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.22732) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SOUPLE: Enhancing Audio-Visual Localization and Segmentation with Learnable Prompt Contexts
+
 :orange_square: `RVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.23489) / [code](https://github.com/cvlab-kaist/AgentRVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AgentRVOS: Reasoning Over Object Tracks for Zero-Shot Referring Video Object Segmentation
 
 :red_square: `AVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.08967) / [code](https://gitlab.com/viper-purdue/atlas) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Can You Hear, Localize, and Segment Continually? An Exemplar-Free Continual Learning Benchmark for Audio-Visual Segmentation
