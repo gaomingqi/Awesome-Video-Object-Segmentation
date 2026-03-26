@@ -142,7 +142,7 @@ for Efficient Vision-Language Segmentation
 
 ---
 ### <span id="iclr26">ICLR 2026</span>
-:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/586186898_724834017304937_2869787384130329011_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=V0ySxB4YEecQ7kNvwE9bO7k&_nc_oc=Adn7bAjFdDo3pyjopE-tHSmOV5lgvaoxLNYmJtRbE9Op6gSQHJoEsg2ANithdVk2hm5mJvm_jjjSyhT0TiB9Go0h&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Oa338lN6JufBYl5-MfIdMg&oh=00_Afj4QvVDmMqGVUembmWPdxu9nWcksZ6Rjruxy28TYOm3PA&oe=6923F072) / [code](https://github.com/facebookresearch/sam3) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 3: Segment Anything with Concepts
+:blue_square: `SVOS` :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2511.16719v1) / [code](https://github.com/facebookresearch/sam3) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM 3: Segment Anything with Concepts
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2507.15852) / [code](https://github.com/OpenIXCLab/SeC) / [dataset](https://huggingface.co/datasets/OpenIXCLab/SeCVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction
 
