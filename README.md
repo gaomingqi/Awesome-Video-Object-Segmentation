@@ -86,6 +86,10 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[CVPR 2026](#cvpr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+
+
+:blue_square: `SVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.24006) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UW-VOS: A Large-Scale Dataset for Underwater Video Object Segmentation
+
 :red_square: `AVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.14203) / [code](https://github.com/happylife-pk/SDAVS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Selective Noise Suppression and Discriminative Mutual Interaction for Robust Audio-Visual Segmentation
 
 :red_square: `AVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.22732) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SOUPLE: Enhancing Audio-Visual Localization and Segmentation with Learnable Prompt Contexts
