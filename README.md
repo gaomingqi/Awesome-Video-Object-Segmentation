@@ -86,7 +86,7 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[CVPR 2026](#cvpr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
-
+:red_square: `AVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.27706) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MAR3: Multi-Agent Recognition, Reasoning, and Reflection for Reference Audio-Visual Segmentation
 
 :blue_square: `SVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.24006) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UW-VOS: A Large-Scale Dataset for Underwater Video Object Segmentation
 
@@ -138,9 +138,14 @@ for Efficient Vision-Language Segmentation
 ---
 ### <span id="cvpr26">CVPR 2026</span>
 
+
 :diamond_shape_with_a_dot_inside: `VMAT` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2512.11782) / [project page](https://pq-yang.github.io/projects/MatAnyone2/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.12702) / [code](https://isee-laboratory.github.io/Long-RVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.27060) / [code](https://github.com/AIDASLab/VIRST) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VIRST: Video-Instructed Reasoning Assistant for SpatioTemporal Segmentation
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.26929) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Live Interactive Training for Video Segmentation
 
 :red_square: `AVOS` `Findings` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01015) / [code](https://github.com/yyliu01/AuralSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
 
