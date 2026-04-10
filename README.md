@@ -86,6 +86,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[CVPR 2026](#cvpr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:blue_square: `SVOS` :orange_square: `RVOS` :red_square: `AVOS`  `Apr`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2604.03645) / [project page](https://jinlab-imvr.github.io/UniSurgSAM/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniSurgSAM: A Unified Promptable Model for Reliable Surgical Video Segmentation
+
 :red_square: `AVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.27706) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MAR3: Multi-Agent Recognition, Reasoning, and Reflection for Reference Audio-Visual Segmentation
 
 :blue_square: `SVOS`  `Mar`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.24006) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UW-VOS: A Large-Scale Dataset for Underwater Video Object Segmentation
