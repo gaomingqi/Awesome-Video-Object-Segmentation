@@ -131,16 +131,6 @@ for Efficient Vision-Language Segmentation
 
 :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.21139) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReVSeg: Referring Video Object Segmentation with Cross-Modality Proxy Queries
 
-:red_square: `AVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.10051) / [code](https://github.com/SitongGong/CCFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Complementary and Contrastive Learning for Audio-Visual Segmentation
-
-:orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.09274) / [code](https://github.com/Dmmm1997/MomentSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding
-
-:orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.08305) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LTCA: Long-range Temporal Context Attention for Referring Video Object Segmentation
-
-:orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.07319) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Temporal Prompting Matters: Rethinking Referring Video Object Segmentation
-
-:orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.06139) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Deforming Videos to Masks: Flow Matching for Referring Video Segmentation
-
 ---
 ### <span id="cvpr26">CVPR 2026</span>
 
@@ -151,6 +141,8 @@ for Efficient Vision-Language Segmentation
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2505.12702) / [code](https://isee-laboratory.github.io/Long-RVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.27060) / [code](https://github.com/AIDASLab/VIRST) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VIRST: Video-Instructed Reasoning Assistant for SpatioTemporal Segmentation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11538) / [code](https://github.com/SitongGong/Veason-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reinforcing Video Reasoning Segmentation to Think Before It Segments
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.26929) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Live Interactive Training for Video Segmentation
 
@@ -315,6 +307,16 @@ for Efficient Vision-Language Segmentation
 ---
 ### <span id="a25">Earlier Arxiv 2025</span>
 
+:red_square: `AVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.10051) / [code](https://github.com/SitongGong/CCFormer) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Complementary and Contrastive Learning for Audio-Visual Segmentation
+
+:orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.09274) / [code](https://github.com/Dmmm1997/MomentSeg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding
+
+:orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.08305) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LTCA: Long-range Temporal Context Attention for Referring Video Object Segmentation
+
+:orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.07319) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Temporal Prompting Matters: Rethinking Referring Video Object Segmentation
+
+:orange_square: `RVOS` `Oct` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2510.06139) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Deforming Videos to Masks: Flow Matching for Referring Video Segmentation
+
 :red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.22740) / [code](https://github.com/jinbae-s/ACVIS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Learning What To Hear: Boosting Sound-Source Association For Robust Audiovisual Instance Segmentation
 
 :red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18912) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation
@@ -328,8 +330,6 @@ for Efficient Vision-Language Segmentation
 :orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11955) / [code](https://github.com/Seung-Hun-Lee/SAMDWICH) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAMDWICH: Moment-aware Video-text Alignment for Referring Video Object Segmentation
 
 :orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.13584) / [code](https://github.com/qianqiaoai/HCD) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model
-
-:orange_square: `RVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11538) / [code](https://github.com/SitongGong/Veason-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reinforcing Video Reasoning Segmentation to Think Before It Segments
 
 :red_square: `AVOS` `Aug` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.02149) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AURORA: Augmented Understanding via Structured Reasoning and Reinforcement Learning for Reference Audio-Visual Segmentation
 
