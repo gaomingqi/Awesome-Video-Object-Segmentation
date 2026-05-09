@@ -86,9 +86,9 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[CVPR 2026](#cvpr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:blue_square: `SVOS` :orange_square: `RVOS` `May`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.00891) / [code](https://github.com/wanghao9610/X2SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; X2SAM: Any Segmentation in Images and Videos
+
 :blue_square: `SVOS` :orange_square: `RVOS` :red_square: `AVOS`  `Apr`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2604.03645) / [project page](https://jinlab-imvr.github.io/UniSurgSAM/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniSurgSAM: A Unified Promptable Model for Reliable Surgical Video Segmentation
-
-
 
 :green_square: `UVOS` `Apr` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2604.14630) / [code](https://github.com/InSeokJeon/CMTM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; CMTM: Cross-Modal Token Modulation for Unsupervised Video Object Segmentation
 
