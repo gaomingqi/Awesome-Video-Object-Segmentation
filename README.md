@@ -179,6 +179,11 @@ for Efficient Vision-Language Segmentation
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.16077) / [code](https://github.com/euyis1019/VideoSeg-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VideoSeg-R1: Reasoning Video Object Segmentation via Reinforcement Learning
 
 ---
+### <span id="j26">Journals 2026</span>
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/11511402) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TIP` Context-Infused Trajectories: Enhancing Context and Frame Consistency in Reasoning Video Object Segmentation
+
+---
 
 ### <span id="nips25">NeurIPS 2025</span>
 
