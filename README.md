@@ -144,11 +144,13 @@ for Efficient Vision-Language Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11538) / [code](https://github.com/SitongGong/Veason-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reinforcing Video Reasoning Segmentation to Think Before It Segments
 
-:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.26929) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Live Interactive Training for Video Segmentation
-
 :orange_square: `RVOS` `Findings` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2604.17797) / [code](https://github.com/viscom-tongji/WSRVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Weakly-Supervised Referring Video Object Segmentation through Text Supervision
 
 :red_square: `AVOS` `Findings` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01015) / [code](https://github.com/yyliu01/AuralSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.12006) / [project page](https://sohyun-l.github.io/RobustPVOS_project_page/#) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Robust Promptable Video Object Segmentation
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.26929) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Live Interactive Training for Video Segmentation
 
 ---
 ### <span id="iclr26">ICLR 2026</span>
