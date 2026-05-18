@@ -86,6 +86,14 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[CVPR 2026](#cvpr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:orange_square: `RVOS` :red_square: `AVOS` `May`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.07154) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; PRIMED: Adaptive Modality Suppression for Referring Audio-Visual Segmentation via Biased Competition
+
+:orange_square: `RVOS` `May`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.07334) / [code](https://github.com/Victor-wjw/RCoT-Seg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation
+
+:orange_square: `RVOS` `May` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.14908) / [project page](https://steerseg.github.io/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SteerSeg: Attention Steering for Reasoning Video Segmentation
+
+:red_square: `AVOS` `May`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.08805) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; LightAVSeg: Lightweight Audio-Visual Segmentation
+
 :blue_square: `SVOS` :orange_square: `RVOS` `May`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.00891) / [code](https://github.com/wanghao9610/X2SAM) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; X2SAM: Any Segmentation in Images and Videos
 
 :blue_square: `SVOS` :orange_square: `RVOS` :red_square: `AVOS`  `Apr`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2604.03645) / [project page](https://jinlab-imvr.github.io/UniSurgSAM/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; UniSurgSAM: A Unified Promptable Model for Reliable Surgical Video Segmentation
