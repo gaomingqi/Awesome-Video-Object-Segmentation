@@ -86,6 +86,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[CVPR 2026](#cvpr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:blue_square: `SVOS` `May`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.18013) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; TinySAM 2: Extreme Memory Compression for Efficient Track Anything Model
+
 :orange_square: `RVOS` :red_square: `AVOS` `May`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.07154) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; PRIMED: Adaptive Modality Suppression for Referring Audio-Visual Segmentation via Biased Competition
 
 :orange_square: `RVOS` `May`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.07334) / [code](https://github.com/Victor-wjw/RCoT-Seg) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation
@@ -190,6 +192,8 @@ for Efficient Vision-Language Segmentation
 
 ---
 ### <span id="j26">Journals 2026</span>
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/11520567) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Mask-Guided Self-Supervised Video Object Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/11511402) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TIP` Context-Infused Trajectories: Enhancing Context and Frame Consistency in Reasoning Video Object Segmentation
 
