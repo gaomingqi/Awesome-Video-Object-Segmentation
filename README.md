@@ -158,6 +158,8 @@ for Efficient Vision-Language Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2508.11538) / [code](https://github.com/SitongGong/Veason-R1) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Reinforcing Video Reasoning Segmentation to Think Before It Segments
 
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Towards_Streaming_Referring_Video_Segmentation_via_Large_Language_Model_CVPR_2026_paper.pdf) / [code](https://github.com/wkzhang636/StreamingRVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Streaming Referring Video Segmentation via Large Language Model
+
 :orange_square: `RVOS` `Findings` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2604.17797) / [code](https://github.com/viscom-tongji/WSRVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Weakly-Supervised Referring Video Object Segmentation through Text Supervision
 
 :red_square: `AVOS` `Findings` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01015) / [code](https://github.com/yyliu01/AuralSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
