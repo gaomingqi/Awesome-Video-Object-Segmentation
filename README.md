@@ -203,6 +203,8 @@ for Efficient Vision-Language Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/11511402) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TIP` Context-Infused Trajectories: Enhancing Context and Frame Consistency in Reasoning Video Object Segmentation
 
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/11547898) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TIP` Event-Aware Instructed Assistant for Referring Video Segmentation
+
 ---
 
 ### <span id="nips25">NeurIPS 2025</span>
