@@ -86,6 +86,8 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[CVPR 2026](#cvpr
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
+:orange_square: `RVOS` `June`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2606.06819) / [code](https://github.com/Dmmm1997/VideoSEG-O3) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation
+
 :green_square: `UVOS` `May`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.30352) / [code](https://github.com/Jyxarthur/gmos) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; GMOS: Grounding Moving Object Segmentation in 3D Space and Time
 
 :orange_square: `RVOS` `May`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.20110) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SetCon: Towards Open-Ended Referring Segmentation via Set-Level Concept Prediction
