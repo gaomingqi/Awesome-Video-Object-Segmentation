@@ -162,6 +162,8 @@ for Efficient Vision-Language Segmentation
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Towards_Streaming_Referring_Video_Segmentation_via_Large_Language_Model_CVPR_2026_paper.pdf) / [code](https://github.com/wkzhang636/StreamingRVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Towards Streaming Referring Video Segmentation via Large Language Model
 
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_DeRVOS_Decoupling_Consistent_Trajectory_Generation_and_Multimodal_Understanding_for_Referring_CVPR_2026_paper.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation
+
 :orange_square: `RVOS` `Findings` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2604.17797) / [code](https://github.com/viscom-tongji/WSRVOS) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Weakly-Supervised Referring Video Object Segmentation through Text Supervision
 
 :red_square: `AVOS` `Findings` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2506.01015) / [code](https://github.com/yyliu01/AuralSAM2) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
@@ -169,6 +171,10 @@ for Efficient Vision-Language Segmentation
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.12006) / [project page](https://sohyun-l.github.io/RobustPVOS_project_page/#) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Robust Promptable Video Object Segmentation
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2603.26929) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Live Interactive Training for Video Segmentation
+
+:blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_Efficient_Video_Object_Segmentation_and_Tracking_with_Recurrent_Dynamic_Submodel_CVPR_2026_paper.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel
+
+:blue_square: `SVOS` `Findings` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Yang_Extending_Segment_Anything_Model_2_to_Multi-Object_Tracking_by_Optimizing_CVPRF_2026_paper.pdf) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Extending Segment Anything Model 2 to Multi-Object Tracking by Optimizing Hierarchical Trajectory Memory
 
 ---
 ### <span id="iclr26">ICLR 2026</span>
@@ -202,6 +208,8 @@ for Efficient Vision-Language Segmentation
 ### <span id="j26">Journals 2026</span>
 
 :blue_square: `SVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/11520567) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Mask-Guided Self-Supervised Video Object Segmentation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/11535029) / [code](https://github.com/longmalongma/DeSa2VA) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TPAMI` Decoupled Seg Tokens Make Stronger Reasoning Video Segmenter and Grounder
 
 :orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://ieeexplore.ieee.org/abstract/document/11511402) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; `TIP` Context-Infused Trajectories: Enhancing Context and Frame Consistency in Reasoning Video Object Segmentation
 
