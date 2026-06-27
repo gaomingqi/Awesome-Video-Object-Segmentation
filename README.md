@@ -53,7 +53,7 @@ Latest Advances in Video Object Segmentation (VOS). VOS works before 2022 can be
 
 ---
 
-Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[CVPR 2026](#cvpr26)🔥, 🔥[ICLR 2026](#iclr26)🔥, [AAAI 2026](#aaai26), [NeurIPS 2025](#nips25), [ACM MM 2025](#mm25), [SIGGRAPH 2025](#sig25), [ICCV 2025](#iccv25), [CVPR 2025](#cvpr25), [ICLR 2025](#iclr25), [AAAI 2025](#aaai25), [Journals 2025](#j25), [Earlier ArXiv 2025](#a25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
+Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ECCV 2026](#eccv26)🔥, 🔥[CVPR 2026](#cvpr26)🔥, [ICLR 2026](#iclr26), [AAAI 2026](#aaai26), [NeurIPS 2025](#nips25), [ACM MM 2025](#mm25), [SIGGRAPH 2025](#sig25), [ICCV 2025](#iccv25), [CVPR 2025](#cvpr25), [ICLR 2025](#iclr25), [AAAI 2025](#aaai25), [Journals 2025](#j25), [Earlier ArXiv 2025](#a25), [NeurIPS 2024](#nips24), [ACMMM 2024](#acmmm24), [ECCV 2024](#eccv24), [CVPR 2024](#cvpr24), [AAAI 2024](#aaai24), [Journals 2024](#j24), [Earlier ArXiv 2024](#earxiv24), [EMNLP 2023](#emnlp23), [NeurIPS 2023](#nips23), [ACMMM 2023](#mm23), [ICCV 2023](#iccv23), [CVPR 2023](#cvpr23), [IJCAI 2023](#ijcai23), [AAAI 2023](#aaai23), [Journals 2023](#j23), [Earlier ArXiv 2023](#earxiv23), [NeurIPS 2022](#neurips22), [ECCV 2022](#eccv22), [CVPR 2022](#cvpr22), [AAAI 2022](#aaai22), [Journals 2022](#j22)
 
 ---
 ### 🏁 <span id="workshopschallenges">VOS Workshops and Challenges</span>
@@ -146,6 +146,13 @@ for Efficient Vision-Language Segmentation
 :blue_square: `SVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.20886) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; V2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence
 
 :orange_square: `RVOS` `Nov` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2511.21139) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; ReVSeg: Referring Video Object Segmentation with Cross-Modality Proxy Queries
+
+---
+### <span id="eccv26">ECCV 2026</span>
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2606.25585) / [code](https://github.com/FudanCVL/FeVOS/) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; FeVOS: Foresight Expression Video Object Segmentation
+
+:orange_square: `RVOS` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2606.24464) / [code](https://github.com/Tony1882880/GeoLaV) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Boosting Text-Driven Video Segmentation via Geometry-Aware Distillation
 
 ---
 ### <span id="cvpr26">CVPR 2026</span>
