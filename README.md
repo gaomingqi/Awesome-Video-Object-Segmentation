@@ -86,7 +86,13 @@ Links for a quick jump: [ArXiv (within 6 months)](#arxiv), 🔥[ECCV 2026](#eccv
 
 ### <span id="arxiv">ArXiv (Last 6 months)</span>
 
-:orange_square: `RVOS` `June`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2606.06819) / [code](https://github.com/Dmmm1997/VideoSEG-O3) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation
+:blue_square: `SVOS` `Jul`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2607.08688) / [code](https://github.com/FudanCVL/SAM-MT) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM-MT: Real-Time Interactive Multi-Target Video Segmentation
+
+:orange_square: `RVOS` `Jul`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2607.02922) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; STAC: Selective Spatiotemporal Aggregation and Compression for Video Reasoning Segmentation
+
+:diamond_shape_with_a_dot_inside: `VMAT` `Jun` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2606.27339) / [code](https://github.com/FudanCVL/SAM2Matting) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; SAM2Matting: Generalized Image and Video Matting
+
+:orange_square: `RVOS` `Jun`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2606.06819) / [code](https://github.com/Dmmm1997/VideoSEG-O3) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation
 
 :green_square: `UVOS` `May`  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/pdf/2605.30352) / [code](https://github.com/Jyxarthur/gmos) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; GMOS: Grounding Moving Object Segmentation in 3D Space and Time
 
